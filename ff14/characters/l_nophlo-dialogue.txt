@@ -1,0 +1,3 @@
+Greetings, sir. This is the counter for passengers traveling to Gridania.
+...Wait, aren't you that famous adventurer? It's Forename Surname, isn't it? I thought I recognized you! You are an inspiration to us all, sir! Highwind Skyways is at your disposal! Will you be traveling with us today?
+Take your time, sir. I'll be glad to assist you when you're ready.

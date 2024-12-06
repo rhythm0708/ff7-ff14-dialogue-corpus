@@ -1,0 +1,65 @@
+<blip> Initializing... Scanning for registered user...
+User not found. To proceed as a guest, please complete biometric authentication.
+<blip> Verifying...
+<bloop> Authentication complete. Guest identified as: member of the royal family. I am at your most humble service, Your Highness.
+Hm hm hm! It never ceases to amuse me. 'Tis but a pity the effect will not last forever.
+Doga and Unei said as much when they granted me this gift. But until such time as it fades, I shall use it gratefully.
+Search archive for “Eikonic Corruption.”
+<blip> Searching...<bloop> One item found: Eikonic Corruption ─ An Overview.
+The report is locked by the author. Please state password.
+Well, go on then, Your Highness. Tell the nice node the password.
+The, uh... Right! Let's see...
+Glory be to Allag!
+<bzzt> <bzzt> <bzzt>
+Long live Emperor Xande!
+<bzzt> <bzzt> <bzzt>
+<blip> <bloop> Password incorrect. Please try again.
+Confound it!
+Come now, passwords are invariably short and simple. For instance...
+Password!
+<bzzt> <bzzt> <bzzt>
+The notion that the password could be something so inane would be laughable were it not dangerously stupid. Furthermore, your conduct in the presence of His Highness is grossly inappropriate. Know your place, handmaiden.
+What did that thing just call me!?
+<bzzt> <bzzt> <bzzt>
+<blip> <bloop> Password incorrect. Again. Be warned that any further inappropriate behavior in the presence of His Highness will not be tolerated.
+All right, that's it. I say we dismantle it and manually extract what we need.
+Now, now, let's not be too hasty! A single misstep, and we risk losing the report altogether.
+I believe this may be a task for Cid and his colleagues. If anyone can coax machina into cooperating, it is them.
+Come, let us bear the node back to the Rising Stones.
+I should probably mention that I have yet to meet Cid since waking up. Rammbroes did send word to the Ironworks, but it appears our friend has been afield on urgent business.
+Nevertheless, I assure you my proposal to seek his help is no pretext, however much I might look forward to seeing him again. Him and everyone. But come, let us be on our way.
+Hehehe! Look at him, all but running... How sweet.
+Still, it wouldn't do to keep him waiting. Shall we?
+Wonderful news, Forename! Tataru contacted Cid on our behalf, and he is on his way here even as we speak!
+While we wait, I should like very much to hear what transpired at the Alliance council. Would you be so kind, Krile?
+As you know, the meeting was convened to discuss how best to respond to recent events in Garlemald.
+According to intelligence from our Doman allies, the war of succession rages on, and the Empire remains without a leader.
+Amidst the chaos, the imperial legions in the provinces have begun to move independently of the motherland.
+Of greatest concern to us is the IIIrd, a legion aligned with Lord Nerva. It appears they have received substantial financial backing from House Brutus.
+Brutus... Aren't they the ones who took in Yotsuyu and Asahi? This bodes well...
+Zenos's movements, meanwhile, remain shrouded in mystery. We're hoping that Thancred and Urianger will be able to shed some light on his activities when they return.
+Until such time as they do, the Allied leaders feel it would be unwise to interfere in the conflict. And so, thanks in part to the imperial withdrawal from Ghimlyt, they have decided to turn their attention to the primal problem once more.
+Working with friendly factions among the beast tribes, they hope to reopen dialogue and explore new avenues for peace.
+Given the timing, I suspect they wish to put their respective houses in order ahead of a decisive clash with the Empire.
+Whatever their intent, this is not a problem easily solved. The Lominsans, in particular, struggle in their efforts, and Alphinaud and Y'shtola have been called upon to aid them.
+So long as we are dealing with the tempered, I'm afraid no amount of dialogue will avail us.
+But if we can develop a treatment for tempering, then anything is possible!
+Which is why we must succeed.
+And on that cheery note, why not make yourselves comfortable in Dawn's Respite? I'll show Cid in as soon as he arrives!
+Cid!
+Forgive us for not coming to see you sooner, my friend. As you may have heard, we've had our hands full.
+In our defense, you are up rather early. I was under the impression you'd be slumbering awhile longer.
+Oh, I would have been─had you not fulfilled your promise.
+Hah! I still struggle with that idea. From where I stand, the secrets of traversing time and space seem exactly as unfathomable as they ever did.
+But if an alternate version of myself has already laid them bare, I daresay that frees me up to concentrate on other endeavors. Speaking of which, you wanted my help with something. What is it?
+Well, well...a treatment for tempering. And for the next step, you need to find the password to this Allagan's report...
+Just so. With nary a clue to guide us, we could be here forever and still not guess correctly. And thus we turn to you.
+Well, I'd love to say that we could help you...so I will. Once suitably configured, a magitek terminal should make short work of identifying the password.
+I knew I could rely on you. Now, anticipating that it might be of use, I took the liberty of borrowing a tomestone from Rammbroes. It contains an Allagan dictionary.
+Good thinking. I'll transfer the information to a terminal and set it to work right away.
+Ah, looks like it's finished. Let's see...
+“Freedom.” The password is “freedom.”
+Hah. Short and simple, just as I said. Would you care to do the honors, Your Highness?
+I would, milady!
+Node, open the report entitled “Eikonic Corruption ─ An Overview,” password: freedom!
+Password accepted. <bloop> Opening report...

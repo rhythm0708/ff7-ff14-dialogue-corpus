@@ -1,0 +1,112 @@
+The core system is presently updating registered user data.
+Ah, there you are!
+If Queen Sphene has registered you as guests, you should be able to march right in.
+And if she hasn't?
+Then you may have a swarm of Zoraal Ja's minions to deal with.
+Nothing for it but to see if Sphene has betrayed us, eh?
+Thank you for your diligent service, friends. My companions and I would like to pass, if you'd be so kind?
+Outrunner guide unit identified. Registration number...verified.
+Six accompanying civilians identified. Verifying credentials...
+Credentials verified. Welcome, guests of Queen Sphene.
+What a relief...
+There you have it. It seems the queen was true to her word.
+Follow me, everyone. Solution Nine awaits!
+Everkeep, a tower of electrope piercing a perpetual shroud of storm clouds.
+Occupying the ninth level of this twelve-tiered structure is a residential district called Solution Nine.
+In so naming their home, what hopes did its founders harbor for it? And did it prove the answer they sought?
+Spectacular, isn't it?
+There are more districts throughout the tower, including industrial ones, but Solution Nine is the largest.
+Just being here makes my head spin...
+Hehe, a perfectly natural reaction.
+A city of shimmering electrope, replete with strange technologies that cater to every conceivable need. We never dreamed of the like back home in Tuliyollal.
+Now, while I go and explain the situation to those in the Backroom, why not take a moment to explore?
+I believe lived experiences are far more educational than dry explanations.
+And you want to know more about Sphene and Zoraal Ja's dominion, do you not?
+Heh, I had a feeling you'd be keen.
+It's no less than our duty.
+Just to confirm─while we have been allowed inside, are we also permitted to roam?
+Absolutely. As Sphene's registered guests, you'll find you're exempt from the sentries' scrutiny.
+Ah─the elevator to the uppermost level. I wouldn't go near that, but other areas should be fine provided you act like you belong.
+Alright, then. We'll show ourselves around.
+Yes. Familiarizing ourselves with the technology here will help us prepare for the battles to come.
+Try not to enjoy yourselves too much, or you're liable to attract attention.
+Once you've explored to your satisfaction, come to the entrance to True Vue in the eastern sector.
+The way from there is a little complicated, so I'll send someone to guide you.
+Understood. We'll see you later.
+I shall speak with the residents. Perhaps one of them will recognize the earring.
+What's with this place? How can this all be the inside of a tower?
+...So, what aren't you telling me? Where are you?
+That, I can't reveal yet─precautions, you understand. Just know that I'm safe.
+But come, tell me about your adventurer friend. You seem to have a great deal of faith in her.
+You must have been through a lot together.
+You might say that. For instance, we found the entrance to the golden city.
+Wait...what? You did?
+Elene'shpya! Why didn't you mention this sooner!?
+Um... You want to explore together?
+It's not that I'm scared or anything... Everything is just so different from home, is all!
+Towers inside a tower... I see it but I still can't believe it...
+Hmm... For now, I say we proceed straight ahead! If we feel like we're getting lost, we can always turn around and go back the way we came.
+Ugh, a crossroads already? This place is too much... I've no idea where I should go...
+Right, I've made up my mind! Let's head to that building there!
+Ah! There you are, Lamaty'i!
+Sphene!
+I was worried you might have had trouble at the checkpoint, but I see everything went according to plan.
+Well, that's thanks to you.
+Now, I know you've scarcely arrived...but I have a request to make of you.
+Oh. A request, you say?
+Yes. An important one.
+I'll say it plain. I want you to make peace with Zoraal Ja.
+What? I thought you said you weren't on his side.
+We have come no closer to seeing eye to eye. Nor do I condone his methods.
+Be that as it may, I don't want you to fight him. I don't want you to regret a decision made in anger and haste.
+Unequipped with regulators as you are, the risk is too great.
+I appreciate your concern, but you ask the impossible.
+Zoraal Ja murdered our father. His minions slaughtered our countrymen. He will never renounce his war. As Vow of Resolve, it falls to me to stop him.
+I know you love your people too, and so you must understand how I feel. Why I cannot─will not─back down.
+I do understand. All too well...
+Let me say only this, then.
+Zoraal Ja will use any means to win. If you would protect your people, return to them at once and prepare. Prepare as best you can.
+It may ring hollow, coming from the queen of an enemy nation...
+But unlike me, you still have the power to determine your own fate.
+You really are a curious one.
+Look, you needn't worry for us. We have dependable comrades holding the fort in Tuliyollal.
+They'll keep everyone safe, so we can devote our attention to affairs here.
+Please...!
+So you have comrades on whom you can rely...
+I envy you.
+You know, we'd like to learn more about you.
+About me?
+To be frank, we're still not sure whether or not you're trustworthy.
+So if you have a moment, would you show us around the district? That way, we can get to know you better.
+Hehehe... You're asking me─the queen─to “show you around”?
+Oh, but I jest. I'm flattered that you've taken an interest in me.
+Very well, I shall be your guide. You're my guests, after all, and teaching you about my realm would be a pleasure in and of itself.
+If you like, I can introduce you to my citizens, too. I consider them family, as you do yours.
+By all means! We're in your capable hands.
+That you are. This will be an enjoyable and enlightening tour, I promise!
+With Sphene as our guide, we needn't fear getting lost!
+Let's begin then, shall we?
+I must say I'm really grateful. This place is so vast and confusing, I didn't even know where to begin.
+While the district may seem daunting in size and structure, all the key facilities are situated near leynodes─what you call aetherytes. Remember this and you won't lose your way.
+Now then, seeing as it is right here, I will show you the Nexus Arcade first.
+Please follow me!
+This complex is home to all manner of shops. From food and daily necessities to technological conveniences, you can find most everything here.
+Everkeep's interior is vast, as you've observed. This arcade makes it possible for people to acquire what they need in one centralized location.
+Amazing!
+How do you get to the upper levels? I don't see stairs...
+Do you see the glowing pattern over yonder? That is an automatic conveyor.
+Such contraptions are found throughout Everkeep, allowing us to swiftly move between faraway places.
+That will spare us some walking. Are they also made from that strange metal? Elec...whatsit.
+<chuckle> Yes, the conveyors are powered by electrope.
+As a matter of fact, the ore is integrated into just about everything in Everkeep. Even the floors and walls.
+By etching arcane circuits upon it, electrope can be used to convert lightning energy to those of other elements.
+In so doing, we can achieve various effects. For instance, a conversion to wind produces flotation, which is required for the propulsion of our flying vehicles.
+A conversion to fire, meanwhile, produces light and heat, and it is employed in devices such as street lamps and heaters. There are even self-heating cups that keep your drink warm.
+Can you make a drink cold if you convert to ice instead?
+You certainly can! Our vending machines do just that.
+What's more, multiple energies can also be combined to produce some clever effects. For instance, by manipulating the air with wind while projecting light with lightning, it is possible to alter one's appearance.
+It's almost scary what you can do with electrope... If such a wondrous material existed in our world, I imagine everyone would be fighting over it.
+This shop over here─what does it sell?
+Ah, yes. Let's go and take a look!
+I daresay you will find it interesting.
+What's all this...?

@@ -1,0 +1,55 @@
+Hostiles detected! Engaging!
+It's not easy being an engineer...
+Hah! That did the trick!
+Hah! That did the trick!
+Damn it! The armor has gone into overdrive! If you value your life, stay out of its sights!
+At last, our very own suit of magitek armor!
+Hmmm... Not wishing to look a gift chocobo in the beak, it does seem rather the worse for wear, doesn't it?
+Biggs, Wedge─what's your honest assessment?
+Weeell...there's the fact that she's smoking, of course... But looking past that, I'd say she was structurally sound.
+Hmmm...I don't like the way these legs are buckled. I hate to say this, but the servomechanism may be damaged.
+Eh? But aren't those things protected by ilm-thick armor plate?
+They are, yes... It's odd─the casing doesn't seem to have taken a blow. I suspect we're dealing with a faulty part.
+Well, whatever it is we're dealing with, we're not resting till it's fixed! Not one wink of sleep─you got that, Wedge?
+Oh... <mumble> <mumble> ...ing cart chocobo.
+I heard that!
+A hall has been set aside for our use in Revenant's Toll.
+That's where we'll carry out the repairs. Look for us there, Forename.
+...The magitek armor? Cid and the others took it inside. Go on in and join them.
+We've now had time to take a closer look at the reaper. Our preliminary diagnosis was correct─she's structurally sound, but her servomechanism is faulty.
+You needn't worry, though─Biggs and Wedge will see her restored to her former glory in no time at all. Give those two something to mend, and they will think of naught else till the job's done. 'Tis a marvelous thing to behold─provided you remind them to visit the privy.
+The repairs are proceeding apace. It shouldn't be long now before Biggs and Wedge complete their work. There is, however, one small problem...
+As you may recall, the machina's servomechanism was discovered to be faulty. Wedge has subsequently ascertained that the magitek core which drives it is worn beyond use.
+Such cores are rather fragile devices which must be replaced at regular intervals. Thanks to the negligence of our imperial colleagues, however, the one used in this reaper was long overdue.
+Alas, we do not have access to a ready replacement here in Mor Dhona. But all is not lost: Wedge thinks he may have identified an alternative solution. Go and see him, would you? He'll explain the details to you.
+As I believe the chief has already informed you, the magitek core is worn beyond use. We need to find a replacement.
+I thought about having you appropriate more reapers, but even if the dunderhead maintenance engineers of Castrum Centri had remembered to replace their cores, we would risk arousing imperial suspicion.
+But do not despair, for I believe there is a solution: to substitute the magitek core with a mammet heart!
+In case you don't know, a mammet heart can be used to grant sentience to an automaton. By my reckoning, such a device should be more than capable of regulating the armor's servomechanism. We'll just need to make some minor modifications to the housing unit.
+I've already placed an order for a first-rate mammet heart with the Goldsmiths' Guild. All that remains is for someone to go to Ul'dah and collect it! Oh...and to pay for it. Ahem. Did I...mention how much they cost? No? W-Well, they typically cost something in the order of, um... <mumble> I hope you don't mind footing the bill─it's for a good cause!
+Hello there! Come to collect a mammet heart, you say?
+Then you must be here on behalf of Garlond Ironworks! I've taken the liberty of picking the finest example we have─a heart fit for a prince among mammets!
+...Payment? Oh, that won't be necessary. The heart is for Master Alphinaud's personal use, after all. He notified us a short while ago that his servant would be coming to collect it.
+Tender in years though he may be, Master Alphinaud has been a benefactor of ours since my predecessor's time. The Goldsmiths' Guild wouldn't dream of charging him.
+But here is the mammet heart! May it serve you well! Oh, and please do pass on my compliments to your master!
+Want to go in? It hardly needs saying, but try not to be seen.
+Do you have the mammet heart? I can't wait to see if it works!
+Hurrah! Thank you so much!
+<gasp> But this...this is magnificent! It must have cost an emperor's ransom!
+...Free of charge, courtesy of Alphinaud!? Coming from an influential family certainly has its advantages!
+But without further ado, let's give it a try! I've already modified the housing unit, so it should slot right in!
+There! She's ready! Magitek armor...engage!
+...Or not.Haha...hah... She just needs a loving tap, I'll wager.
+  			 Yes! She's...she's ALIVE!
+ Let's take her outside and put her through her paces! Forename, would you care to do the honors?
+Yes! She's...she's ALIVE!
+Let's take her outside and put her through her paces! Forename, would you care to do the honors?
+Hop into the pilot's seat! We'll begin as soon as you're ready!
+First, I'd like you to try climbing that tangle of crystals yonder─as far up as you can go, if you please.
+Oh, and if for some reason you need to dismount, simply come back here and we'll start again.
+No anomalous movements evident from either leg. Good. Next, jump back down and then sprint north, quick as you can!
+Leg joints absorbing all impact without incident... Excellent. Please make your way back, Forename.
+The torso remains stable during vigorous motion... Excellent. And that concludes our test. Thank you for your cooperation!
+Here is a summary of my findings. The drivetrain is in sound condition. With some fine-tuning, we can expect a noticeable improvement in performance. As for the servomechanism...
+I'm afraid it's not nearly as responsive as it should be, and I'm at a loss to explain why. The mammet heart is in pristine condition, and should be installed correctly. Perhaps its inner workings are simply too different to operate harmoniously with the armor's other mechanisms?
+Whereas magitek cores serve only to conduct impulses, mammet hearts enable automata to process the information collected by their sensors as feeli─ <gasp> Feelings! Maybe she just doesn't feel like part of the team!? In which case, we should all do our best to make her feel welcome!

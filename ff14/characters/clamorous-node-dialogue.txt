@@ -1,0 +1,10 @@
+<blip> <bloop> WARNING. Scheduled dragon restraint maintenance due in: -2,020 years. Failure to verify system integrity may result in unscheduled specimen release.
+I am afraid Estinien and I have little to show for our efforts. Did you find anything?
+Hmph. I know the one─though I thought the stench more akin to a fire in a manure shed. But it seemed likelier to explode than grant our wish. Surely there must be another?
+Only if they are willing to lead us to the node we seek...which I somehow doubt. But from what I recall of the Flagship's design, the node you found could facilitate communications throughout Azys Lla, so we may yet find a use for it.
+Spontaneously, you say? Well, that does sound promising. Almost suspiciously so, in fact...
+But then you were in possession of the spirit vessel... Hm. I daresay it is indeed the node of which G'raha spoke.
+And it was “chirruping,” you say? Very well, let us take a closer look.
+<blip> Do you wish to operate the dragon restraint mechanisms?
+<blip> <bloop> You do not have the requisite access privileges. Operation of the dragon restraint mechanisms may only be undertaken by the chief technologist and members of the royal family.
+Or those with a vessel full of royal blood, perhaps.

@@ -1,0 +1,90 @@
+PlEaSe SpEcIfY dEsIrEd AeThErIaL aSpEcT!
+We'll head to the outskirts of the village first, then set the seeker to detect fire-aspected aether.
+SeNsOrS sEt To DeTeCt AeThErIaL aSpEcT: fIrE.
+Right, the seeker is ready to go. Worlar's Echo is still suffused with the Skyruin's residual aether, so I've excluded it from the search area to prevent it from swamping the sensors.
+Let's begin tracking, shall we?
+AfFiRmAtIvE! tRaCkInG nEaReSt SoUrCe Of FiRe-AsPeCtEd AeThEr!
+AfFiRmAtIvE! tRaCkInG nEaReSt SoUrCe Of FiRe-AsPeCtEd AeThEr!
+FiRe-AsPeCtEd AeThEr DeTeCtEd!
+Don't look at me─the seeker is pointing the way.
+We need to keep up with the seeker, or we won't be able to track Valigarmanda. Let's head back to Worlar's Echo and see if we can pick up the trail.
+Understood. Come back to the village entrance when you're ready to pursue our quarry without interruptions.
+Are you sure you're ready this time? Then let's resume tracking.
+AfFiRmAtIvE! rEsUmInG tRaCkInG!
+AfFiRmAtIvE! rEsUmInG tRaCkInG!
+WeLcOmE bAcK! rEsUmInG tRaCkInG!
+Ready? Don't let the seeker out of your sight this time.
+Ready? Don't let the seeker out of your sight this time.
+WeLcOmE bAcK! rEsUmInG tRaCkInG!
+WeLcOmE bAcK! rEsUmInG tRaCkInG!
+<beep> SoUrCe Of FiRe-AsPeCtEd AeThEr LoCaTeD. tRaCkInG dIsEnGaGeD.
+Not quite the legendary creature we were after.
+Would you mind dealing with that fire sprite? It will continue to confuse the seeker if we leave it be.
+You'll have to snuff out that sprite before we can resume tracking. Take care you're not burned in the process.
+PlEaSe SpEcIfY dEsIrEd AeThErIaL aSpEcT!
+PlEaSe SpEcIfY dEsIrEd AeThErIaL aSpEcT!
+A necessary measure, I'm afraid.
+Let's try this again...
+AfFiRmAtIvE! tRaCkInG nEaReSt SoUrCe Of FiRe-AsPeCtEd AeThEr!
+FiRe-AsPeCtEd AeThEr DeTeCtEd!
+<beep> SoUrCe Of FiRe-AsPeCtEd AeThEr LoCaTeD. tRaCkInG dIsEnGaGeD.
+Frightening enough, but again, not what we were looking for.
+If you would be so kind...?
+As I said, the seeker method is not without its faults. Once it locks onto a source, it will follow it forever.
+PlEaSe SpEcIfY dEsIrEd AeThErIaL aSpEcT!
+PlEaSe SpEcIfY dEsIrEd AeThErIaL aSpEcT!
+My thanks. I'd ask if it gave you any trouble, but considering who I'm talking to...
+Seeker, resume tracking. And do try to point out something useful this time.
+AfFiRmAtIvE! rEsUmInG tRaCkInG!
+FiRe-AsPeCtEd AeThEr DeTeCtEd!
+<beep> SoUrCe Of FiRe-AsPeCtEd AeThEr LoCaTeD. tRaCkInG dIsEnGaGeD.
+Ah, another remnant of Valigarmanda's last rampage. The crater's flames registered to the seeker as corporeal aether...
+In the words of the Tuliyollal Saga, when Valigarmanda rages out of control, its fire burns forever, its ice does not thaw, and its lightning crackles without cease. Thus was the Dawnservant able to turn the Skyruin's perpetual magic against itself, trapping it within an unmelting prison of ice.
+This is no mundane fire, but some kind of...everlasting sorcery. Once again, it is a strange feeling to see fanciful poetry proven true...
+The important thing is that the fire was classified as living aether─we can feed a sample into the seeker and greatly improve its accuracy. One moment...
+SaMpLe AnAlYzEd. ReCaLiBrAtInG sEnSoRs.
+There. Now the seeker should ignore any aetheric signature but Valigarmanda's.
+...Had I realized this was possible from the start, then you needn't have fought those creatures at all.
+My apologies. It seems I still have much to learn from this journey─as a gleaner, and as a guide.
+This time, the seeker should be attracted solely to Valigarmanda's aether.
+Resume tracking based on the latest sample.
+AfFiRmAtIvE! rEsUmInG tRaCkInG!
+<beep> SaMpLe AeThErIaL sIgNaTuRe DeTeCtEd. EnGaGiNg AcCeLeRaTeD pUrSuIt MoDe!
+<beep> SoUrCe Of AeThErIaL sIgNaTuRe LoCaTeD. tRaCkInG dIsEnGaGeD.
+Good, the seeker was drawn directly to the Skyruin's fire. Now we know we've set the correct parameters for its aetherial aspect.
+I'll try increasing the threshold for aetheric concentration─that should direct us to the tural vidraal itself.
+ReCaLiBrAtInG sEnSoRs. ReSuMiNg TrAcKiNg!
+<beep> AeThErIc SiGnAtUrE dEtEcTeD aHeAd.
+I think we'd notice if Valigarmanda was inside this passage. Let's head through to the other side.
+<beep> AeThErIc SiGnAtUrE lOsT!
+The trail ends here, it seems.
+Could Valigarmanda have shifted its elemental aspect...? It does have three to choose from, after all.
+In any case, I'm almost certain the vidraal was headed in the direction of Worqor Lar Dor.
+We should let the others know we have a likely location.
+Alphinaud is assisting the Yok Huy with their evacuation. He thought they could use a healing hand with the injured.
+So, where is Valigarmanda?
+Worqor Lar Dor. Its stratified layers contain a wealth of crystals, said to be the source of its many-colored glow.
+After eighty years of imprisonment, the vidraal will be in dire need of sustenance. It would've been drawn to the mountain's energies.
+So Valigarmanda seeks to replenish its aether...
+Then we'd better not give it the chance.
+Stop!
+That mountain is sacred ground. I forbid you to set foot on it.
+Sorry, we... It is not our intention to trespass.
+But you must understand. That's where Valigarmanda has gone!
+If we don't slay it now, it will slaughter countless innocents─just like in the old days. I beg you, permit us to enter!
+Out of the question.
+Your band is incapable of defeating Valigarmanda. Either you seek to defile Worqor Lar Dor, or you are fools.
+If you doubt their chances, how would you feel were we to join them?
+The monument to Valigarmanda's defeat bears the names of seven heroes. With our forces combined, we also number seven.
+Seven weaklings are no less doomed than four.
+Zoraal Ja! You've come to help as well!
+Against my sound advice. While the rest of you were tussling with the Skyruin, we might have secured an insurmountable lead.
+A minor delay. It will not change the contest's outcome.
+I would take the measure of this tural vidraal my father was unable to kill.
+With both my brothers here, this battle is all but won!
+Your celebration is premature. I never said I would let you pass.
+Brother, no! We do not bear arms against our own people!
+What an odd thing to say. As I recall, the inhabitants of Chirwagur Saltern do not consider themselves members of the Tuliyollal nation.
+I'd hardly call them “our own people.”
+What does that matter!? Members or not, everyone in Tural is part of our dream for peace!
+If you would hurt them, then you'll have to go through me!

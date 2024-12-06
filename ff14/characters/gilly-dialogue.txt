@@ -1,0 +1,75 @@
+<blip> Initiating...Performing diagnostics...<blip> Diagnostics complete.To proceed, please agree to the terms and conditions of use.
+Thank you. To register as a user, please state your name.
+I'm Wedge, and that there is Forename!
+<blip> User registration complete. Welcome to Azys Lla, Master Wedge and Mistress Forename. I am Guidance Node G-LI.
+Hm. This isn't quite what I had in mind, but it might just serve.
+Wedge, bring the node this way, would you? There's something I'd like to try.
+Node! I need a status report on the facility!
+Gilly! You have to do what the chief says!
+Yes, that's it! Good girl!
+Ah, here we are... Hmmm, not much of note. It appears someone recently reactivated “Helix,” which is this area.
+Reactivated, you say?
+By the archbishop, I'd wager. I daresay he woke the place up when he used the Vanu's key.
+Are there any other people in the facility? If so, where?
+Let's see here... On the “Flagship”─that's the central isle─I'm seeing positive readings within the Aetherochemical Research Facility and the Fractal Continuum...
+And what have we here? Intruders detected in the Gamma Quadrant, defense system engaged.
+Our imperial friends, I suspect. I hope they enjoy the defense system. But what of the archbishop and his cronies?
+Hmmm, what might offer an indication? ...Ah! How about this: which area is currently consuming the most energy?
+...Somewhere called “Triad Control,” inside the research facility.
+And what manner of place is that?
+It is, and I quote, “a regulation facility for the 'Warring Triad' test subjects.” And that's all it says. The rest of the information is only accessible to users with consular privileges.
+I mislike the sound of this...which leads me to believe that it is indeed the place.
+I am inclined to agree with Y'shtola. Whatever it is that the archbishop seeks, it is like to be there.
+That settles it, then. Let's find a way to cross over to the Flagship.
+<blip> Greetings, Mistress Forename. Is there something you wish to know?
+Determining a recommended location for routine inspection...Location determined.
+<blip> Requesting access to the Aetherochemical Research Facility...Access granted. Generating route...
+<blip> Route generated. Commencing guidance to chosen destination.
+Please be aware that the designated route may take you through restricted sectors, and that the isle's defense systems may attempt to terminate you.Be kindly reminded that, in accordance with the terms and conditions of use, you and your party assume all risk of damage or injury, including death, that may occur en route to your destination.
+Can the guidance node be trusted? I know not, but we have few other options. Let us see where it leads us.
+Forename, Y'shtola, Estinien─we four shall proceed to the research facility.
+Cid, the Excelsior is our sole means of escape. Pray remain here and have her ready to depart at a moment's notice.
+Understood. We'll see that she's repaired and ready to fly. If anything happens, just let me know via linkpearl.
+Be on your guard, my friends─the enemy could be anywhere.
+<blip> You are currently within the Alpha Quadrant.
+First, you must use the nearby matter conduit to travel to the Beta Quadrant. Please wait a moment while I activate it.
+According to my records, this conduit was last serviced approximately five thousand and fourteen years, six months, eleven days, seven hours and thirteen minutes ago.
+That it should function without mishap may be described as a miracle.
+<blip> Resuming guidance to the Aetherochemical Research Facility. Please follow me.
+This sector, the Beta Quadrant, is home to laboratories which produce chimerical life-forms for both military and household applications.
+Our facility has been awarded three-star certification for compliance with ASO-3001. The good behavior of the creatures born here is guaranteed.
+Please be warned, however, that millennia of neglect may have had an adverse effect on their disposition. For your own safety, please refrain from approaching the creatures.
+<blip> Unable to activate matter conduit. Energy shortage detected.Identifying cause...
+Cause identified: unauthorized siphoning of energy by chimerical creatures.Locations: the Recombination Labs and the Biomass Incubation Complex.
+Time is short─let us split up and eliminate the culprits. Forename, pray dispatch the creatures at the Recombination Labs.
+The rest of us shall sweep the Incubation Complex. Take care, and return hither when you are done.
+<blip> Energy restored to the conduit. Please wait a moment while I activate it.
+So the Garleans managed to land... Repairs on their vessel appear to be well underway.
+I doubt that they will leave any time soon, however. Nay, they will remain here long after they have stripped the isle of all its secrets.
+Whether or not they mean to linger, their presence here and now is an unwelcome complication.
+Indeed. Let us avoid confrontations unless absolutely needful.
+Warning: intruders detected in force in this quadrant. It is recommended that you avoid confrontation where possible.
+Be kindly reminded that, in accordance with the terms and conditions of use, you and your party assume all risks of damages or injury, including death, that you may sustain in the course of guidance.
+Please follow me to the next matter conduit. It leads to the Delta Quadrant, where the facility's greatest achievement is located.
+Wait. Something is afoot.
+Our objective lies at the heart of the isle.
+The Third will remain to guard the ship, while the Second patrols the perimeter and eliminates any threats.
+The First will come with me to secure the research facility.
+Let no man doubt the import of our mission: the Allagans found a means to capture eikons alive, and their knowledge lies hid upon this isle.
+If we can but acquire it, we would be able to prevent the beings from returning to plague us, thus ending the cycle of rebirth.
+I need not remind you that success will raise our legion high in the Emperor's regard.
+Yet, by the same token, His Radiance does not tolerate failure. That is all. All troops, prepare for deployment!
+So that is their purpose.
+To think that the knowledge used to bind no less a being than Bahamut sleeps here...
+Imprisoning a primal in such a manner would represent an effective means to halt the cycle of summoning─were it not for the grave and obvious risks.
+Indeed. We need but refer to past experience─that of Bahamut's calamitous return─to see why this is not the solution we seek.
+Held in duress, a primal will continue to nurse its hatred for mankind. And when it inevitably breaks free, its rage will be beyond quelling.
+Whatever folly the Garleans mean to commit, they can wait. We must remain focused on our task.
+Yes, of course. It would not be polite to keep the archbishop waiting.
+<blip> That you have survived to this point is in defiance of possibility. But it appears the danger is not yet past.
+<blip> <bloop> WARNING! Intruders approaching. Please eliminate them if you wish to proceed.
+That would explain my men's silence.
+We meet again. And this time, we will not be interrupted.
+Come! Show me your power, champions of Eorzea!
+Come, eikon-slayer. Impress me.
+Surely you can do better than that.

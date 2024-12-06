@@ -1,0 +1,5 @@
+Greetings, good madam. This is the counter for passengers traveling to Ul'dah.
+Oh, are you not Forename Surname, the Lominsan envoy? On behalf of all at Highwind Skyways, may I say what an honor it is to serve you! Will you be flying with us today?
+Very well. When you are ready to board, please let me know.
+Ah, you must be the envoy from Limsa Lominsa! Welcome to Ul'dah, madam. The Flame General awaits your arrival.
+Please let me know if you require any assistance.

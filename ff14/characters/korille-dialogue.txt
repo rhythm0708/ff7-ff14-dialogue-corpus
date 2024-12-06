@@ -1,0 +1,398 @@
+An outsider!? B-But how?
+By the gods─allies of the empire! My sincerest apologies for failing to note your arrival.
+It was the Warden you wished to know about, yes? My mother─may she rest in peace─told me once of its appearance in these woods.
+Before settling here in Fanow, she lived in a village near Rak'tika Falls─until it was destroyed by the sin eaters.
+While out on patrol one day, she spotted a swarm of the abominations, one of which was different from the rest.
+It was larger, for one thing, but what struck her was the way its fellows seemed to revere it. She was convinced that what she had seen was the Lightwarden.
+It was larger, for one thing, but what struck her was the way its fellows seemed to revere it. She was convinced that what she had seen was the Lightwarden.
+I pray the others were able to provide what I could not.
+Near Rak'tika Falls!? Why was I not told of this?
+I think I see now why it has never been spotted on our patrols.
+I have never heard of this Rak'tika Falls. I can but assume it lies deep within the woods of Yx'Maja.
+Just so. But the tunnel which leads there collapsed after a rather bloody battle with the eaters, and has not been passable for many years.
+We made several attempts to clear away the rubble, yet each time we were driven back. In the end, we were forced to give it up as lost.
+...Thereby making it a suitable place for the Warden to take sanctuary.
+There is perhaps one way to enter. Though it would be at great peril to you and your companions.
+The Qitana Ravel, a temple to the northeast.
+It has been sealed for centuries, but within is a path that leads to the falls.
+Can it be opened?
+For the allies of Ronka, it can.
+First we must go to the K'mul Astropolis. Once the flow of magic is restored there, the path through the Qitana Ravel can be opened.
+This may sound a simple task, but there are certain...obstacles which prevent us from attending to it ourselves.
+...And we know not how to overcome them.
+The emperor never granted our forebears leave to look upon the secrets we are charged with protecting. That we might not be tempted, the means to do so were withheld from us.
+We can but show you the way. The rest will be up to you.
+It would seem we have our work cut out for us, then. Shall we?
+Let us be about it then.
+If that is your wish, it is my duty to escort you.
+While we attend to matters at the K'mul Astropolis, I would ask that your sisters accompany Urianger and Thancred, and share with them all they can of these woods.
+While we have every intention of investigating Rak'tika Falls, 'tis yet possible the Lightwarden dwells elsewhere.
+With that in mind, it would behoove us to prepare an alternative course of action.
+Uimet. Cymet. I leave them to you.
+Yes, Sister.
+Should our present course prove false, doubt not but that Thancred and I shall find any and all possible paths forward.
+What you seek lies in the heart of the K'mul Astropolis.
+Unfortunately, it too was sealed shut by order of His Eminence.
+If we are to open it, we must first look to the Morning Stars. Come, I will show you the way.
+You were able to keep up, I see. Well done.
+Ahead lie the Morning Stars, four monuments built in tribute to the guardians of Rak'tika.
+Beyond them is the Great Pyramid of Ux'ner, where the flow of magic must be restored.
+It is said that the monuments are themselves the keys to opening the pyramid.
+Though I know not how. That is for you to discover.
+...Another puzzle. Wonderful.
+I would have a closer look.
+It is indeed another puzzle, but for a blessing, it appears to be similar to the one we encountered at the lake.
+These statues are all depictions of the divine beasts mentioned on the tablet.
+No doubt they will open the way into the pyramid in like manner.
+We have but to discern the correct order. Let's split up and search the area for clues.
+These ruins are covered in ancient inscriptions. The answer may well be hiding among them.
+Indeed. It may be best to transcribe them if they are as numerous as you say. Better that than risk overlooking something.
+Though transcription would prove impractical for you, not being versed in Ronkan script... No matter. You will employ a different approach: impressions.
+Here. I had thought to use these clay tablets to record any significant imagery we discovered, but they will serve you just as well. Take impressions of any inscriptions you find.
+We will start at the base of the pyramids. You begin at the top.
+When you have finished, return here and I will translate your findings.
+When you have finished, return here and I will translate your findings.
+When you have finished, return here and I will translate your findings.
+When you have finished, return here and I will translate your findings.
+When you have finished, return here and I will translate your findings.
+I trust you've made good use of those clay tablets?
+Well done. A moment while I decipher what you've found.
+Apologies for the delay.
+Nothing we saw at the base of the pyramids gave any hint as to the solution of the puzzle, focusing instead on how to proceed having solved it. Your findings, on the other hand, appear to form a riddle. Once assembled, it reads as follows...
+“Come together, share despair.
+“Go thy ways, dread burdens bear.
+“Mark the crown, heed its call.
+“Avert thy gaze, forever fall.”
+I had assumed that the puzzle would involve a sequence, but from what Almet and I were able to gather, it is but a matter of suffusing one of the statues with aether.
+The question being: which one?
+Have you any thoughts?
+Given your talent for finding solutions to vexatious problems, I think it best that you choose the statue. What say you, Forename?
+If you need more time to consider, take it─but do make haste. I would suggest seeking Almet's counsel, but she seems rather preoccupied with reciting the riddle.
+At the very least, you should consider having a second look at the statues themselves. Perhaps they offer some clue as to which is the correct choice.
+Right, then. After you have selected a statue, I will imbue it with the required aether.
+Should it prove to be a trap, I am more than capable of warding off any malign magicks it may contain.
+Now, which statue will it be?
+All right. I pray this works.
+Gah! ...It seems you were mistaken.
+I am fine. Though I would rather not go through that again.
+Next time, choose more carefully.
+All right. I pray this works.
+Gah! ...It seems you were mistaken.
+I am fine. Though I would rather not go through that again.
+Next time, choose more carefully.
+All right. I pray this works.
+Gah! ...It seems you were mistaken.
+I am fine. Though I would rather not go through that again.
+Next time, choose more carefully.
+All right. I pray this works.
+The aether has been absorbed...
+You really do have a talent for these things.
+All right. I pray this works.
+Gah! ...It seems you were mistaken.
+I am fine. Though I would rather not go through that again.
+Next time, choose more carefully.
+All right. I pray this works.
+Gah! ...It seems you were mistaken.
+I am fine. Though I would rather not go through that again.
+Next time, choose more carefully.
+Yes, of course. I have it written here.
+“Come together, share despair,Go thy ways, dread burdens bear...
+“Mark the crown, heed its call,Avert thy gaze, forever fall.”
+Did that serve to inspire you?
+The way should be clear now. Come, let us─
+Someone approaches!
+Sister! <pant> <pant> Sister!
+Cymet?
+What are you doing here? What has happened?
+Eulmoran soldiers. They have entered Yx'Maja!
+Eulmoran soldiers!? And what of the Blessed?
+Nothing specific, but it seems the Eulmorans had little interest in Slitherbough or its people.
+According to our scouts, their general and his men made all haste for the gate to Yx'Maja upon finding it.
+Together with Thancred, Uimet and some few others have engaged them at the border.
+You are to return and assist Uimet at once.
+They are not to set foot near the ruins or Fanow.
+We will see to matters here and return as quickly as we can. Understood?
+Yes, Sister. Be careful.
+Though I knew time was short, I did not expect the Eulmorans to move so swiftly...
+But we have come too far to turn back now.
+Time is against us, friend.
+Quickly, into the pyramid.
+The switch should be through these doors, in the Confessional of Toupasa the Elder. But why is it not open?
+Magic appears to be flowing through the walls, but it's being obstructed as it approaches the door.
+...Hmmm. Is it not strange that only one of these pedestals bears an owl statue?
+Strange indeed. The second statue was likely hidden to keep the door sealed.
+We can cover more ground if we split up. Almet, take the chamber to the south. Forename, the one to the east.
+I will search the chamber to the west.
+I have looked everywhere, and─ Wait, is that...?
+The statue! You found it!
+It looks light enough. We need but return it to the other altar, no?
+One might assume so, but nothing about these ruins has ever been quite so simple.
+I sensed a strange energy emanating from the eyes of the statues in the corridors of this place. Should this figure be moved, it would not surprise me for them to suddenly stir to life.
+A trap, then. For the unsuspecting as they attempt to return this to its rightful place.
+Precisely. Caution would serve us well here.
+Which is why I would ask you to deliver this statue to the main chamber.
+An abundance of magick yet courses through these walls. For my eyes, distractingly so. I believe yours, on the other hand, would more aptly perceive the traps for what they are.
+All right, then. We will meet you at the door to the Confessional of Toupasa the Elder.
+All right, then. We will meet you at the door to the Confessional of Toupasa the Elder.
+All right, then. We will meet you at the door to the Confessional of Toupasa the Elder.
+The statue is returned, but was that enough?
+I believe it was. I can see aether flowing to the door now.
+I pray this means an end to the tricks and traps of these ruins.
+Well done.
+You are but one step from entering the Qitana Ravel, but I must warn you: this last step is without question the most perilous.
+Overcome this final trial, and the path forward will open to you.
+A path laden with more puzzles and traps, I'm sure. Did the emperor always take such pleasure in wasting the time of his allies?
+<sigh> Let us end this, Forename. While time is yet on our side.
+Before we enter, I would tell you of the trial that awaits you.
+The chamber is said to be filled with all manner of devices to keep trespassers away from the switch.
+The most potent being wards of displacement. They may very well force you into danger.
+Should we become separated, please use these.
+Whisperweeds. They will allow us to communicate no matter where we may find ourselves.
+I think Forename and I can work out how to use these well enough. Thank you.
+All right, Forename. The sooner we finish here, the sooner we can return to the others.
+Shall we get this over with?
+We must hurry. Before the Eulmoran soldiers gain any ground.
+Wait! Do you see those sentinels?
+They are made to curse any who enter the pyramid. It is said to be seen by them is to be seen by death.
+Beware their gaze.
+Let's get moving.
+Careful.
+Have care. We know not what lies within...
+Dammit! We must deal with them quickly, before the curse can take hold.
+This curse was not as potent as I dared imagine. But I suggest we avoid another confrontation. Its effects no doubt grow with every invocation.
+Sister! Sister, can you hear me? Two soldiers have broken through our defenses!
+Follow them! They are not to reach this temple, understood?
+A pair of soldiers somehow made it past my sisters. No doubt on their way here.
+All the more reason we should hurry, then.
+Another sentinel. Its movement is somehow different from before.
+We must find a place to hide.
+Stay sharp.
+Perhaps there's a pattern to its movements.
+So there is a pattern.
+They are massive... How are we to get around them?
+I will draw their attention with a glamour.
+It will not last long. The moment they are distracted we must run with all haste.
+I realize we must hurry, but we mustn't be reckless.
+Make ready to run.
+Now!
+Impressive.
+A teleportation device? This should end well...
+There is no turning back.
+Forename? Almet? ...Can anyone hear me?
+We have been sent to...<cough> <cough>...separate chambers. This mist...
+Poison. And it has─<cough>─nullified my magick.
+These markings on the floor. <cough> <cough> I think they show the way out.
+Finally, fresh air. How fare you two? We have to keep moving.
+Somehow we are still in one piece...
+That means little to the others if we do not hurry.
+Careful now.
+What was that noise?
+By the gods...!
+Run!!!
+There! That crevice in the wall!
+Enough with these traps!
+Keep going!
+Seven hells!
+Faster!
+<pant> <pant>
+We have to jump!
+Brace yourselves!
+Ah!
+Well, there is no going back now. I pray it is not much further.
+Sister! They have reached the temple! I fear they are too fast for us.
+Be careful of the traps inside. We are nearly there.
+It is unheard of for anyone to outpace the Viis. What is this man who comes after you?
+Could it be Ran'jit? If so, we have precious little time.
+Is there no end to this place?
+I pray that trap was the last...
+Another door. Wonderful... I can but imagine what awaits us inside.
+There you are!
+Impossible!
+My lord demands retribution!
+I fear this is going nowhere...
+Uimet! Cymet! You know what to do!
+At once, sister!
+I have him!
+Pathetic!
+What in the─
+We will hold him here. Quickly, make for the Heart of Toupasa.
+Quickly, the door!
+More sentinels? Go, Forename. I will draw their attention.
+Hurry!
+Hurry!
+Hurry!
+Hurry!
+Hurry!
+Forename!? Forename hold on!
+It seems to be working!
+I think not!
+General! Hold on!
+Hm?
+Expertly done.
+How was I to know that that would happen!? It looked like any other part of the floor!
+...Might now be an opportune time to strike a bargain?
+We poisoned a number of villagers in Slitherbough with a toxin brewed for us by the Children.
+This is the antidote.
+I daresay you know how potent their concoctions are─and the futility of trying to counteract their effects.
+Now, now. Try anything here and we're all likely to fall.
+Eventually, someone will come to our rescue. Or yours. Promise us safe passage and we'll give you the antidote!
+Do we have a deal?
+We do not negotiate with the enemy. The villagers' lives are forfeit. As is yours...
+General?
+Do not fail.
+How noble. And pointless.
+Is─is everyone all right?
+What in the─
+Urianger!
+At once!
+Down with you!
+Where...where is Y'shtola?
+Thankfully Ran'jit's cohorts had the good sense to fall back.
+Uimet should be here soon with word from Fanow.
+We should hold our position here until she arrives.
+Thancred: Almet. Please tell me you know if that hole might lead out into the woods somewhere.
+Were there another means of exiting the temple, there is no question that we would know of it.
+But I fear that is of little consequence, for we have tried to mark the depth of the pit. And failed.
+To fall from such a height...
+Sister! I come bearing news!
+The Eulmoran soldiers and the Children have fled Yx'Maja.
+They abandoned Slitherbough as well, though they yet remain in the swamps near Lakeland.
+Unfortunately, a number of the Blessed were poisoned while fending off the soldiers.
+One we believe to be of their order was found lost in Yx'Maja, feverish and badly wounded.
+He was taken to Fanow for treatment, but I fear there is little we can do for him.
+He and the other Blessed will not last long without an antidote.
+Then we must act quickly. If you've a spare vial, Minfilia and I can deliver it to the Blessed at Slitherbough.
+You and Urianger should return to Fanow and tend to the wounded villager there.
+What about Y'shtola...?
+I know it seems callous of us to leave, but she leapt into that hole for a reason.
+We have to save the Blessed. Whatever it takes.
+All right.
+My sisters and I will remain here. We must be certain no soldiers are still lurking about.
+Come, Forename. Let not Y'shtola's sacrifice be in vain.
+To Fanow.
+Heavens forfend. Runar...
+'Twas he who forestalled the Eulmorans' procession. And in so doing, afforded thee time to traverse the temple.
+Quickly, the antidote.
+<groan>
+Quickly, Forename. I fear he hath precious little time.
+Quickly, Forename. I fear he hath precious little time.
+Quickly, Forename. I fear he hath precious little time.
+It would appear the worst hath passed, though his wounds yet want for mending.
+I shall minister to him forthwith.
+Rest, Forename, I prithee. I shall attend to Runar's ministrations.
+Runar. Thank goodness.
+We delivered the antidote to Slitherbough, and from what we could gather on the way here, the Eulmorans have had the good manners to withdraw.
+Thank the gods they did, or we would never have made it here in time. I'm told we have Runar and his comrades to thank for keeping the soldiers occupied prior to their retreat.
+They were preparing to come for you and Y'shtola, it seems, when Runar rallied the villagers and pursued them out of Slitherbough.
+I must...I-I must...
+Where...am I?
+Yx'Maja, in the care of the Viis. Thou art safe now, friend. Pray, rest thee awhile longer.
+No...no, I am all right. Somewhat heavy of limb, perhaps, but otherwise well I assure you.
+I am glad to see you are all safe. When we realized where the soldiers were headed, we knew something had to be done.
+I...do not see Master Matoya. She was with you, yes? What happened to her?
+Spare me your riddles and speak plain! Where is Master Matoya!?
+Spare me your riddles and speak plain! Where is Master Matoya!?
+Well!? Say something! Where is Master Matoya!?
+No...no... No, that cannot be...
+Why would she do such a thing?
+Was there no other way? I...I cannot believe that she...that she...
+We must begin the search immediately! I will come with you!
+What are you waiting for? We must find her! She could be trapped or hurt or...
+She is alive. She is alive, damn you!
+Forgive me for interrupting, but our scouts have apprehended an intruder.
+We thought perhaps he might be an associate of yours...
+Oh, look who it is.
+Well...this is embarrassing. In my defense, they are surprisingly tenacious.
+So─what trouble have you gotten yourselves into this time?
+Well, well. What an intriguing turn of events.
+My condolences, by the way. 'Tis never easy to lose the ones we love.
+Well, she is dead, isn't she? Wishing it were otherwise will not make it so.
+That you should be indifferent to her loss is no surprise. But to us, she was a friend. The best of friends.
+You have something on your mind. What is it?
+Pray recount to us again that which thou witnessed in the ruins, omitting not the slightest detail.
+Flow...
+The teleportation magick she used to spirit us away from Ul'dah after the bloody banquet! I recall a similar gale in the tunnel before it took effect.
+Interesting. I thought I sensed a brief disturbance in the Lifestream. How reassuring to know it was not my imagination.
+I felt it only once, I should mention. Which would suggest she is still adrift on its currents.
+Then I fear she may yet be lost to us─for it was only by the grace of the elementals that she was plucked from that great aetherial river.
+Oh...very well. I'll go and fetch her...
+Perhaps a clear and unambiguous act of kindness will serve to win the trust you seem so determined to deny me.
+Now then, if I'm to fetch her for you, I will require a suitable place to work. We must find somewhere that resonates strongly with the Lifestream.
+And by we, I mean you. To that end, I give you this─an aetherial lamp of my own design.
+Keep it close as you venture out into the woods. The brighter the glow, the stronger the location's resonance with the Lifestream. Once you've found a likely spot, all you need do is whistle.
+You do know how to whistle, don't you, hero? Just put your lips together and blow.
+You do know how to whistle, don't you, hero? Just put your lips together and blow.
+You do know how to whistle, don't you, hero? Just put your lips together and blow.
+You do know how to whistle, don't you, hero? Just put your lips together and blow.
+You do know how to whistle, don't you, hero? Just put your lips together and blow.
+Yes, this place should serve well enough.
+Might I have a little space? I need to concentrate.
+Now then...what color was her soul again?
+Ah... There you are.
+He─He's done it! He's brought her back!
+Y'shtola, are you all right?
+Yes... Though I cannot imagine how. What happened?
+Thou didst invoke the power of Flow, which thence did usher thy soul unto the Lifestream.
+I wanted to save the antidote, and after that...
+I did something exceedingly reckless. For which you will just have to forgive me.
+Master Matoya! Oh, thank the heavens you're all right!
+I had nearly given up hope.
+Please, Runar, dry your tears. What would the others think if they saw you like this?
+Come now─did you really think I would go gently into that dark night with so much left undone? So many mysteries left unsolved?
+Ahem. Is there aught you wish to say to me? A word of thanks, perhaps?
+Emet-Selch, the Ascian of whom I spoke. 'Twas he who plucked thee from the Lifestream.
+I see.
+Thank you. Differences notwithstanding, you saved my life, and for that I am grateful.
+But let us turn our attention to more important matters, such as the Qitana Ravel.
+You had better not have explored its depths without me.
+Well. Almet and the others should be pleased to see you in such uncharacteristically high spirits. Let us return to Fanow, then, and discuss the coming expedition.
+What a touching reunion that was. It fair brought a tear to the eye. But as we both know, such tender moments are nothing if not momentary.
+Before long, they will remember their many differences, and return to squabbling.
+Oh, if I had a gil for every time one of you heroes made that claim...
+Ah hah hah! Flattery will get you nowhere, my dear.
+But seriously, we Ascians do what we do for the greater good. For the Rejoining.
+Though we may sow the seeds of chaos, it is man who tends them, he who reaps their bountiful harvest.
+But I grow tired of these arguments. If you would kindly refrain from retorting and return to your customary brooding silence, I will take it as thanks for rescuing your companion and leave it at that.
+Now, we mustn't keep your friends waiting.
+My apologies for having put you all through such an ordeal. I could see no other way to save the Night's Blessed. Happily, both they and I yet live─thanks to you.
+But our work here is not yet done. We must make ready to enter the Qitana Ravel, and put the Lightwarden to the sword.
+With the Eulmorans gone, and your companion now returned, I think it best you go now before they can regroup.
+With magick flowing once more through the Great Pyramid of Ux'ner, the entrance to the Qitana Ravel should now be open.
+Before we leave─Urianger, did you discover anything that may suggest the Lightwarden hides elsewhere?
+Nay. Though we had but little time before the Eulmorans' most unwelcome arrival, we scoured the nearby environs and spoke once more with the one called Korille.
+Having hearkened to her tale, it is my judgment that the sin eater which her late mother did espy was indeed the being we seek, and that it most likely resided in the vicinity of Rak'tika Falls.
+In the absence of any subsequent sighting, I have no reason to believe our quarry hath sought out a new sanctuary. And given the considerable difficulty we face in reaching the falls, we may be certain it hath not been disturbed by man.
+Then our course is clear.
+We must navigate the Qitana Ravel and make for Rak'tika Falls.
+Though you see it as but another obstacle to be navigated, the Qitana Ravel is the oldest and most sacred of our temples. The accumulated knowledge of the empire is said to reside within.
+Knowledge which is rightly yours as allies of Ronka. You are welcome to explore.
+I fully intend to survey every ilm of it─once our mission is complete.
+Were the emperor still alive, he would be overjoyed to hear you say so.
+But I must warn you─though the way is open, it will still be heavily guarded.
+To discourage trespassers and test the worth of our allies, it had to be so.
+Be careful in there.
+Head east and you will find the path of azure flowers leading to the Ravel. I wish you safe passage through its halls.
+Master Matoya. I know I cannot dissuade you from going, so please─promise me you will return safely. The Night's Blessed need you...
+You need not worry, Runar. I shall return, and bring with me a long-awaited gift. One the Night's Blessed will treasure now and forevermore.
+Now, let us away.
+Lest you doubt, I won't be helping you do battle with the Lightwarden. To accompany you thus is quite taxing enough.
+Now, if you've no further questions...?
+Not a single one. Happily, I am quite content to mingle with the masses. And even if I did crave the company of my own kind, one might say we're understaffed at present.
+There are no strict rules governing how we work, though that has not been without its consequences. In the beginning, we were each responsible for a shard, and free to do as we wished, but Igeyorhm's impetuous temperament showed us the folly in that.
+In light of her failings, we took to working in tandem as the situation demanded.
+Mitron and Loghrif were supposed to take care of the First, of course.
+Alas, they were slain by the champions of this realm shortly before the Flood. Expendable though they were, I found them quite useful.
+But that is a tale for another time.
+Then run along back to your friends and leave me be!
+Then run along back to your friends and leave me be!
+Our earlier efforts were not in vain, it seems.
+Stay on your guard, Forename. We know not what awaits us inside.
+I never did tell you why I chose to take up thaumaturgy, did I?
+As you will no doubt have noticed, life here in the First can be exceedingly unforgiving. Brutal, in a word.
+I had not long been in Norvrandt when I realized my mastery of conjuring magicks would not suffice to protect the people. 'Twas a struggle at first to embrace the change, but I confess the path of the thaumaturge suits me rather well.
+When Thancred and I spoke with Korille, she described unto us the form of our quarry, just as her mother had once done unto her.
+'Tis a feathered beast possessed of three heads, both simian and canine in nature. An abomination amongst abominations. Were Alphinaud to paint the picture sketched by the lady's words, the result would surely turn the blood to ice.
+Keep an eye on Y'shtola and Urianger, would you? It wouldn't surprise me in the slightest if one of them wandered off to inspect the temple's relics.
+Well, let's get this over with, shall we?
+To think we'll be the first people in thousands of years to set foot inside this place.
+It's humbling. Knowing they've entrusted us with the history of their people. With their legacy...
