@@ -11,13 +11,13 @@ I used BeautifulSoup and other Python libraries to scrape the HTML of webpages c
 |                             | ff7-characters.txt                |                                                    |
 |                             | ff7-dialogue.csv                  |                                                    |
 |                             | ff7-character-summary.csv         |                                                    |
-|                             | ff7-character_name-dialogue.txt   |                                                    |
+|                             | *ff7-character_name-dialogue.txt   |                                                    |
 | **Final Fantasy 14 (FFXIV)** | ff14-sections.txt                 | [Source](https://xiv.quest/)                      |
 |                             | ff14-quests.txt                   |                                                    |
 |                             | ff14-item-text.txt                |                                                    |
 |                             | ff14-characters.txt               |                                                    |
 |                             | ff14-dialogue.csv                 |                                                    |
 |                             | ff14-character-summary.csv        |                                                    |
-|                             | ff14-character_name-dialogue.txt  |                                                    |
+|                             | *ff14-character_name-dialogue.txt  |                                                    |
 
-
+*One of these was created for each unique character in the game.
