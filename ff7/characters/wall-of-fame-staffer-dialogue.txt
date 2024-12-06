@@ -1,0 +1,3 @@
+Your score is x points.
+Would you like to see the Wall of Fame?
+You'll receive a prize if you get more than 3000 Points. So good luck.

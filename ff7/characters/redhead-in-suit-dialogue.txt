@@ -1,0 +1,343 @@
+The Honey Bee Inn is a private club. Only members can go in. Shoo, shoo.
+Hey! Is that a "Member's Card" I see shining in your hot little hand?Please, come in.
+I bought some pretty flowers from Aeris.500 gil, a little expensive. Well, at least I got her name.
+Sir, is everything all right? Look, Aeris looks so lonely.
+
+All items obtained, there is nothing for it but to return to the dress shop...
+Clothing Shop OwnerLooks like you're all set. Now try it on, and let's see how it fits.
+Shopkeeper's DaughterLooks like you got it. So try it on for size.
+AerisAren't you going to change?
+Cloud- Okay... I'm ready- Not now
+Cloud changes in the dressing room and steps out.
+Clothing Shop OwnerHmm, not bad. This may be a new business for me.
+Shopkeeper's DaughterYeah, you're right. Should we try it?Thanks for showing us something new. My father's got his motivation back now, So the dress is on the house.
+AerisWalk more nicely like... this. Miss Cloud.
+Cloud...What do you mean 'nicely'?
+Cloud walks primly around the room.
+AerisOh you're so cute, Miss Cloud.Aaah, I want one. Do you have one that'll look good on me too?
+Shopkeeper's DaughterHow's this?
+Clothing Shop OwnerHow about that one?
+Shopkeeper's DaughterFather, what are you talking about? This one's much better.
+Clothing Shop OwnerNo, what are you saying? This one.
+Aeris...I want THIS one.
+Shopkeeper's Daughter + Clothing Shop OwnerHuh?
+AerisI'm going to go change.
+She walks to the dressing room, then turns to look at everyone.
+......No peeking!
+Everyone stares at the curtain while she changes, and after a few moments she emerges in a red dress with her hair down.
+AerisSo? How do I look?
+Cloud just shakes his head.
+AerisOh, you're no fun!
+Shopkeeper's Daughter (to Cloud)...Hmm. It's REALLY somethin'.
+CustomerYou're...Weird.
+Clothing Shop OwnerHmm, good. It looks good on you.
+They leave the dress shop and can now wander around a bit without being recognized. If Cloud tries to leave Wall Market, Aeris hangs back.
+CloudWhat's wrong, Aeris?
+Aeris...What is it? Are you going outside like that? I mean, that's okay with me, but...
+Cloud...Oh, yeah.
+AerisGet a hold of yourself, Ms. Cloud.
+PunkHey! Pretty lady. Let me tell you about a good job!Go to the Don's place. You'll make a small fortune!
+Outside the Honey Bee Inn...
+MenYeow!! Hey, Princess!!
+All the men run over.
+JohnnyUh... ummm I, I......Uh... ummm....I'm... Jo...... Johnny... Nice to meet you.
+Yeah, I only talk to the pretty ones.Mmmm, you're the one. You're just great.
+PunkThat's funny. A hard, spiky hairstyle! Looks kinda familiar...
+Older ManUmmm, young girls... soft skin. Ummm, OK, I'm refreshed now!...Mmmm? Pretty hard. You work out?
+At the restaurant...
+WaitressSorry! But we're completely full! Please come again!
+Man Cooking OutsideWhat? Are you ladies going to eat too?
+At the Materia shop...
+Materia ShopkeeperI'm sorry, we're sold out and I've got nothing for you.
+At the gym...
+Beautiful BroUmmm, not quite there.
+Or:
+Ehhhh, so so.
+Or:
+Hmm, pretty good.
+
+And finally... off to Don Corneo's mansion...
+DoormanDamn!! Your friend's hot, too!Come in, come in!!Two ladies coming through!!
+The door opens, and Cloud and Aeris walk through.
+Hey, ladies.I'll go and let the Don know you're here. Wait here. Don't go wandering around...
+AerisNow's our chance. Let's find Tifa.I wonder where she is...
+Of two doors upstairs, one is closed, and the other reads "Office of The Don Corneo Keep Out!" Aeris and Cloud go down a long set of stairs to the basement, where they find Tifa. When Cloud sees her, he turns away. Aeris goes over to talk to her alone.
+Aeris...Tifa?Nice to meet you. I'm Aeris.Cloud's told me a lot about you.
+Tifa...And you are?Hey you're the one with Cloud in the park...
+AerisRight, with Cloud.
+TifaOh......
+AerisDon't worry. We just met. It's nothing.
+TifaWhat do you mean, 'Don't worry'... about what?No, don't misunderstand.Cloud and I grew up together. Nothing more.
+AerisPoor Cloud, having to stand here and listen to both of us call him nothing.Right, Cloud?
+TifaCloud?
+If Cloud tries to run away upstairs, Aeris comes after him.
+AerisEmbarrassed? Come on, speak up!
+If Cloud tries to talk to Aeris, she just laughs. Cloud walks up to Tifa, head down.
+Tifa????
+She peers at him and then jumps several feet in the air.
+Cloud!?Why are you dressed like that!? And what are you doing here!?Forget that, what happened to you after the fall!? Are you hurt!?
+CloudHey, give me a chance to answer.I'm dressed like this...... because there was no other way to get in here.I'm all right. Aeris helped me out.
+TifaOh, Aeris did...
+CloudTifa, explain. What are you doing in a place like this?
+TifaYeah, ummm......
+AerisAhem!! I'll just plug my ears.
+She walks a short distance away and puts her hands to her ears.
+Please, go on with your private conversation.
+If Cloud tries to run away upstairs, Aeris comes after him again.
+AerisHey, what's the secret?
+Tifa...I'm glad you're OK.
+CloudThanks. What happened?
+TifaWhen we got back from the Number 5 reactor, there was this weird man.So Barret caught him and squeezed some information out of him.
+CloudThat's when the Don's name popped up.
+TifaRight, Don Corneo.Barret told me to leave the lech alone...But something's been bothering me.
+CloudI see. So you wanted to get the story straight from Corneo's mouth.
+TifaSo I made it here, but now I'm in a bind.Corneo is looking for a bride.Everyday, he gets three girls, chooses one of them, and then... ...and, well......Anyway, I have to be the girl... or I'm out for tonight.
+AerisSorry... but I overheard...If you know the three girls, there's no problem, right?
+TifaI guess so, but...
+AerisWe have two here, right?
+CloudNo, Aeris! I can't have you get involved.
+AerisOh? So it's all right for Tifa to be in danger?
+CloudNo, I don't want Tifa in...
+TifaIs it all right?
+AerisI grew up in the slums... I'm used to danger.Do you trust me?
+TifaYes. Thanks, Ms. Aeris.
+AerisCall me Aeris.
+He---y!!It's time, ladies. The Don is waiting!I told you not to wander around... I tell ya, women nowadays...Hurry up, will ya!
+CloudI probably don't need to ask but the other girl is......Me...... right?
+TifaYou're right, there was no need...
+Aeris...to ask.
+TifaHa ha... You know, if you look closely, you're not so bad...I wonder what Barret would say if he could see you now...
+AerisThey're going to get suspicious if we don't hurry.
+The three of them head back upstairs.
+The Don's waiting in his room... Ha ha ha...
+They enter Don Corneo's office, where he is seated at his desk, flanked by two lackeys.
+KotchAll right, ladies!Line up in front of the Don!
+Cloud, Aeris, and Tifa line up in front of the desk, and Corneo jumps up.
+Don CorneoHmmm! Good, splendid!
+He walks to Aeris.
+Now, let's see... Which girl should I choose? Hmm---hmm---!
+He walks to Cloud, who turns his head.
+This one?
+He walks to Tifa.
+Or this one?Woo-hoo, I've made up my mind!!My choice for tonight is......
+Depending on the items collected for Cloud's disguise, Don Corneo will choose one of the three.
+
+Tifa
+Aeris
+Cloud
+
+Corneo walks to Tifa.
+Don CorneoThis little beauty!
+TifaFu, fu, fu... Be nice, Don.
+Corneo turns to his lackeys.
+Don CorneoYou can have the other ones!
+Kotch + ScotchYes, sir! Thank you sir!
+Don CorneoWell then, shall we go my pretty!?
+He starts for his bedroom and Tifa follows. After a scene change, Cloud ends up in the basement with a bunch of guys.
+ScotchHey guys! We've got guests.We'll take REAL good care of you.This is all thanks to the big boss, Don Corneo!
+MenHeeey!! Three cheers for Don Corneo!!
+ScotchHeh, heh... Well ladies, are we, uh, all ready?...leer...snicker...
+ (by the door)Whoa!Slow down, what's the hurry? Why don't you stick around... We'll treat you real nice!
+The men crowd around Cloud with arms outstretched like zombies.
+MenOh your eyes. They seem to... glow. I'm all yours, baby!Come on, baby!Woo-hoo! I gots ants in my pants wanna do a dance, gotta take a chance and mebbe find romance!Come on, dance with me, beautiful. They say if two people dance together, their hearts will become one, also...Hey... you're in pretty good shape. Lookit your tight little bod......No, it's more like... muscles...
+ScotchHey... what's wrong? You want me to keep you company?
+CloudNo... I'm flattered, but no thanks.Because...
+ScotchBecause......?
+CloudBecause...I ain't INTERESTED in a buncha scrubs like you!!
+Cloud takes off the dress, revealing his usual uniform underneath.
+ScotchWha... a MAN!???God damn it! You think you can get away with this! Get him! Knock the crap out of him!!
+Cloud fights off three of Corneo's lackeys.
+ScotchGrr! C'mon, what's the matter with you good for nothings!?All right now, COME ON! I'll show you how it's done!!
+Cloud dispatches Scotch and the other two lackeys. He then hurries back towards the other basement room, where Kotch is chasing Aeris around.
+AerisNo---!!
+KotchHa ha ha... Wait you!!
+Aeris runs up the steps towards Cloud, then turns around to give Kotch a shove.
+AerisI'm so sorry!!
+Kotchoh, oh, oh......
+He falls down the stairs.
+heh, heh, heh...!!
+CloudAeris!!- You all right?- We gotta help Tifa!
+
+You all right?
+AerisI told you. I'm used to danger.To tell you the truth, my heart was pounding!
+
+
+We gotta help Tifa!
+AerisYe... yes, you're right... ......let's hurry!
+
+Kotch (lying at the bottom of the stairs)C'mon... just once... I won't tell... I promise!I just wanted to act like I got a cute girl...Cute!!
+In Corneo's room, Tifa is sitting on the edge of his bed while he sits leering at her.
+Don CorneoWoo-hoo!Come, come, don't be so shy...
+TifaI know......But you know, Don Corneo, I'd like you to explain something before we start...
+Don CorneoHm? Oh, you mean about THAT?Don't worry. I'm single. There, feel better now?
+TifaNo... I'm not asking about that......Wa... wait a minute! No, not yet!!
+Don CorneoCome! Come!Aooooooooh!! I can't wait any longer! Here comes papa!!
+Cloud and Aeris run in.
+TifaCloud!!
+Tifa jumps up as Corneo leaps for her, and he lands on his face.
+Don CorneoWha... what the hell? Who goes there!?
+TifaYou still don't get it do you, Don Corneo?
+Don CorneoGet what?
+[skip to the interrogation]
+
+Corneo walks to Aeris.
+Don CorneoThis slender little girl!
+AerisDon, you've got great taste.
+Corneo turns to his lackeys.
+Don CorneoYou can have the other ones!
+Kotch + ScotchYes, sir! Thank you sir!
+Don CorneoWell then, shall we go my pretty!?
+He starts for his room and Aeris follows. After a scene change, Cloud ends up in the basement with a bunch of guys.
+ScotchHey guys! We've got guests.We'll take REAL good care of you.This is all thanks to the big boss, Don Corneo!
+MenHeeey!! Three cheers for Don Corneo!!
+ScotchHeh, heh... Well ladies, are we, uh, all ready?...leer...snicker...
+ (by the door)Whoa!Slow down, what's the hurry? Why don't you stick around... We'll treat you real nice!
+The men crowd around Cloud with arms outstretched like zombies.
+MenOh your eyes. They seem to... glow. I'm all yours, baby!Come on, baby!Woo-hoo! I gots ants in my pants wanna do a dance, gotta take a chance and mebbe find romance!Come on, dance with me, beautiful. They say if two people dance together, their hearts will become one, also...Hey... you're in pretty good shape. Lookit your tight little bod......No, it's more like... muscles...
+ScotchHey... what's wrong? You want me to keep you company?
+CloudNo... I'm flattered, but no thanks.Because...
+ScotchBecause......?
+CloudBecause...I ain't INTERESTED in a buncha scrubs like you!!
+Cloud takes off the dress, revealing his usual uniform underneath.
+ScotchWha... a MAN!???God damn it! You think you can get away with this! Get him! Knock the crap out of him!!
+Cloud fights off three of Corneo's lackeys.
+ScotchGrr! C'mon, what's the matter with you good for nothings!?All right now, COME ON! I'll show you how it's done!!
+Cloud dispatches Scotch and the other two lackeys. He then hurries back to the other basement room and meets Tifa as she's running out.
+TifaCloud!!
+CloudTifa!!- You all right?- We've gotta help Aeris!!
+
+You all right?
+TifaOf course! If you take me lightly, you're gonna pay for it!!
+
+
+We've gotta help Aeris!!
+TifaHey, don't you even care about how I am? ......never mind, let's go!
+
+Kotch (lying at the bottom of the stairs)C'mon... just once... I won't tell... I promise!I just wanted to act like I got a cute girl...Cute!!
+In Corneo's room, Aeris is sitting on the edge of his bed while he sits leering at her.
+Don CorneoWoo-hoo!Come, come, don't be so shy...
+AerisYe...yes...But Mr. Don. I'd like you to explain something to me first...
+Don CorneoOf course, my dear. I'll take you through it slowly, step by step. So come on!
+AerisNo, that's not what I meant!NO, STOP! Just, just wait a second!!
+Don CorneoCome! Come!Aooooooooh!! I can't wait any longer! Here comes papa!!
+Cloud and Tifa run in.
+AerisCloud!!
+Aeris jumps up as Corneo leaps for her, and he lands on his face.
+Don CorneoWha... what the hell? Who goes there!?
+AerisI'm sorry, Don.
+Don CorneoGet what?
+[skip to the interrogation]
+
+Corneo walks to Cloud.
+Don CorneoThis healthy-looking girl!
+CloudWa, wait a sec! I mean, uh, please wait a moment!
+Don CorneoWoo-hoo!I love chickies who play hard-to-get! Yeowza!
+Corneo turns to his lackeys.
+Don CorneoYou can have the other ones!
+Kotch + ScotchYes, sir! Thank you sir!
+Don CorneoWell then, shall we go my pretty!?
+After exchanging glances with Tifa and Aeris, Cloud reluctantly follows Corneo into his bedroom.
+Don CorneoAhh, we're finally alone...All right, pussycat... Come to daddy!!
+If Cloud tries to run away...
+Don CorneoWoo-hoo!Don't be shy. We're all alone now...
+Cloud approaches the bed.
+Don CorneoYou're so cute, I never get tired of looking at you.Do you... like me, too?
+Cloud- Of course!- Ummm......
+
+Of course!
+Don CorneoYou sure do know how to make a guy feel good!Then, wh... what do you want to DO?
+Cloud- Whatever YOU want, daddy- Don't really care......
+
+Whatever YOU want, daddy
+Don CorneoOh man! I can't stand it! All right, then......Give me a kiss!! A KISS!!
+Cloud- All right......- Nope, can't do that......
+
+All right......
+Cloud walks over and leans forward to kiss Corneo, not quite touching lips. He shakes his head and tries again.
+Aeris or TifaJu---st a minute!!
+Don CorneoWha... what the hell? Who goes there!?
+TifaCloud...Were you really......
+Cloud shakes his head violently and takes off the dress.
+Don CorneoA man!? What's goin' on?
+
+
+Nope, can't do that......
+CorneoWhy? WHY? WHY?
+CloudBecause...Because I'm gonna have to use that mouth of yours to give me some information!!
+Cloud takes off the dress.
+Don CorneoA man!? You tricked me!!Somebody get in here NOW!!
+Tifa or AerisUnfortunately, no one'll be comin' to help.
+Tifa and Aeris come running in.
+Don CorneoYou're the ones from before! Wh... what the hell's going on?
+
+
+
+Don't really care......
+Don CorneoYou don't like me?There... there isn't someone else, is there?
+Cloud- No, only you- Yes, his name's Barret...
+
+No, only you
+CorneoYou sure do know how to make a guy feel good!Then, wh... what do you want to DO?
+Cloud- Whatever YOU want, daddy- Don't really care......
+
+
+Yes, his name's Barret...
+CorneoNo way!Hmm? Barret? That sounds familiar...
+CloudYou know, he's one of the ones you were trying to find out about. You know, AVALANCHE...?
+Don CorneoOh, yeah, yeah. In Sector 7 in the slum......and how do YOU know that!?
+Cloud takes off the dress.
+Don CorneoA man!? You tricked me!!Somebody get in here NOW!!
+Tifa or AerisUnfortunately, no one'll be comin' to help.
+Tifa and Aeris come running in.
+Don CorneoYou're the ones from before! Wh... what the hell's going on?
+
+
+
+
+Ummm......
+Don CorneoYou don't like me?There... there isn't someone else, is there?
+Cloud- No, only you- Yes, his name's Barret...
+
+TifaShut up, we're asking the questions now...What did your assistants find out? Talk! If you don't tell us...
+Cloud...I'll chop them off.
+Don CorneoNo! Not that! I'll talk! I'll tell you everything!
+TifaSo... talk.
+Don Corneo...I made 'em find out where the man with the gun-arm was. But that's what I was ordered to do.
+TifaBy who?
+Don CorneoNo--! If I told you that, I'd be killed!
+TifaTalk! If you don't tell us...
+Aeris...I'll rip them off.
+Don CorneoWaaaaaaaaaaaah--! It was Heidegger of Shinra!Heidegger, the head of Public Safety Maintenance!
+CloudThe head of Public Safety Maintenance!?
+TifaDid you say the Shinra!? What are they up to!? Talk!If you don't tell us......I'll smash them.
+Don Corneo...You're serious, aren't you... ...ohboy, ohbooy, ohboy....I'm not fooling around here either, you know.Shinra's trying to crush a small rebel group called AVALANCHE, and want to infiltrate their hideout.And they're really going to crush them... literally,By breaking the support holding up the plate above them.
+TifaBreak the support!?
+Don CorneoYou know what's going to happen? The plate'll go PINGand everything's gonna go BAMMM!! I heard their hideout's in the Sector 7 Slums...I'm just glad it's not here in Sector 6.
+TifaThey're going to wipe out the Sector 7 Slums!?Cloud, will you come with me to Sector 7?
+CloudOf course, Tifa.
+They all start for the door.
+Don CorneoJust a second!
+CloudShut up!
+Don CorneoNo wait, it'll only take a second.How do you think scum like me feels when they babble on about the truth?
+Cloud- They've pretty much given up on life- They're sure they'll win- They don't know what the hell's going on
+
+They've pretty much given up on life
+Don CorneoBuuzzzzz! Wrong!
+
+
+They're sure they'll win
+Don CorneoWoo-hoo! Right!
+
+
+They don't know what the hell's going on
+Don CorneoClose, but no cigar!
+
+Corneo hits a switch and Cloud and the others fall through a trap door into the sewer.
+
+< Sector 5 | Sector 6 | Sector 7 >
+Yeah, I only talk to the pretty ones.Mmmm, you're the one. You're just great.
+Hey, ladies.I'll go and let the Don know you're here. Wait here. Don't go wandering around...
+He---y!!It's time, ladies. The Don is waiting!I told you not to wander around... I tell ya, women nowadays...Hurry up, will ya!
+The Don's waiting in his room... Ha ha ha...
+(by the door)Whoa!Slow down, what's the hurry? Why don't you stick around... We'll treat you real nice!
+(by the door)Whoa!Slow down, what's the hurry? Why don't you stick around... We'll treat you real nice!

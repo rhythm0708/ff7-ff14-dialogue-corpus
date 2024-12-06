@@ -1,0 +1,9 @@
+...beep... beep... ......verifying key card...... ...........................Level B employee: verified. You are permitted to open doors on this floor up to three times.blip...... If you receive an item coupon, remember to exchange it for an item....warning... refrain from entering the air conditioning ducts recklessly - they are very dangerous......bing... bing... Enter command
+......bing... bing... Start again from the beginning?The information and materials you received on this floor will all be cleared.Clear them?
+...... ......... ......... Cleared.You are permitted to open any door on this floor up to three times.
+...beep......beep...... You do not have any coupons.
+...bing... bing... Enter command
+You can exchange your coupons for items. Here are the items you can have...A coupon.........'Star Pendant'B coupon.........'Four Slots'C coupon.........'All' MateriaPlease use caution... once you have exchanged coupons for items you may not use 'All Clear' function.Exchange coupon?
+...... ......... ...... Coupon exchange complete.
+...bing... bing... Enter command
+...beep... beep...... After you have exchanged coupons you may no longer use 'all-clear'.

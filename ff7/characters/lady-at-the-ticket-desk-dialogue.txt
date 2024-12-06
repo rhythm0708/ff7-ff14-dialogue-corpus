@@ -1,0 +1,7 @@
+Welcome. Would you like to buy some Chocobo tickets?
+Registration fees are 200 gil. Is that all right?
+Which rank would you like to select?
+You are allowed a maximum of 3 bets on your Chocobo ticket.
+This Chocobo Race has Virtual devices on the course.They show natural scenery during the race that really doesn't exist.You pick which Chocobo will finish first and second here,And then buy the appropriate tickets.And if the ticket you purchased is a winner, you'll receive a ticket for an item that will be listed on the panel.You can exchange your tickets for items or GP at the Exchange counter to the right of the entrance.
+You may exchange your ticket for an item or GP.
+Your ticket will be x GP. Is that all right?

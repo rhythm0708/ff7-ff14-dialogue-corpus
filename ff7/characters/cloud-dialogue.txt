@@ -1,0 +1,2573 @@
+....
+I don't care what your names are. Once this job's over... I'm outta here.
+No. After all, I did work for Shinra, y'know.
+I'm not here for a lecture. Let's just hurry.
+It's not my problem.
+The only thing I care about is finishin' this job before security and the Roboguards come.
+Shouldn't you do it?
+Fine, be my guest.
+Huh?
+...Yeah, sorry.
+Barret, be careful!Attack while it's tail's up!It's gonna counterattack with its laser.
+Come on, let's get outta here!
+You all right?
+H, hey!
+- You'd better get out of here- Nothing... hey, listen...
+- Buy one- Forget it
+- Buy one- Forget it
+Shinra soldiers...- Fight them- Later!
+hmph!
+Shinra soldiers...- Fight them
+hmph!
+Shinra soldiers...- Fight them
+hmph!
+I don't have time to be messin' around with you guys.
+Looks like I'm a little late.
+It's no big deal. Just what I always do.
+Hmm...... You were worried about me!
+- What do you have in mind?- I wouldn't hold my breath
+- Thanks anyway- Looking forward to it
+A floating city... Pretty unsettling scenery.
+Then why doesn't everyone move onto the Plate?
+I know... no one lives in the slums because they want to.It's like this train. It can't run anywhere except where its rails take it.
+- Little baby?- Out of my way!
+- Don't care- No, what?
+- Don't care- No, what?
+What crappy handwriting. And look at all this graffiti!
+- Yep, that's me- I used to be with SOLDIER, the name's
+- What, that again?- ............
+- Yeah- Not this time
+No big.- Give it to Tifa- Give it to Marlene
+- No- Yeah, why not?
+- About what?- I'm not interested in your stories
+- 'Bout what?- Don't care
+- You bet!- Don't care
+- I don't feel like it- Give me something hard
+What's with you all of a sudden? That wasn't even a tough job.
+Don't worry. Once I get that money, I'm outta here.
+...yeah... Why?
+- Yeah...- No...
+None. I'm positive.
+If there was anyone from SOLDIER you wouldn't be standing here now.
+............
+Stayin' with Shinra?You asked me a question and I answered it... that's all.I'm going upstairs. I want to talk about my money.
+Shut up!I don't care about either Shinra or SOLDIER!But don't get me wrong!I don't care about AVALANCHE or the Planet for that matter!
+- Blow off- I really don't care
+Sorry Tifa...
+So let Barret and his buddies do something about it.It's got nothin' to do with me.
+What......?- How can you say that!- ......Sorry
+Promise?
+Yeah... back then.I thought you would never come, and I was getting a little cold.
+Come this spring... I'm leaving this town for Midgar.
+But I'm different from all of them. I'm not just going to find a job.I want to join SOLDIER.I'm going to be the best there is, just like Sephiroth!
+...I probably won't be able to come back to this town for a while.
+...huh?
+I'll try.
+What?
+What?
+All right...... I promise.
+I'm not a hero and I'm not famous. I can't keep...... the promise.
+This is my pay? Don't make me laugh.
+You got the next mission lined up? I'll do it for 3000.
+- Barret's snoring kept me up......- Next to you, who wouldn't?
+...sigh...- Ok, I'll explain it- You wouldn't understand
+Sure, I'll explain how Materia works.First, access the menu.You know the basic functions.The triangle button brings up the menu.Directional buttons move the cursor,like this.Select each menu by using the OK button.If you want to leave the menu,just push the CANCEL button.See? Let's go ahead.Now you're in this menu.Select [Materia] sub menu.Select who you want to use it.Now look at my weapon here.Each weapon and armor has slots in it.Choose which slot you want to put Materia in.Now select the Materia you want to use.This is curative Materia.If you want to know what its effect is,line the cursor up with [Check],and push the OK button.It's just like selecting battle commands.Just line the cursor up to [Magic],you can see that the available magic has increased.Now you can use new magic [Cure].And that's all there is to equipping Materia.See? It wasn't that tough!When you want to remove any Materia,it's as easy as pointing to the materia slot,and pushing the triangle button.There's just one thing you have to be careful of.Whenever you equip Materia,your situation changes.Parts of you may become stronger...while others get weaker.Normally, when you equip [Magic] Materia,your magic power will get stronger.But your physical strength weakens.So, Materia's kind of a double-edged sword.On the left side of the screen,you can see the Materia's effect on you.It's wise not to overuse Magic Materia.But try out various things.Push the CANCEL button to exit the sub menu.Ok, that's about it.I'll give you some advanced tips later.
+- 1 gil- 10 gil- nothin'
+Don't mess with me. I used to be in SOLDIER. I'll tell you how much I know... an' for free too!What do you want to know?- How to save?- How to heal your allies?- Curative Magic?- Weapons and armor?- How to apply Materia?- Effective ways to use Materia?- How to form your battle party?- How to check your status?- About Limit status?- Other things to watch for?- That's all
+Now I'll tell you about saving.You know what'll happen if you don't save?That's right.Everything you worked so hard to do will be lost!You never know when there might be a power outage.And you've got a long battle ahead of you.It pays to save oftenand take breaks when you need them.Anyway you'll need a Memory card to save your games.But, uh, none of the stores around here sell any.You'll have to get some at a (real) store.I guess you already have a Memory card.Put the Card firmly into the slot.Put it in either the right or left side.Then when you're ready, access the menu.Select [Save].Remember you can't just save wherever you want.You can only save at places marked [Save Point].When you find one, a message will appear.Whenever you reach a [Save Point],you'll want to save your game.Slot 1 is on the left,slot 2 on the right. Choose either one.Next, choose your file and save it.Each Memory card can hold up to 15 files.If you have files from other games on it,there will be less room to save.The screen only shows 3 files at a time so,press the directional buttons to scroll down the list,and you can see the rest.Remember, the more files you have,the longer it will take to load.One last thing.The Memory card is a delicate device.Be careful when handling it.Never remove it while saving or loading.Don't get mad even if you lose.If that happens, just chill out,and let your head, and your console, cool down.That's all.Remember to save often so you don't lose your games.
+For my explanation, I'll need a Potion.
+You probably already know this but...HP is your life force.If HP is lost in battle, you're out of commission.MP is the source of your magic power.If your MP's lost, you'll be unable to cast spells.So, what should we do to cure a damaged ally?There are three ways.First, you can rest at an inn at a nearby town.Second, you can use items to help them recover.Third, you can use curative magic.I'll explain about Magic later,but here we'll talk about items.Select [Item] from the menu.Potion restores HP.If you can't find where Potion is,access the menu and select [Arrange]to change the order of items.You can arrange them however you like.Order items you'll use in the field.Order items you'll use in battle.Prioritize items you can throw in battle.Order weapons and armor separately.Order by nameOrder by most items heldOrder by least items heldBy the way,[Key Items]'s are just that,items that unlock problems just like a key.They're very important items to have.Keep that in mind.Ok, now select [Use],Then select [Potion].Select the person you want to use it on.If they're already maxed out,you won't be able to use it on them.We can restore MP with [Ether].You use this the same way you did for [Potion].Just pick a member and use it!The number appearing next to the item nametells you how many are available.Of course, the more you use, the less you'll have.Some enemies will drop Potions or Ethers,but you'll want to stock up whenever you're at a store.One last thing, if someone in your party gets wiped out,either rest at an inn or use [Phoenix Down].That's all!
+Now I'll tell you how to use curative magic.First, access the menu and select [Magic].Next, select who'll cast the spell.Pick an ally equipped with [Restore] Materia.You can select another party memberby using the L1 and R1 buttons.The function also work in other sub menus.Better remember that.This is magic you can use,monsters you can summon,and enemy techniques you've learned.Whenever [Magic] is selected...the available magic appears on the screen...So, if you wanted to use [Cure]...you would select it from the menu...then select who you want to use it on.I think Potion is pretty expensive, so...when you're near an inn and you can restore MP,it's better to use curative magic rather than Potion.That's all.
+Equipping weapons & armor is basic to battle.Let me show you how it's done.Just finding or buying new weapons or armor,isn't enough.You have to access the menu and select [Equip].Then, select who you want to equip.You can change weapons,armorand accessories.Accessories have special effects.Just select what you want to change.On the right side of the screen,here's a list of what can be equipped.You can see the item's effect here.Change your weapon with the OK button.Make sure it'll increase attack/defense levels.Pay special attention to Materia slots.The slots that are linked are effective.Also check the growth rates of Materia.Now when you want to remove an accessory...press the triangle button here.You should never remove weapons or armor.Because you never know when you'll be attacked.After you're finished equipping,you should re-equip your Materia.That's it!
+Materia can unleash hidden power in humans.So let's see how Materia is used.First, access the menu.Then select [Materia].Select who you want to use it.Pay close attention to my weapon here.Each weapon and armor has slots in them.Choose which slot you want to put Materia in.Now select the Materia you want to use.This is curative Materia.If you want to know what its effect is,line the cursor up with [Check],and push the OK button.It's just like selecting battle commands.Just line the cursor up to [magic],you can see that the available magic has increased.Now you can use new magic [Cure].And that's all there is to equipping Materia.See? It wasn't that tough!When you want to remove Materia,it's as easy as pointing to the materia slot,and pushing the triangle button.There's only one thing you have to watch out for.When you equip Materia, your condition changes.Parts of you will become stronger...while others get weaker.Normally, when you equip [Magic] Materia,your magic power will get stronger.But your physical strength weakens.So, Materia's kind of a double-edged sword.The left side of the screen,shows the effect of the Materia.Try out everything.And that's all.I'll tell you about some of the finer points next.
+Access the menu if you find Materia.There's a lot of different Materia around.This is one of them. It's [All] Materia.If you equip this alone, nothing will happen.It's a little tricky, but I'll tell you anyway.Now look at my weapon.Look closely at those two slots.They're joined together as linked slots.You've got to remember to put it into linked slots.Different Materia will affect each other.But only if the slots are linked.Just to show you,let's put some [All] into one of the slots,and [Lightning] in the other.Now we can use [Bolt] on [All] the enemies.But it's limited to once per battle.Combine different thingsand you'll come up with different results.Combining [Restore] and [All],will let you use [Cure] for your entire party.There are also many useless combinations.For example, [Restore] and [Lightning][Bolt] and [Cure] can be used normally, butthere won't be any compound effect.Specialized Materia like [All] is called [Support Materia].You can tell the differencejust by looking at the Materia's color.This may sound weird, butdid you know Materia grows on its own?Even if one of your allies uses it,it will continue to grow with each battle.As its level increases,so will the effects of the magic you can use.I told you [All] works once per battle.But it can work twice or more as it grows.When you get it to the master leve,Materia will divide itself, looking like it's giving birth.But that master Materia won't grow anymore.When you can't take Materia on anymore,you'd better sell it or dump it somewhere.You can see the useful functions here.You can [Arange] Materia,[Remove all] Materia from your weapon.You can throw Materia into the [Trash].Oops, relax! I wasn't gonna dump it.Let's see. This is a special menu for you.You can exchange all Materia you have between allies,even if they're not in your party.Now about Materia's growth.The growth rate depends onwhat weapon or armor it's put into.Some will double in growth, while others won't grow at all.In most cases, the Materia's effect won't changewhether you put it into a weapon or armor.But [Elemental] and [Added Effect]are completely different depending on whetherthey're put into weapons or armor.You've got to think aboutwhat weapon or armor to use, orwhat Materia combinations will be the strongest.I remember hearing once...about extraordinary Materia somewhere in the world.I think I've told you just about everything I can.
+I'll explain your party's order in battle.First, access the menu and select [Order].Next, select who you want to switch.Now, select the position you want.This will change their position in battle.In this casethere isn't any advantage/disadvantage.But when you select the same person twice,it will place themin either the front/back row in a battle.When they're on the left side of the screen,that'll be the front row...When they're on the right,that'll be the back row.When you're in the front rowand you select [Attack]you inflict major damage on your enemy.But you will also receive greater damage.While in the back row,although you do less damage to the enemy,you also receive less damage.For magic attacks,there's no difference in damagebetween the front & back rows.There is also no differencewhen you use long range weapons.It's better to keep weaker members...
+You must know your current status.That's one of the basics of battle.Access the menu and select [Status].Next, select the member you want to check.Were you surprised at the amount of information?I'll explain the order.First,these are your experience points and your level.The more experience you get in battle,the stronger you become.This gauge tells youhow many points you need to get to the next level.If you can't beat stronger enemies,raise your level by fighting weaker ones.You'll improve your physical and magical skills.Next is HP and MP.HP is your life force.When it reaches zero, you won't be able to fight.MP is the source of your magic power.Every time you cast magic, you use MP.and when you run out of MP,you won't be able to cast spells.This is called the Limit gauge.It shows your anger level.When the gauge is full, you can use a "Limit Technique".I'll tell you about "Limit Techniques" later.You know the battle commandsare classified roughly into two groups.[Attack] is for regular physical attacks.[Magic] and [Summon] cast magic attacks.Each has attacking power, defense power,and escape probabilities.The value depends on your equipment,and experience level.The total effect is on the chart below.These are commands you can use in battle.And your presently equipped weapons, armor,and accessories.Press the OK button here one more time.There are all types of attacks...Some monsters are weak against fire,others are weak against ice or lightning.The Materia or items you havecan add these [Elemental]s to your attacksor protect yourself from them in an enemy attack.This chart shows your current attributes.Press the OK button here one more time.The chart below means [Added Effect]s.Some enemies will use sneaky attacks on you.These attacks change your condition,such as...sleep, confuse, poison, darkness, petrify,silence, small, frog, and so on.These conditions disappear after each battle,except fury and sadness which will remain.To cure these conditions quickly,use items or magic.There are specific medicines for each condition.I know I'm repeating myself but,...when you're taken out in battle,I mean, when you're almost dead,use [Life] magic or the item [Phoenix down].When you change Materia or equipmentit's best to look here to check on them.Mastering Elementals and Added Effects...will make your battles safer.That's all.
+Here are a few hints on limit techniques.When an enemy has pushed your anger to the limits,you can unleash unimaginable power.You know what I mean, right?The trick is how to use it.Access the menu and select [Limit].Now select a member.Now decide what your limit will be.Lower limits have less power,but you can use them more often.If you set your limit higher,you can inflict great damage,but you'll have to wait longer.After using this technique for awhile,you'll improve your technique.Your development will changedepending on how you fight.I can't tell you how it will change.That's something you'll have to find out by yourself.I've heard a rumor about secret itemsthat inspire ultimate techniques.I don't know whether or not those items really exist.That's it! Try everything out and use what's best for you!
+You probably know all this. But just in case, I'll go over it.Until you get instructions, don't open or take discs out of the PlayStation.After you open up the Disc Cover, I can't guarantee what'll happen. That's all.
+Huh? Finger!? What the hell?
+Geez, you stand out even more than I do...
+You've got to hang in there. You're limit gauge is just starting to build.
+Ok! Now your limit gauge is full, go ahead and use it! Fight with your limit technique.
+Great!
+Calm down! When your enemy uses magic counter with [Magic Barrier] or [reflect].[Magic Barrier] reduces the damage received from magic by half.[reflect] bounces the attacks off you. But the number of times you can use it is limited so be careful.
+Great!
+If you want to get as strong as me you need to use Materia.And you have to find the best combinations of them.The type of Materia you put in your weapons and armor will determine how quickly your Materia grows.Put Materia into the open slots in your weapons and armor. The possible combinations are limitless.That's about all I can tell you. If you want to be like me, you have to have some natural talent.
+Listen kid, don't piss me off!That's all right. Just give it a try. Little by little, you'll get used to it.
+I'm not hard up enough to take money from guys like you. But I'll rap with you for a while.What do you want to know?- About ATB- The numbers on the screen- About [change] and [defend]- About [Escape]- About the gauges- About [status]- About [elementals]- About [help]- That's all the time I have for you!
+ATB or Active Time Battle is a system that is always in operation during battle.Select [Wait] from ATB on the Config Menu and time will stop when you select magic or items during battle.This gives you time to pick out your commands. This is especially helpful to beginners.Selecting [Recommended] ATB in the config menu can stop time while the effects of spells and items are taking place during battle.This lets you take your time looking over the progression of the battle. When you don't want to rush in battle, this is for you!Personally, I always use [Active], but you can use whichever you like.
+White numbers appearing on the screen in battle are damage points. Green numbers show restorative points.You better watch these if you don't want to get wiped out.
+The [change] command can move characters to and from the front and back rows.In the back row, the damage received is less, but the attacking power is less.You can make a [change] by pressing the Directional button in battle.Pushing the Directional button the other direction during battle accesses [defend].Selecting [defend] reduces the damage you receive by half until the next command.If you're up against a strong enemy, Don't hesitate to use this one. Of course, I never need it.
+I don't really remember ever having to use the [escape] command... but you'll probably need it.Push the L1 and R1 buttons at the same time, holding them down, and you can escape.
+During battle, there are several [gauges] displayed. You can't check them now, so just remember what I tell you.[time gauge] displays the time remaining until your next turn while in battle.When the gauge is full, you can make your command.If you don't want to make one, push the △ button and you can move to the next character.It's convenient when you wanna make Barret work.The [limit gauge] increases every time you sustain damage. When it is full, you can use the [limit technique].The gauge is not cleared after each battle, but gradually builds up over time.It takes a while for it to build up, so you have to think about which times are the best to use it.You probably don't know about it, but there are conditions of [status], [fury], and [sadness].When you have [fury], your limit gauge builds up sooner, but your attacking accuracy is lower.Keep in mind that [sadness] makes your limit gauge build up slower, but the damage you receive is also lessened.[barrier gauge] is for specialized magic.The top gauge displays [barrier] or magic defense against attacks. The bottom gauge displays [magic barrier] or defenses against magic attacks.Both will cut the damage you receive in half. However, over time they will disappear.Whenever you use [barrier] or [magic barrier] make sure to pay attention to the [barrier gauge].That's it. Remember that for the next battle.
+[status] means just that. The status of each character.I'll probably wind up repeating myself, but let me go over a few basic points.SleepYou cannot put in a command until you get up.PoisonSteals your HP in battle.FuryDamage is increased, attack accuracy decreased. Tranquilizers will remedy it.SadnessDamage is decreased. Hyper will remedy it.PetrifyWill petrify and become immobilized. Every member will be wiped out.ConfuseWill attack enemy and ally alike.SilenceWill be unable to cast magic.ParalyzeStops time gauges, commands.DarknessAccuracy of hitting attacks decreases.FrogBecome a frog. I hate this one!Hoo... I'm beat.[status change], since this can be changed with magic and items, you should check it whenever you buy things.
+[elemental] is the special effect that comes with certain weapons and magic.It's necessary to move ahead effectively. If you pay attention to the types of elementals you use you'll become intermediate in no time.I put together this list, but remember, it's just a partial list don't take it too literally.FireFire effect. Works best on animals and water monsters.IceIce effect. Works best on fire monsters and things that hate the cold.LightningLightning effect. Works best on mechanical things.EarthAttacks using the earth's power. Doesn't work on flying enemies.PoisonPoisons enemies. Doesn't work on any poison based enemies.GravityGravity based attack. These hurt if they hit.WaterCalls on the earth's water. Works well on fire monsters.WindCalls up the winds. Works well on flying enemies.HolyCalls up the Planet's power. Works well on dark monsters.If you use reciprocal elementals in your attacks, the effect is huge!Also, if you use the same elemental, your defenses are raised. But, you have to be careful because the opposite is also true.To see what elementals an enemy has, you need [Sense] Materia. If you get that Materia, you should try using it.
+Looks like you didn't get it the last time I told you. What's wrong with you? You touched in the head?Well, don't worry. You just need to push the [SELECT] button in battle.Do that, and the [help message] will walk you through the commands.It also shows you the name of your enemy, so even I use it once in a while. Make good use of it.
+- 10 gil- no way
+hoo...
+- A village called Nibelheim- Who cares?
+So, what are we gonna do now?
+So what's our next target?
+- Yeah...- My mistake
+- Huh...?- That's right
+- Yeah...- Not now
+Too late to be saying that now. Why'd you come along anyway?
+You don't care if I go first?
+Those light beams are the Shinra's security sensors. We can't go any further.After coming this far, only an amateur'd get caught by the security sensor.
+- Look inside closely- Go down- Don't go down
+Yeah. If we go down this duct, we won't be able to come back up here.
+- Go down- Don't go down
+......Tifa.
+No... forget...... Come on, let's hurry!
+...a trap...
+Long time no see, President.
+.
+Sephiroth......?
+...Techno-soldier?
+Wait, President!
+No way! It's just a machine.
+I know, Tifa......
+- (Be strong)- (I don't know if I can hold on...)
+Stop talkin' like this is the end!
+Barret...
+......I came crashing down?
+Flower bed...... is this yours?
+- Yeah, I remember you......- Never saw you before
+Yes, some.Nowadays you can find materia anywhere.
+......good for nothing? You probably just don't know how to use it.
+- I don't mind- Got nothing to talk about
+The name's .Me......? I do a little bit of everything.
+Yeah, I do whatever's needed.What's so funny? What are you laughing at?
+......Yeah, that's right.
+OK, I'll do it... but it'll cost you.
+I don't know who you are, but......You don't know me......?
+Oh yeah...... I know you.that uniform......
+Shut up! You Shinra spy!
+I know. Looks like they aren't going to let us go.
+Well we can't let them catch us, can we? Then, there's only one thing left.
+All right. I'll hold them off.
+Aeris!
+Damn!
+Here's a barrel. If I can just push it over......Push the barrel?- Yes- No
+Aeris, this way.
+You mean it's not the first time they've been after you?
+They're the Turks.
+The Turks are an organization in Shinra. They scout for possible candidates for SOLDIER.
+They're also involved in a lot of dirty stuff on the side.Spying, murder... you know.
+But, why're they after you? There must be a reason, right?
+Maybe you do. You want to join?
+Then, let's go!
+Funny...I thought you were cut out to be in SOLDIER?
+.........I used to be. How did you guess?
+That's the sign of those who have been infused with Mako...A mark of SOLDIER.But, how did you know about that?
+Nothing...?
+- I don't mind- No it's not!
+Listen, I'm no doctor.
+- Yeah- Nope
+..................huh?- Open the top drawer- Open the bottom drawer- Open the hidden drawer between the drawer
+...Is Sector 7 far from here? I want to go to Tifa's bar.
+Yeah.
+Girlfriend?- No way!- Yeah, that's right
+You gotta be kidding. Why do you want to put yourself in danger again?
+Used to it!?......Well, don't know... getting help from a girl...
+Yeah. Rather I used to be...
+Oh, man...
+...Not really.
+...I'm all right.
+......I'm not interested.
+...I must've fallen asleep.Sector 7's past Sector 6... I should be all right by myself...
+Can't get caught this time...
+Through Sector 6 to get to Sector 7. I should be able to do it alone...
+How could I ask you to go along when I knew it would be dangerous?
+Thanks. I guess this is goodbye. You gonna be all right going home?
+- See her home- Take her to Sector 7
+Yeah, I guess so.
+What do you mean in the way?
+Rank?
+Oh, I was...
+The same as who?
+You were... serious?
+I probably knew him. What was his name?
+Huh? Hey, back there......Tifa!?
+Wait!I'll go on alone! You go on home!
+- Yeah, me too.- Don't bring me down to your level
+- You know a girl named Tifa?- This place doesn't interest me.
+Whoa!...Broken.
+No!! You can't!!
+You DO know... what kind of... place this is, don't you?
+Well being a man, that'll be pretty hard. Besides if I bust in there, it'll cause too much commotion.But, I just can't let you go in alone... Oh, man......
+WHAT!?
+Aeris! I can't......
+...Hmm. That's how you'll fool them.
+Let's go!!
+Looks like this room's being used.- Take a listen- Take a peek
+............
+......Wooo... ow!!
+Looks like this room's being used.- Take a listen- Take a peek
+............
+......Wooo...ow!!
+- Not interested- Whatever...
+- Not yet......- ......Not really
+- Introduce yourself- Say Goodbye
+Looks like it's unoccupied.- I guess I'll take this one- Hold ground
+I'll take this room.
+- Don't make me repeat myself- I'm still trying to decide
+............
+Uh... OW...!!
+- Huh...?- Ugh...?
+What, this rag? For me!? I just don't get it.
+Looks like it's unoccupied.- I guess I'll take this one- Hold ground
+I'll take this room.
+- Don't make me repeat myself- I'm still trying to decide
+............
+- I'm used to being alone- Cut the small talk
+- Everyone...?- What am I doing?
+Oh man...What should I do...?- I'm outta here.- This could be dangerous...
+- ......- It hurts
+Ten...Nine...
+Eight...Twenty one...
+- Not interested- ............
+Five...Four...Three...Two...One...Alright, that's ten. I'm gettin' out.
+This is SOME underwear... I'm supposed to wear this...?Well, if it's to save Tifa... I guess there's no way around.
+If I were to dress up like a woman... Then I've got to really prepare carefully.Seems like I could put makeup on here.- Have them put makeup on- Don't do it
+I have a favor to ask of you. Can you put makeup on me too?
+We couldn't find him yet.
+Make me some clothes.
+How...... do you put this on?
+Whoa! What are you doing!
+...'like you'? Aeris, what did you tell him?
+Cute?
+Are you...?
+- Don't have it- Got it
+- A little- Don't need to practice
+- Sit down- Don't sit down
+Hmm...- Korean B.B.Q. Plate- Sushi Plate- Today's Special
+- .........- It was all right- I've had better dog food
+- Disinfectant- Deodorant- Digestive
+- Give her medicine- Don't give her it
+......- What is it- Not interested
+......Aeris.
+......- I'll go- Not interested
+He means this?- Don't buy it- Buy the one for 200 Gil- Buy the one for 100 Gil- Buy the one for 50 Gil
+Not yet.
+I got it.
+I got it.
+I got it.
+I don't have enough money. I'll get him the other one.
+- Okay... I'm ready- Not now
+...What do you mean 'nicely'?
+What's wrong, Aeris?
+...Oh, yeah.
+Hey, give me a chance to answer.I'm dressed like this...... because there was no other way to get in here.I'm all right. Aeris helped me out.
+Tifa, explain. What are you doing in a place like this?
+Thanks. What happened?
+That's when the Don's name popped up.
+I see. So you wanted to get the story straight from Corneo's mouth.
+No, Aeris! I can't have you get involved.
+No, I don't want Tifa in...
+I probably don't need to ask but the other girl is......Me...... right?
+No... I'm flattered, but no thanks.Because...
+Because...I ain't INTERESTED in a buncha scrubs like you!!
+Aeris!!- You all right?- We gotta help Tifa!
+No... I'm flattered, but no thanks.Because...
+Because...I ain't INTERESTED in a buncha scrubs like you!!
+Tifa!!- You all right?- We've gotta help Aeris!!
+Wa, wait a sec! I mean, uh, please wait a moment!
+- Of course!- Ummm......
+- Whatever YOU want, daddy- Don't really care......
+- All right......- Nope, can't do that......
+Because...Because I'm gonna have to use that mouth of yours to give me some information!!
+- No, only you- Yes, his name's Barret...
+- Whatever YOU want, daddy- Don't really care......
+You know, he's one of the ones you were trying to find out about. You know, AVALANCHE...?
+- No, only you- Yes, his name's Barret...
+...I'll chop them off.
+The head of Public Safety Maintenance!?
+Of course, Tifa.
+Shut up!
+- They've pretty much given up on life- They're sure they'll win- They don't know what the hell's going on
+You alright?
+You alright?
+Aeris. I got you mixed up in all of this...
+Wait! You hear something...... above us?
+Wedge!! You all right!?
+I'm going up!Aeris! You look after Wedge.
+- Nope, not interested- You're wounded......
+- Don't say 'last'......- Is that so...
+...It's not a normal time bomb.
+What are you gonna do with Aeris!?
+Hey, Barret!
+Hey!
+All three of them were in the pillar.
+.........
+Yeah... But before that, there's something I want to know.
+...it's about the Ancients.
+Sephiroth...?
+...Sorry. The Shinra have her.
+They were here?
+Why is Shinra after Aeris?
+It's amazing how she's avoided the Shinra for all these years...
+Must be Marlene.
+- I don't know- Let's hope so
+Yeah.
+We're going right into Shinra Headquarters. ...You gotta be prepared for the worst.
+You're gonna sell me something you just found?
+Why do I need a battery to climb up to the plate?
+......- All right, I'll take them- I think you're full of it
+- Help him- Leave him
+There's no way we can do this. You know how far it goes up?
+Just a normal wire.
+Ok, that was a bad analogy, but, Barret, I understand how you feel.Let's go!
+Maybe if I put a battery in...The propeller might work.
+...Not really, now that I think about it,This's the first time I've ever been to the Headquarters.
+- Let's bust on in!- Let's sneak in quietly
+Nothing. Have to find another way up, I guess...
+I didn't want to start a ruckus till we saved Aeris.I should have known that was impossible though...
+What is it? You're givin' me the willies.
+Who cares if you're impressed...?
+...Because we don't want to start a commotion until we've saved Aeris.I doubt that's possible though...
+Knock it off. You're giving me the creeps.
+Who cares what you figured!
+What's that supposed to mean, Tifa?
+- Yeah- No......
+What's this?
+- Things?- Um, I'm kinda in a hurry...
+- Where's Aeris?- ......
+- HELP- Forget it
+- Give him the money- Forget it!
+- Give me the hint again- Give me the next hint- Uh, nothing
+- Give him the money- Forget it!
+- Give me the hint again- Give me the next hint- Uh, nothing
+- Give him the money- Forget it!
+- BEST- KING- ORBS- BOMB- MAKO- HOJO- Wait a second
+- All clear- Coupon Change
+- Yeah......- No
+An air-duct... It doesn't look like I'll be able to climb in here.
+- Coupon Change
+- Yeah......- Naw
+- All clear
+.......- Should I try it?- This is so stupid
+Whew...- Better quit pretty soon- Continue a bit longer
+Feels like I got a little lighter...... At least I think so...
+...Nothing...
+...Is it broken?'- BANG on it- Give up
+What is this...... a Megaphone?Hanging on to this won't do any good...
+A model of Midgar... born from Mako sucked right out of the earth.Parts of the model are missing...- Place the Midgar parts- Leave it alone
+...Sounds like something opened up...
+- Flush?- Climb up?- Get out of here
+They were talking about Aeris... right?
+Let's follow 'em.
+Hojo... huh...?
+This is the first time I've actually ever seen him. So... that's what he looks like...
+Jenova...
+Jenova... Sephiroth's... So... they've brought it here.
+Did you see it?
+It's moving...... still alive?
+Aeris!
+We're taking Aeris back.
+Ugh.
+What do you think you're doin'?
+Barret! Can't you do anything?
+Now's our chance to get Aeris!
+...The elevator is moving.
+We'll take care of that monster.Somebody take Aeris somewhere safe...- Tifa, I'm countin' on you!- Barret, take care of her!
+What's your name?
+Come on!
+Aeris, you all right?
+If all five of us go together, we'll be noticed. Let's break up into two groups.
+H, hey! What is it?
+Turks? Must be a trap...
+Ggh...
+You all got caught, too?Where is Aeris!?
+- (Leave it to me)- (Kinda hard)
+I wonder how Barret is doing
+I wonder how Red XIII is doing
+I wonder how Aeris is doing
+Aeris!? You safe?
+Hey, I'm your bodyguard, right?
+...Speak with the Planet?
+You hear it now?
+Let's just get some sleep
+The door's open... When did it open?
+Something's wrong. Look outside.
+He should have the key on him...Come on, Tifa, get Aeris. I'll go help Barret and the others.
+...Did it get away? Jenova...?
+Sephiroth's!!
+...Looks like it. Only Sephiroth can use that sword.
+What happened?
+Did you see him? Did you see Sephiroth?
+You really saw him?
+Save the Promised Land? A good guy? No way!!It's not that simple! I know him! Sephiroth's mission is different!
+I'm , former SOLDIER First Class!
+Get outta this building with Aeris!
+I'll explain later! Barret! This is the real crisis for the Planet!
+I'll tell you later! Just take my word for it now! I'll go after I take care of him!
+You seek the Promised Land and Sephiroth.
+...A lot has happened. Anyway, I can't let either you or Sephiroth have the Promised Land!
+I couldn't finish 'em. Looks like this's gonna get complicated.
+Sephiroth is alive. I... I have to settle the score.
+...Seems like it.
+About the Ancients?
+- You hate traveling?- It's dangerous. You sure you want to go?
+- Really? ...You worried?- It's dangerous. You sure you want to go?
+- Yeah, she should be- Hmm, I don't know
+Then...- Let's stay here for a while- Let's go!
+...I got the feeling I'm forgetting something...Hey, would you stay there just a minute?
+Not far inside the mine, the others stop.
+
+BarretHey . If we keep going, we'll never get to Kalm.
+TifaHey, . Wasn't Kalm right before this cavern?
+Red XIII...We won't get to Kalm even if we go through these caverns.
+
+
+BarretYo, wassup? Can't SOLDIER-man even lead the way?
+Aeris! Are you lost!?
+TifaKalm should be closer to Midgar.
+Red XIIIIf we're planning to meet at Kalm, we should go back and look for it again.
+
+ and his party arrive in Kalm.
+
+BarretThis is Kalm.
+AerisWe've reached Kalm.
+TifaSo this is Kalm?
+Red XIII......looks like we've reached Kalm.
+
+
+BarretYo, I'll be waitin' at the inn... Hurry up and get your butt over there!
+AerisI wonder if everyone's there already. Let's hurry over to the inn!
+TifaEveryone's waiting at the inn. Let's go .
+Red XIIIWe're supposed to meet at the inn. ......Shall we go?
+
+The party starts to enter the inn.
+
+BarretGet over here!
+AerisWell then, I'll go on ahead.
+TifaLet's go .
+Red XIIILet's go .
+
+The others all go inside, but  has the opportunity to explore the town before joining them. A number of people are out in the square.
+RedheadAw, c'mon! listen to me! Got anything interesting to say?......
+Old ManThanks to Shinra, Inc. developing Mako energy for us, everything's more convenient now.Maybe a little too convenient.
+Black-haired ManTourists, huh?There are some things you should know that'll come in handy when you travel around the world......Want me to tell you what they are?
+- Tell me- I already know
+
+Tell me
+Black-haired ManThen let me explain how to use the world map.Well then, what do you want to know?
+- Changing the camera angle- Map indicators- Operating the buttons
+
+Changing the camera angle
+Black-haired ManFirst of all, press the [L2 button] on the controller to change the camera angle.There are 2 angles to choose from, select the one you like.You can then rotate the angles either way by pressing the [L1 button] and [R1 button].Try different angles until you find the one you like best. It makes the journey a lot more fun!Anything else you'd like to know?
+
+
+Map indicators
+Black-haired ManPress the [Start button] once to view the World Map.There is a large and small map. Learn when to use which, and you won't get lost as much.Push the [Start button] twice to change the size of the map, and once more to turn it off.Pretty easy, huh?Anything else you want to ask?
+
+
+Operating the buttons
+Black-haired ManYou can ride things by pressing the [SELECT button] and get off by pressing the [cancel button]. This isn't so hard, either!Oh, yes, yes. You can't dash with the World Map on, so make sure not to press the [cancel button] unless you get off.Remember this because Chocobos will run away as soon as you get off them, so be careful.Anything else you want to ask?
+
+Black-haired ManOnce on the World Map you can access the menu to save your game anywhere. It's a good idea to save frequently!Well then, bon voyage!
+
+
+I already know
+Black-haired ManIs that so? Well, that's that. Have a nice trip.
+
+Man in BlueI hear that the natural resources near the reactors are being sucked dry.We're better off with them bringing in the Mako energy.
+Or, if you talk to him when he stops to read the gauge outside the Weapons Shop:
+What does it do? It checks the pressure of the Mako energy sent from Midgar.
+ManI heard President Shinra was killed. And his son Rufus, the new president, was badly hurt.Hey, I bet that's news to you?
+- Hey you're pretty clued!!- Don't care...
+
+Hey you're pretty clued!!
+ManHeh, heh, heh...... This is just between us. I heard it was that there Ava-whaddya call-ums that attacked the President Shinra and his son.
+
+
+Don't care...
+ManDon't care? If you're going to travel, you'd best keep an eye on what Shinra's doing.
+
+ManShinra is leading the world around by the nose, and you guys are just gonna sit back and take it?
+WomanThe famous floating city, Midgar... Just once I'd love to see it in person.South of this town past the Mythril Mine and far to the west is a Shinra harbor called Junon.They say there's a reactor and many tall buildings there. I hope to see it someday.
+Inside the first house...
+WomanThanks to Mako energy, life's pretty darn convenient. Thanks to Shinra.Don't you think?
+- Yeah, maybe- You're full of it
+
+Yeah, maybe
+WomanSee!? How would we get by without Mako energy?
+
+
+You're full of it
+WomanHmmn. But I'd hate to think of what life'd be like without Mako energy.
+
+WomanYeah, Mako energy's made our lives much easier. And it's all thanks to Shinra, Inc.
+Girl UpstairsMako energy's made things a lot more convenient......But seems like a lot of plants and animals have been disappearing at a rapid pace.I think the old life was better.Don't you think so?
+- Yeah, maybe- No way
+
+Yeah, maybe
+Girl UpstairsYeah, sure I'm right! You think so, don't you?
+
+
+No way
+Girl UpstairsThat sounds just like what my mom says.
+
+Girl UpstairsI thought things were better when I was able to play with animals......
+Inside the second house...
+Old ManDid you say you came from Midgar?I used to live there, too. But I hear they got lots of troubles lately.
+Inside the third house...
+WomanThere was a suspicious-looking man in a black cloak! He was carrying a wicked-looking sword.Why doesn't anyone believe me? I'm all alone...
+Upstairs, a boy is running around while a little girl watches him.
+Girl......My older brother's so stupid. He's so embarrassing I could just puke!
+BoyWhen I grow up I'm gonna be in SOLDIER. That's why I'm training hard now!!Hyah, hayah, eagghh!
+Inside the fourth house...
+WomanIs it true that Shinra made a Monster?
+- It's true- Just a rumor
+Woman (she says the same thing regardless)Yeah, well either way, as long as we're using the reactor, we can't stand up to Shinra.
+Kalm TravelerThe world's at peace... all's well.I got my health, and enough to eat... all's well.
+Kid outside BarMy old man was a miner, but he couldn't go to work after monsters started appearing in the Mythril Mine.Now all he does is sit around getting drunk in the bar...
+Inside the bar...
+Person in BlueI heard terrorists bombed a Midgar reactor...There sure have been a lot of dangerous accidents recently. I hate it, just hate it.
+ManMe? I used to work in a coal mine down south called Mythril MineBut, right around then, monsters started appearing.After that, business went to pot and now I spend the days here drinking.Urrrp! ...hic... I'm stinking drunk!!
+BartenderIt seems there was this group called AVALANCHE runnin' around, but I guess they finally got wiped out by SOLDIER.Shinra is trying to eliminate anyone, who stands up to them.It don't matter if we like it or not. Shinra's taken over, and we gotta live with it!
+CookStay out of the kitchen.
+Item ShopkeeperThis is the Item Store.
+Materia ShopkeeperThis is the Materia Store.
+Weapons ShopkeeperThis is the Weapons Store.
+If  tries to leave Kalm...
+Barret and the others are waiting for us at the inn.
+His exploration of the town exhausted,  goes to the inn.
+InnkeeperMr...... ? Your party is waiting for you on the 2nd floor.
+ heads upstairs to find everyone waiting.
+Aeris, you're late!
+BarretYo man, you're late!
+Sorry to keep you waiting.
+AerisGuess everyone's here now.
+BarretSo let's hear your story......You know, the one about Sephiroth and the crisis facing the planet.Let's hear it all.
+......I used to want to be like Sephiroth, so I joined SOLDIER.After working with Sephiroth on several missions, we became friends.
+BarretYou call that a friend?
+Yeah, well......He's older than me, and he hardly ever talked about himself.
+Tifa.........
+So I guess you'd call him a war buddy...... We trusted each other. Until one day......
+Aeris...one day?
+After the war it was SOLDIER's duty to put down any resistance against the Shinra.......that was 5 years ago.I was 16......
+A flashback sequence begins.  and Sephiroth are riding in the back of a truck with two Shinra infantrymen.
+It sure is raining hard.
+He walks to one of the infantrymen.
+Hey, how are you doing?
+SoldierI'm all right.
+I wouldn't know...I've never had motion sickness.
+He walks to the other infantrymen.
+Everything okay?
+SephirothHey.Settle down.
+ (doing squats)They gave me some new Materia.I can't wait to use it.
+Sephiroth...just like a kid.
+You going to brief us about this mission?
+Sephiroth...this isn't a typical mission.
+Good!
+SephirothWhy do you say that?
+I joined SOLDIER so I could be like you.But by the time I made First Class, the war was already over.My big hopes of becoming a hero like you ended with the war.That's why I always sign up whenever there's a big mission. Kind of a way to prove myself.Say, how do you feel, MISTER Sephiroth?
+Sephiroth...I thought you wanted a briefing?
+ scratches his head.
+SephirothOur mission is to investigate an old Mako reactor.There have been reports of it malfunctioning, and producing brutal creatures.First, we will dispose of those creatures. Then, we'll locate the problem and neutralize it.
+Brutal creatures... Where?
+SephirothThe Mako Reactor at Nibelheim.
+Nibelheim...That's where I'm from.
+SephirothHmm... hometown...
+There is a loud thud.
+DriverSir... s, something strange just crashed into our truck!
+Sephiroth stands.
+SephirothThat would be our Monster...
+Sephiroth and  go outside to fight the green dragon that attacked the truck. Sephiroth kills it in a few hits.
+Sephiroth's strength is unreal. He is far stronger in reality than any story you might have heard about him.
+AerisSo... Where do you come in?
+Me? I was mesmerized by the way Sephiroth fought.
+Tifa.........
+......and then we reached Nibelheim.
+Another flashback sequence opens: Sephiroth approaches the gate to Nibelheim, then turns around to face the others, who are still off-screen behind him.
+SephirothHow does it feel?It's your first time back to your hometown in a long time, right?So how does it feel?I wouldn't know because I don't have a hometown...
+Ummm... how 'bout your parents?
+SephirothMy mother is Jenova. She died right after she gave birth to me. My father...
+He laughs and shakes his head.
+What does it matter...?All right, let's go.
+The others approach and stop before the gate.
+SoldierPsst... (You keep wandering around here and you'll get in trouble.)
+Soldier 2It's so boring, being on watch.
+- You want to do what we always do?- Just sit tight, it's your job, right?
+
+You want to do what we always do?
+Shall we practice?
+Soldier 2Practice... oh, you mean practice my pose.Does someone in SOLDIER always have to be careful about what other people think?...How did it go?
+He strikes a pose.
+...Was it like this?
+While they're talking, the other soldier perks up and strikes the same pose.
+Good job!
+Soldier 2I really don't want to be in SOLDIER.
+
+
+Just sit tight, it's your job, right?
+I'll come and talk to you once in a while. Just stick with it.
+
+SephirothThe Mako smell is pretty bad here.
+BarretYou wait a minute!!Isn't that, um...?The name of Sephiroth's mother...I remember Jenova. That's that damn headless spook livin' in the Shinra building.
+That's right.
+TifaBarret, would you please let us hear what  has to say? You can ask questions later.
+BarretTifa, I was only......
+TifaOkay , continue.
+AerisIt's a reunion of childhood pals!
+......I was really surprised with Tifa.
+ (narrating)...The town was quiet.Everyone must be staying in their houses, afraid to come out because of the monsters.No, maybe they're afraid of us...
+In the flashback sequence, Sephiroth and  are standing just outside the inn.
+SephirothWe leave for the reactor at dawn. Make sure you get to sleep early.
+He heads for the door, then stops and turns back.
+All we need is one lookout, so you others, get some rest.
+One of the soldiers runs in from the gate, stopping just behind .
+SephirothOh, that's right...You may visit your family and friends.
+Sephiroth goes inside just as a man runs out of the neighboring house.
+Man with CameraI heard Sephiroth was coming and got my camera ready.I want a shot of Sephiroth and a monster.
+- Take my picture.- Better get back in the house, it's dangerous.
+
+Take my picture.
+Man with CameraI don't take pictures with nobodys.
+
+
+Better get back in the house, it's dangerous.
+Man with CameraAll right... So big-headed...Hey? This guy's a real...You... Are you ?Really? So that's how it is, huh?Gosh, , you've grown up to be a nice-looking lad.
+- Then take my picture- It's dangerous, get back in your house
+
+Then take my picture
+Man with cameraLet's do this, . Let me take a picture of you with Sephiroth.
+
+
+It's dangerous, get back in your house
+Man with CameraOK, OK,...... So big-headed... You're just his assistant
+
+
+SoldierMan... I'm so nervous.
+- How come?- I'm excited.
+
+How come?
+SoldierLook, you never know when a monster's gonna show up, right?
+
+
+I'm excited.
+Soldier...That's right. Don't blow your chance to become a hero...
+
+Inside the house next to the inn...
+WomanWelcome.Hey? Aren't you...
+Flash of white. The woman disappears.
+...Have I come here before?...I don't remember.
+BarretNow you're pissin' me off!! This don't matter, so get on with it!
+Once  emerges, the soldier is now walking around the square, pausing to look at the water tower, Tifa's house, and 's house.  walks up to the Shinra mansion.
+This Mansion......No, I'll come here later.
+Tifa's father is standing near the mansion.
+Tifa's FatherHmm? You from Shinra?
+- That's right!- Who are you?
+
+That's right!
+Tifa's FatherGeez... Big-headed young kid.
+
+
+Who are you?
+Tifa's FatherI'm the town's... ...... ......!?Aren't you ?Don't you know me?
+You're Tifa's...
+Tifa's FatherRight. I'm Tifa's father....I want you to stay away from my daughter.We don't need the Shinra's help to protect our town!
+
+If  tries to go up the path towards the mountain...
+Up ahead is... Mt. Nibel.I'll tell you about the time I went into the mountains.
+ goes to his house across the street.
+This is...... my house. It has nothing to do with that incident five years ago.
+BarretYo wait, I wanna hear.
+AerisMe too! It's been a long time, right?
+BarretTell us more!You saw your family, right?
+- Don't want to talk about it- All right......
+
+Don't want to talk about it
+BarretWell I ain't gonna force ya...
+
+
+All right......
+I don't know if you could call it a 'family'......My father... died when I was still very young.That's why my mom...... was living alone in this house.Yeah, I saw my mom.My mom... she was a vibrant woman. Hadn't changed at all.But a few days later, she died...But when I saw her, she looked fine.
+
+Back in the flashback,  walks farther into his house.
+Uh...?
+'s MomYe----s?
+She runs over.
+!?Welcome home, !
+Hi, mom.
+Flash of white noise.
+'s MomCome, come... Let me take a look at you!Hmmm......You look so handsome.So this is a SOLDIER uniform?
+......Mom, I...
+Flash.  is now lying on the bed.
+'s MomMy, how you've grown.I'll bet the girls never leave you alone.
+...Not really.
+'s Mom...I'm worried about you.There are a lot of temptations in the city...I'd feel a lot better if you just settled down and had a nice girlfriend.
+...I'm all right.
+'s MomYou should have...an older girlfriend, one that'll take care of you.I think that would be the perfect type for you.
+......I'm not interested.
+Flash. They're now standing in the kitchen.
+'s MomAre you eating right?
+I'm all right. The Company takes care of me.
+'s MomIs that so?You can't cook, right?I was worried sick about how you were doing...
+Flash.
+'s Mom...?
+Flash.
+'s MomYou know, ......
+Flash.
+'s Mom......isn't that right, ?
+Flash.
+'s MomI will always be your mother...
+The screen fades to black.
+ (narrating)......Let's stop this......
+The image returns, with  just outside his house. If he tries to go back inside...
+Hey...I can't... remember much else. There's... nothing more to talk about.
+AerisThat's all right, .
+ goes into Tifa's house.
+Tifa...?Did you go into my house?
+- Yeah...- No...
+
+Yeah...
+I thought you might be home.
+
+
+No...
+I remember you weren't there.
+
+ walks up to Tifa's room.
+Tifa...?Did you go into my room?
+- Yeah......- No...
+He walks to her piano.
+TifaDid you play my piano?
+- No, I didn't- Yeah, I jammed on it- Just a little
+
+No, I didn't
+Nothing happens.
+
+
+Yeah, I jammed on it
+...Now how did this go?- I forgot- I remember
+ plays on the piano a bit. If you play the FF7 main theme, he'll say:
+I've heard this melody somewhere before. Managed to play well...
+
+
+Just a little
+I can read sheet music too, you know...... Ummm, let's see......Do... Re... Mi... Ti... La... Do... Re... Mi... So... Fa.. Do.. Re... Do... Forget...
+
+ walks to Tifa's desk.
+The letter...
+TifaDid you read it? My letter?
+- I'd never do that!- Yeah...
+
+I'd never do that!
+TifaOf course!
+
+
+Yeah...
+TifaDo you remember what it said...?
+- I don't remember...- I remember clearly
+
+I don't remember...
+TifaThen, let's go on with the story about Sephiroth.
+
+
+I remember clearly
+I read it...It was a letter addressed to Tifa from the son of the guy that runs the General Store...
+LetterTifa, how are you? I just arrived in Midgar eight days ago.Yesterday, all of Nibelheim got together to welcome me. The only person that we couldn't get a hold of was .But everyone said he wasn't really that close to us. So even if we asked, he probably wouldn't have come anyway.Well, enough about him.Midgar is really something. But to tell the truth, I feel so behind on everything... so out of it.Even the rooms of people in the slums are clean.Right now I'm living in the slums, but I plan to move to a really nice room, like the ones I've seen in magazines, once I make some money....but, to do that, I guess I have to find a job first. That's right. I still haven't found a job yet.I lied to my parents and told them I found a great job with Shinra, Inc.I wonder if it's too late to go back. Sometimes I think I should've taken over my parents' store.
+Tifa... Do you remember all of it?
+- No, that's it- Yeah, I remember it all
+
+No, that's it
+TifaThen, let's go on with the story about Sephiroth.
+
+
+Yeah, I remember it all
+Because there was some stuff about me...
+LetterI just made it here to Midgar but all I think about is Nibelheim.Hey, Tifa... Is that stupid old water tower still working?Is the old man at the Inn doing well? Are my parents still at the shop everyday? Have any monsters attacked?And most of all, how are you, Tifa? It feels like I haven't seen you for years.We were all talking about you last night.Everyone likes you. But because everyone idolizes you, I couldn't very well stab them in the back.I always acted cool, but actually, I was just afraid of being jilted.Wow, if I keep writing like this, this'll become a love letter!So, I think I'll stop here. Take care. I'll write again.P.S. Write me back, okay?
+
+
+
+ walks to the dresser.
+Received "Orthopedic Underwear!"
+Tifa!!!
+- It's true- Just kidding. Don't get mad...
+Tifa (she says the same thing regardless)...We're talking about something really important here.
+Inside the neighboring house...
+Black-haired Woman...Oh, you're with the Shinra? Welcome.Oh, I'm sorry! It's you, ! I didn't recognize you.
+Two kids come running in.
+GirlShinra----?
+BoyChinra---?
+GirlSOLDIER?
+BoySaltza?
+GirlAre you going to kill the monsters?
+Boy......are you going to?
+GirlHe's soooo cool!!
+BoyWay cool!!
+Black-haired Woman, you've grown to be a strong man.
+Boy........................
+GirlDo your best.
+BoyDo your best.
+ enters the inn.
+GrampsSo, what do you need, ?
+- Where's Sephiroth?- Give me a room to stay.- Let me know the situation of the town.
+
+Where's Sephiroth?
+GrampsYeah, he's upstairs.
+
+
+Give me a room to stay.
+GrampsIt's all reserved for you Shinra people, so I don't mind. But, wouldn't you feel more comfortable staying at home?
+
+
+Let me know the situation of the town.
+GrampsNow about the town...A lot of monsters have been appearing in the last 12 months.Other than that, there's not much change. Nothing much exciting happens in a little town like this.It was all right when they were building the reactor....while they were still building it.But once it was completed, it's been bad.Within a few years, all the trees on the mountain withered away.I don't know if the reactor was good or bad...I mean it's easy to say that it was a bad idea now. But now, what can you do about it...?Anyhow we've got to get rid of the monsters...Then, we'll all be able to relax a little bit.
+
+Zangan......HmmmmIs Shinra here to get rid of the monsters?
+And who are you?
+ZanganI'm Zangan. I travel around the world teaching children martial arts.I have 128 students all over the world!In this town, a girl named Tifa is my student.
+Did you say Tifa?
+ZanganTifa has good sense. She'll be a powerful fighter.I want to see some Shinra techniques.And if you see anything you can use, you might want to incorporate some of my techniques.Well, good luck.
+If you go back outside to talk to the soldier again...
+SoldierHey, if you don't calm down, you won't get a good evaluation...
+ goes to the second floor of the inn to find Sephiroth standing by a window, staring out. While they're talking, the infantryman from the square comes up the stairs and enters the room.
+What are you looking at?
+Sephiroth...This scenery...... I feel like I know this place.
+Soldier (inside the room)We're short one bed...
+Sephiroth............We have an early start tomorrow. You should get some sleep soon.
+- It's still early- Yeah, let's get some sleep.
+
+It's still early
+Sephiroth...I'm not going to wake you up tomorrow.
+
+
+Yeah, let's get some sleep.
+SephirothI've hired a guide to the Mako reactor.I've heard she's young, I hope we can rely on her...
+
+The next day,  wakes late and runs out to join Sephiroth and the two soldiers at the start of the mountain path, just past the mansion. A few of the townsfolk are hanging around, too.
+If  goes back to the inn instead...
+GrampsSo, what do you need, ?
+- Where's Sephiroth?- Give me a room to stay.- Let me know the situation of the town.
+
+Where's Sephiroth?
+Gramps...I think you probably know better than I do, but...
+
+
+Let me know the situation of the town.
+GrampsIt's the same story I always tell. You still want to hear it?
+- Yeah, tell me again- No, that's all right
+
+Inside the house next to the inn...
+WomanWelcome.Oh, oh, you're...
+Flash of white. The woman disappears. The same dialogue from earlier repeats and  is standing back outside.
+Inside the house next to Tifa's...
+Black-haired WomanHave a safe trip.
+If you try to enter the mansion...
+SephirothHey, stay over here!
+Man with CameraThink they'd let me take a picture?
+Tifa's FatherIf I knew this was going to happen, I would've made mountain climbing off limits...
+SoldierI was so nervous. I couldn't get any sleep...
+Soldier 2...Late again.
+If you try to go past them up the mountain path...
+SephirothHey, calm down! Wait over here.
+SephirothOnce the guide gets here, we're heading out.
+Tifa's FatherListen to me, Sephiroth. In case something happens...
+Tifa comes running up while he's speaking.
+Sephiroth...Trust me.
+TifaI'll be all right, Dad!I have two men from SOLDIER with me.I'm Tifa. Nice to meet you!
+Tifa! You're the guide?
+TifaThat's right.I just happen to be the number one guide in this town.
+It's too dangerous! I can't involve you in something like this!
+SephirothThen there's no problem if you protect her....Let's go.
+Man with CameraUmmm...Mr. Sephiroth! Please let me take one picture for a memento!Tifa, can you ask him for me too......?
+ and Tifa both pose in front of the mansion. Sephiroth reluctantly walks over.
+Man with CameraCheeeeese!
+He snaps a picture, and Sephiroth walks away immediately after.
+Man with CameraGreat, thank you!I'll give each of you a copy once I get it developed!
+They start out up the path to Mt. Nibel...
+ (narrating)A Mako Reactor was built in Mt. Nibel.The cold air of the mountains of Nibel. It was no different...
+If  runs back to town instead of following Tifa...
+Tifa's FatherI hate myself for asking you this, but...Don't take your eyes off of Tifa! Hurry up and go back to her side!
+GrampsHey, you want to rest?
+- Yes, please- Forget it
+
+Yes, please
+GrampsIt's already been paid for. Go on, get some rest.
+
+
+Forget it
+Nothing happens.
+
+ZanganOh? Did you come crying home?
+Up on Mount Nibel,  follows Tifa onto a rickety-looking rope bridge.
+TifaIt gets harder from here! Follow me!
+SoldierLet's hurry.
+ and the soldiers start across after her.
+TifaUh... the bridge!!
+The bridge creaks and then snaps, and they all fall to the rocks below.  and Tifa land near each other and get up. Sephiroth and one of the soldiers come around the bend to join them.
+SephirothEveryone seems to be all right. Can we get back to where we were?
+TifaThese caves are intertwined, just like an ant farm...Oh, and Sephiroth... There seems to be one person missing...
+SephirothIt may sound cold, but we've got no time to search for him. We can't go back now, so we must go on. We'll travel together from here.
+They continue on, entering some multi-colored caves.
+What's this?
+TifaA mysteriously colored cave...
+SephirothIt must be the Mako energy. This mountain is especially abundant in it. That's why the Mako Reactor was built here.
+Coming out of the caves into the light, they find a Mako fountain.
+...And what's this?
+SephirothA Mako fountain. It's a miracle of nature.
+TifaIt's so beautiful...
+She walks up to it.
+If the Mako Reactor continues to suck up the energy, this fountain will dry up too...
+The others walk over to join her.
+SephirothMateria. When you condense Mako energy, materia is produced.It's very rare to be able to see materia in its natural state.
+By the way... Why is it that when you use materia you can also use magic too?
+SephirothYou were in SOLDIER and didn't even know that?...the knowledge and wisdom of the Ancients is held in the materia.Anyone with this knowledge can freely use the powers of the Land and the Planet. That knowledge interacts between ourselves and the planet calling up magic...... or so they say.
+Magic...... a mysterious power...
+SephirothHa, ha, ha!
+Did I say somethin' funny?
+SephirothA man once told me never to use an unscientific term such as mysterious power! It shouldn't even be called 'magic'!I still remember how angry he was.
+Who was that?
+SephirothHojo of Shinra, Inc. ... An inexperienced man assigned to take over the work of a great scientist.He was a walking mass of complexes.
+TifaA Mako fountain... So this is where the knowledge of the Ancients is.
+They continue on and reach the Mako Reactor.
+TifaWe finally made it. We sure took the long way though.
+Tifa, you wait here.
+TifaI'm going inside too! I wanna see!
+ shakes his head.
+SephirothOnly authorized people are allowed in. This place is full of Shinra's industrial secrets.
+TifaBut!
+Sephiroth turns to the soldier.
+SephirothTake care of the lady.
+The soldier nods and moves to block Tifa's way up the stairs as  and Sephiroth go on inside.
+TifaMm, man!Better take real good care of me then!
+Beyond the initial entry over the Mako pit, there is a large chamber. Inside are a number of strange pods, and at the top of some stairs there is a door marked Jenova. Sephiroth is standing before it, shaking his head.  joins him.
+This is...... Jenova, right? The lock won't open...
+Sephiroth goes down the stairs and  follows.
+SephirothThis is the reason for the malfunction. This part is broken., close the valve.Did you close the valve?
+ closes the valve.
+SephirothWhy did it break...?
+He pulls himself up to look in the window of one of the pods.
+...now I see, Hojo.But, even doing this, will never put you on the same level as Professor Gast.This is a system that condenses and freezes the Mako energy... that is, when it's working correctly.Now... what does Mako energy become when it's further condensed?
+Uh, umm...... Oh yeah! It becomes a Materia.
+SephirothRight, normally. But Hojo put something else in there. ...Take a look.Look through the window.
+ pulls himself up to look. Upon seeing the monster inside, he falls back.
+Wh... what is this!?
+SephirothNormal members of SOLDIER are humans that have been showered with Mako.You're different from the others, but still human.But, what are they? They've been exposed to a high degree of Mako, far more than you.
+ gets to his feet.
+...is this some kind of monster?
+SephirothExactly. And it's Hojo of Shinra that produced these monsters.Mutated living organisms produced by Mako energy. That's what these monster's really are.
+Normal members of SOLDIER? You mean you're different?
+Sephiroth clutches his head as though in pain.
+H... hey, Sephiroth!
+SephirothN... no.........Was I?
+He starts slashing at the pods with the Masamune, and  leaps back.
+Sephiroth...Was I created this way too?Am I the same as all these monsters......
+...Sephiroth.
+SephirothYou saw it! All of them... were humans...
+Human!? No way!
+Sephiroth...I've always felt since I was small...That I was different from the others. Special, in some way.But... not like this...
+He twists to look as one of the monsters suddenly bursts out of its pod and lies moaning. The scene fades.
+ (narrating)Am I...... human?I didn't quite understand what Sephiroth was saying at that time.I was even more surprised by the fact that Shinra was producing monsters.
+BarretDamn, Shinra! The more I hear, the more I hate 'em!
+Tifa......who would have ever thought the Mako Reactor held a secret like that.
+Red XIIIThat would seem to explain the increase in the number of monsters recently.I think we should listen carefully to . Don't you think so Barret?
+Barret(Why you talkin' to me!?)
+- Save game and take a rest- Keep talking
+
+Save game and take a rest
+BarretYeah, mebbe so. Wanna take a breather here?
+
+
+Keep talking
+Nothing special happens.
+
+Barret......I get it.
+AerisTifa... You were waiting outside then?
+Tifa......Yes.
+We returned to Nibelheim. Sephiroth confined himself at the inn. He didn't even try to talk to me.
+TifaThen all of a sudden he just disappeared, right?
+We found him inside the biggest building in Nibelheim.
+TifaThe villagers used to call it Shinra mansion.
+Long ago, people from Shinra used to live in that mansion...
+Flashback scene:  and the soldier join Zangan, Tifa, Tifa's father, and the man with the camera at the gate to the Shinra mansion.  looks around at all of them, nods, and proceeds to the mansion. He can turn back to talk to them, but they bar his path into the rest of the village.
+Man with CameraWhat's Sephiroth doing?
+ZanganThere's nothing that'll harm the town, right?
+- Why...?- No way!
+
+Why...?
+...Why do you ask?
+ZanganThe Shinra showed up to eliminate any information that could be an embarrassment to the company...You pick these things up when you travel as much as I do.
+
+
+No way!
+It's Sephiroth. He would never do that.
+Zangan...Oh my. You sure do have faith.
+
+Tifa's FatherUntil we know that there's no danger, we're not moving.
+ goes inside on his own and finds the soldier outside one of the bedrooms.
+SoldierThere's no sign of Sephiroth, but I know I saw him go into this room...
+ goes into the room and finds the hidden door that leads down into the basement. At the end of the hall is a library, where he finds Sephiroth pacing while he reads.
+Sephiroth...an organism that was apparently dead, was found in a 2000 year old geological stratum.Professor Gast named that organism, Jenova...X Year, X Month, X Day. Jenova confirmed to be an Ancient...X Year, X Month, X Day. Jenova Project approved. The use of Mako Reactor 1 approved for use...
+Sephiroth stops in the hallway and lowers the book, looking up.
+My mother's name is Jenova... Jenova Project... Is this just a coincidence?Professor Gast... Why didn't you tell me anything? ...Why did you die?
+ approaches him.
+SephirothLet me be alone.
+ leaves the library.
+ (narrating)Sephiroth didn't come out of the Shinra Mansion...He continued to read as if he were possessed by something, and not once, did the light in the basement go out......
+ wakes in another bedroom of the Shinra mansion. He walks across the mansion to the basement entrance.
+SoldierSephiroth seems different.
+ goes down to the basement and down the hall to the library.
+SephirothHa, ha, ha......
+ continues to the study in the back, where he finds Sephiroth seated behind the desk.
+SephirothWho is it!?Hmph... traitor.
+Traitor?
+Sephiroth stands.
+SephirothYou ignorant traitor. I'll tell you.This Planet originally belonged to the Cetra. Cetra was a itinerant race. They would migrate in, settle the Planet, then move on...At the end of their harsh, hard journey, they would find the Promised Land and supreme happiness.But, those that disliked the journey appeared. Those who stopped their migrations built shelters and elected to lead an easier life.They took that which the Cetra and the planet had made without giving back one whit in return!Those are your ancestors.
+Sephiroth...
+SephirothLong ago, disaster struck this planet.Your ancestors escaped... They survived because they hid.The Planet was saved by sacrificing the Cetra. After that, your ancestors continued to increase.Now all that's left of the Cetra is in these reports.
+What does that have to do with you?
+SephirothDon't you get it?An Ancient named Jenova was found in the geological stratum of 2000 years ago.The Jenova Project.The Jenova Project wanted to produce people with the powers of the Ancients...... no, the Cetra....I am the one that was produced.
+Pr... produced!?
+SephirothYes.Professor Gast, leader of the Jenova Project and genius scientist, produced me.
+How... how did he...?Se... Sephiroth?
+SephirothOut of my way. I'm going to see my mother.
+Sephiroth leaves the library.  runs out of the mansion after him, only to find the village below in flames. Trying to walk through the flames to the north will trigger a voice.
+He---y! Is anyone here?
+ starts into the village.
+ZanganHey it's you! You're still sane, right?
+ nods.
+ZanganThen come over here and help me!I'll check this house. You check that one over there!
+He runs into the general store.
+Man with Camera (lying on ground)...Hey,Ummm... Am I going to die?
+Soldier (lying near 's house)...Sephi... roth
+ runs into his house, but comes out again right after, shaking his head.
+Terrible...Sephiroth... This is too terrible...
+ turns to see Sephiroth cutting down villagers with the Masamune. Sephiroth turns and walks away through the flames.  runs after him. He arrives at the Mako reactor to find Tifa kneeling by her father's body. The Masamune lies nearby.
+TifaPapa...Sephiroth!?Sephiroth did this to you, didn't he!?Sephiroth... SOLDIER... Mako Reactors... Shinra... Everything!I hate them all!
+She takes up Sephiroth's sword and runs inside. Sephiroth is standing before the door to Jenova's chamber.
+SephirothMother, I'm here to see you. Please, open this door.
+Tifa approaches with the Masamune.
+TifaHow could you do that to papa and all the townspeople?
+She climbs the stairs and raises the sword over her head to attack him, but Sephiroth pulls the Masamune from her grasp and slashes her. She falls down the stairs, landing near  as he runs in. The door to Jenova's chamber opens, and Sephiroth turns and enters.  kneels to gather Tifa in his arms.
+Tifa...You promised... You promised that you'd come...... when I was in trouble...
+He carries her to the side and sets her down, then runs inside Jenova's chamber to confront Sephiroth.
+SephirothMother, let's take this planet back together.I've thought of a great idea. Let's go to the Promised Land.
+Sephiroth...My family! My hometown! How could you do this to them!?
+SephirothHa, ha, ha...... They've come again, mother.With her superior power, knowledge, and magic, Mother was destined to become the ruler of this Planet.But they...Those worthless creaturesare stealing the planet from MotherBut now I'm here with youso don't worry
+He reaches up and tears off the mechanical angel figure from the front of Jenova's glass tank, revealing Jenova itself inside.
+What about MY sadness!? My family... friends... The sadness of having my hometown taken away from me!?It's the same as your sadness!
+SephirothHa, ha, ha... my sadness? What do I have to be sad about?I am the chosen one. I have been chosen to be the leader of this Planet.I have orders to take this planet back from you stupid people for the Cetra. What am I supposed to be sad about?
+Sephiroth... I trusted you...No, you're not the Sephiroth I used to know!
+ and Sephiroth face off, and the screen goes white.
+......and that's the end of my story.
+BarretWait a damn minute! Ain't there more?
+......I don't remember.
+AerisWhat happened to Sephiroth?
+In terms of skill, I couldn't have killed him.
+TifaOfficial records state Sephiroth is dead. I read it in the newspaper.
+AerisShinra, Inc. owns the paper, so you can't rely on that information.
+......I want to know the truth. I want to know what happened then.I challenged Sephiroth and lived. Why didn't he kill me?
+Tifa......I'm alive, too.
+AerisSeems like a lot of this doesn't make sense. What about Jenova? It was in the Shinra building, right?
+Shinra shipped it from Nibelheim to Midgar.
+AerisDid someone else carry it out after that? It was missing from the Shinra building.
+TifaSephiroth......?
+BarretDamn! Don't none of this make sense!I'm going, going, going, gone!And I'm leavin' the thinkin' to you!Yo, ! Let's get a move on!
+- Wait a sec- Right
+
+Wait a sec
+Barret, what's wrong? You just gonna stand there while Sephiroth heads for the Promised Land?I ain't lettin' Sephiroth or Shinra get to no Promised Land. If they do, then we're all screwed.Y'know what I'm sayin'!
+- Beautiful, just beautiful!- Is that all?
+
+Beautiful, just beautiful
+BarretY'all jes leave it to me!
+
+
+Is that all?
+Oh brother......
+BarretFine! That's good enough.
+
+
+
+Right
+BarretYo, c'mon let's go!
+
+Barret runs down the stairs.
+Oh brother......
+Tifa............?How bad was I when Sephiroth cut me?
+I thought you were a goner. ......I was really sad.
+Tifa.........
+AerisI...The Ancients...... Cetra...... Jenova...... Sephiroth and myself......
+TifaLet's go. Barret's waiting.
+, Aeris, and Tifa head downstairs.
+Red XIIIWhat a fascinating story......
+They all join Barret downstairs.
+
+BarretYo, . Here.
+Aeris. Take this.
+TifaOh, . Let me give you this.
+
+Received "PHS"!
+
+AerisWith [PHS], I can see you any time!
+TifaJust use [PHS], and you can contact any one of us easy.
+Red XIII[PHS], will put us in constant contact with each other.
+
+
+BarretAwright then, we're outta here.
+AerisWell, I'll be going.
+TifaI'm going on ahead.
+
+Innkeeper20 gil a night. What's it gonna be?
+- Stay?- Move on
+Innkeeper (she only says anything if you don't have enough gil)Seems like you're a little short. Why don't you drop by again... when you have money.
+ and the others leave the inn.
+RedheadListen to me! Just now, some guy in a black cloak goes walked east towards that grassy field.And he's got this killer sword, and is looking REAL scary......
+With that as their first clue,  and the others set out across the grasslands.
+
+< The Shinra Building | Kalm | The Road to Junon >
+- Tell me- I already know
+- Changing the camera angle- Map indicators- Operating the buttons
+- Hey you're pretty clued!!- Don't care...
+- Yeah, maybe- You're full of it
+- Yeah, maybe- No way
+- It's true- Just a rumor
+Barret and the others are waiting for us at the inn.
+Sorry to keep you waiting.
+......I used to want to be like Sephiroth, so I joined SOLDIER.After working with Sephiroth on several missions, we became friends.
+Yeah, well......He's older than me, and he hardly ever talked about himself.
+So I guess you'd call him a war buddy...... We trusted each other. Until one day......
+After the war it was SOLDIER's duty to put down any resistance against the Shinra.......that was 5 years ago.I was 16......
+It sure is raining hard.
+I wouldn't know...I've never had motion sickness.
+(doing squats)They gave me some new Materia.I can't wait to use it.
+You going to brief us about this mission?
+Good!
+I joined SOLDIER so I could be like you.But by the time I made First Class, the war was already over.My big hopes of becoming a hero like you ended with the war.That's why I always sign up whenever there's a big mission. Kind of a way to prove myself.Say, how do you feel, MISTER Sephiroth?
+Brutal creatures... Where?
+Nibelheim...That's where I'm from.
+Sephiroth's strength is unreal. He is far stronger in reality than any story you might have heard about him.
+Me? I was mesmerized by the way Sephiroth fought.
+......and then we reached Nibelheim.
+Ummm... how 'bout your parents?
+- You want to do what we always do?- Just sit tight, it's your job, right?
+Good job!
+That's right.
+......I was really surprised with Tifa.
+(narrating)...The town was quiet.Everyone must be staying in their houses, afraid to come out because of the monsters.No, maybe they're afraid of us...
+- Take my picture.- Better get back in the house, it's dangerous.
+- Then take my picture- It's dangerous, get back in your house
+- How come?- I'm excited.
+...Have I come here before?...I don't remember.
+This Mansion......No, I'll come here later.
+- That's right!- Who are you?
+You're Tifa's...
+Up ahead is... Mt. Nibel.I'll tell you about the time I went into the mountains.
+This is...... my house. It has nothing to do with that incident five years ago.
+- Don't want to talk about it- All right......
+Uh...?
+Hi, mom.
+......Mom, I...
+...Not really.
+...I'm all right.
+......I'm not interested.
+I'm all right. The Company takes care of me.
+(narrating)......Let's stop this......
+Hey...I can't... remember much else. There's... nothing more to talk about.
+- Yeah...- No...
+- Yeah......- No...
+- No, I didn't- Yeah, I jammed on it- Just a little
+The letter...
+- I'd never do that!- Yeah...
+- I don't remember...- I remember clearly
+I read it...It was a letter addressed to Tifa from the son of the guy that runs the General Store...
+- No, that's it- Yeah, I remember it all
+- It's true- Just kidding. Don't get mad...
+- Where's Sephiroth?- Give me a room to stay.- Let me know the situation of the town.
+And who are you?
+Did you say Tifa?
+What are you looking at?
+- It's still early- Yeah, let's get some sleep.
+- Where's Sephiroth?- Give me a room to stay.- Let me know the situation of the town.
+- Yeah, tell me again- No, that's all right
+Tifa! You're the guide?
+It's too dangerous! I can't involve you in something like this!
+(narrating)A Mako Reactor was built in Mt. Nibel.The cold air of the mountains of Nibel. It was no different...
+- Yes, please- Forget it
+What's this?
+...And what's this?
+By the way... Why is it that when you use materia you can also use magic too?
+Magic...... a mysterious power...
+Did I say somethin' funny?
+Who was that?
+Tifa, you wait here.
+This is...... Jenova, right? The lock won't open...
+Uh, umm...... Oh yeah! It becomes a Materia.
+Wh... what is this!?
+...is this some kind of monster?
+Normal members of SOLDIER? You mean you're different?
+H... hey, Sephiroth!
+...Sephiroth.
+Human!? No way!
+(narrating)Am I...... human?I didn't quite understand what Sephiroth was saying at that time.I was even more surprised by the fact that Shinra was producing monsters.
+- Save game and take a rest- Keep talking
+We returned to Nibelheim. Sephiroth confined himself at the inn. He didn't even try to talk to me.
+We found him inside the biggest building in Nibelheim.
+Long ago, people from Shinra used to live in that mansion...
+- Why...?- No way!
+(narrating)Sephiroth didn't come out of the Shinra Mansion...He continued to read as if he were possessed by something, and not once, did the light in the basement go out......
+Traitor?
+Sephiroth...
+What does that have to do with you?
+Pr... produced!?
+How... how did he...?Se... Sephiroth?
+Terrible...Sephiroth... This is too terrible...
+Sephiroth...My family! My hometown! How could you do this to them!?
+What about MY sadness!? My family... friends... The sadness of having my hometown taken away from me!?It's the same as your sadness!
+Sephiroth... I trusted you...No, you're not the Sephiroth I used to know!
+......and that's the end of my story.
+......I don't remember.
+In terms of skill, I couldn't have killed him.
+......I want to know the truth. I want to know what happened then.I challenged Sephiroth and lived. Why didn't he kill me?
+Shinra shipped it from Nibelheim to Midgar.
+- Wait a sec- Right
+- Beautiful, just beautiful!- Is that all?
+Oh brother......
+I thought you were a goner. ......I was really sad.
+- Stay?- Move on
+- Wark- Warrrk
+- Yeah- Not interested
+- Yeah- Not interested
+- All right- I'm in a hurry
+Mmm......- Give me one- Nope
+Old folks...?
+- Where are they?- How do I catch one?- What else?- Not interested
+- Chocobo Lure?- Go on
+- And then?- That all you can talk about?
+- Buy it- Don't buy it
+Did Sephiroth... do this......?
+- From the Turks, right?- Not interested
+Kidnapping, right?
+Aeris isn't with us. She's with the others.
+- All right- Not interested
+- ......petrified.- You're gonna lose again.
+- Go ahead...- Wait a second!
+- ......That's right.- You kiddin'?
+- ......What's your name?- ......Let's hurry on.
+- Where is Junon?- We'll help you
+- Like to help but...- I guess we'll help you
+See what?
+......- I guess so- Not interested
+The reactor and the condor.
+New lives......
+......
+......- All right- Not interested
+......- Well, let's do it- My position hasn't changed
+- Conditions for victory- The enemy- Soldiers, which can be hired- About funding- Other issues- Enough
+- Mobile types- Immobile types- Anything else
+- 500 gil- 1000 gil- 2000 gil- 3000 gil- 5000 gil- We can't help right now
+- Wait- Okay, ready- Contribute gil- Let them handle it- Hear more
+What happened to this town? It's so run-down...
+What kinda place is this?
+Did you see a man with a black cape?
+...that's how it is.
+Great...
+Hey! Hold on, we're coming!
+This is bad... You don't think she's dead, do you?
+Mouth to mouth!?
+But, ... she's just a girl......
+Guess I gotta do it...
+Yeah...- We'll try later- Let's rest
+Tifa...When Sephiroth and I went to Nibelheim, where were you?
+The other time.
+Are you all right now?
+That's all right.
+Hey!!Wait a second!
+A gift? What am I supposed to do with it!?
+Jump to the top of the pole?
+- Explain it to me again- Sure- I'll pass
+It's the Shinra uniform.- Don't change- Change
+A Shinra uniform...I was so proud when I first put it on.I wonder when it was......I couldn't stand wearing this thing anymore.
+- Not yet- All clear!
+Man in a Black Cape?
+- Who cares?- What if I am?
+- Not yet!- I've got it!
+Let's see... My best move is...
+Uh... yea......
+You're right...- Growth Materia- Kinds of Materia- Combinations of Materia- Divisions of Materia- Numbers of Materia that you may carry- The rest is a secret
+First off, the main points.Some types of Materia, like Magic, grow as you use them.Some, like Summon Magic, grow from being used once a battle, to several times per battle.Their effectiveness changes too. ...There are all different kinds.Some types don't change, but they must grow in order to be divided....And that's it. Maybe that sounded too official.
+Types of Materia... Here goes...![Independent Materia] enables Abilities. No linking required.[Support Materia] is used with Command, Magic, and Summon Materia.You must equip them in linked slots or they won't be any good.[Command Materia] lets you use new commands.There are lots of different kinds of Materia, so you'll never get bored. One called [Attack] changes itself.[Magic Materia] is easy. You can use Magic, and as your Level increases, you'll learn new Magic.[Summon Materia] let's you use Summon Magic. As your Level increases, the number of times you can use it in a single battle increases.This's one of my favorites.And there you have it, the five types of Materia.
+There's no single way to combine Materia. So here goes the basics.Support Materia... The basic combination is Magic + All.The variety of magic you can cast will increase as your Magic Level increases.When your All level increases, so does the number of times you can use it in a battle. That about covers it.Huh? Wait a sec...You can change between Magic-All and Magic with the L1/R1 buttons. I'll bet you've probably already done this.One effective combination is Elemental + Summon Materia.If you equip this combination to your weapon, you can put Magic and Summon Elementals on your weapon.For example, if you equip Fire + Elemental to your sword, you will end up with Fire Elemental Sword.I'm getting off the subject,... If you equip Fire + Elemental to your armor, it will have twice the resistance to fire damage.Now this is important. When the Elemental levels in your armor increase, so will their effectiveness. From half damage - no damage - absorb.If you combined Elemental and Fire you could develop Fire absorbing armor.Wait, there's more. Next is the Added Effect for Support Materia.The Added Effect Materia grafts the effects of Compound Status Materia into your weapons and armor.For example, equip Added Effect + Poison to your weapon and select [Attack].Sometimes you'll give a Poison status. Of course, it doesn't always work.If you don't combine the Added Effect Materia with Status Change Materia, like Confusion or Time, you won't get any effect.To learn more about Added Effect, access the menu and check the Status.It's a little hard to get, but if you take your time, you'll be all right.
+Division... I'm pretty good at this.People tell me that my personality is divided. But I don't think so, but maybe it is...Anyhow...Once your Materia reaches the maximum Level, it will divide.The original Materia will no longer grow. Once that happens, all you can do is use it as it is.New Materia always starts out with zero AP, so you need to raise its levels!Of course, once the new Materia reaches its max, it'll divide. That's how you increase your Materia collection.Ha, ha...... Right now I feel like I'm dividing myself.
+Once Materia starts dividing, you must be careful.There's a limit to how much Materia you can have.Since we're fighting for the life of the Planet, it goes against my beliefs carrying too much Materia.Either way, I don't really care, but... I'll leave it up to you.That's why, the amount of Materia that we can have is limited to 200... only what we can equip.When you have too much Materia, you need to dispose of some. If you don't, you can't take on any more.So, ditch some Materia before that happens... Ahem... I mean, give them back to the Planet.
+I don't have too much to say about that...- Developing Limits- Extreme Limits- That's it
+There are 2 basic ways of building up your Limit techniques. First, just use them!And second is to finish off as many enemies as possible! It sounds easier than it is.Everyone knows that when you gain a new Limit technique, you need to select it in the menu.And you knew that you won't be able to use advanced techniques on each level if you haven't used the basic ones.Since the type and growth for each limit techniques is different, that's about all I will say.
+A long time ago I heard extreme techniques exist within the Limit techniques.But, if that's true you wouldn't be able to get it in any normal way. That's about all I know about it.
+What do you want to know?- How to save?- How do I cure party members?- Curative Magic- Weapons and armor- How to apply Materia- Effective ways to use Materia- Battle formation- Checking status- Limit Techniques- Other- You got nothing to teach me!
+For my explanation, I'll need a Potion.
+For my explanation, I'll need a Potion.
+I think you know the basics, but just in case...Do not open the PlayStation or change discs until instructed.If you open the Disc Cover, I can't guarantee anything. That is all.
+What do you want to review?- ATB- Onscreen numbers- Change and Defend- Escape- Gauges- Status- Elementals- Help- That's all
+ATB means Active Time Battle. It's a system in which time continuously runs during battle.If the ATB is changed to [WAIT] in the Config Menu... Time stops during battle while you select magic or an item.That lets you select your commands carefully. It's geared especially for beginners like you.In config, if you change from ATB to [Recommended]... Time will stop while magic or item effects are displayed.This lets you watch the effects carefully. Letting you fight at your own pace... this is the way to go.I always use ACTIVE mode, but choose what you want. That's all.
+During a battle, white numbers that appear on the screen indicate damage, and green numbers indicate recovery points.Remember that, if you don't want to be wiped out.
+Change will change your fighting position to either the front or back row.If you select the back row, the amount of damage you receive is reduced, but so is your attacking power.[Change] can be selected from the battle menu by pushing the [left Directional button].You can also select [Defend] from battle menu by pushing the Directional button to the right.Defend will reduce your damage by half until your next turn.It's better to use Defend for strong enemies. Of course, I don't need anything like that.
+I don't know too much about Escape during battles since I never do it, but... someone like you might need it.You can escape by holding down the L1 and R1 buttons during battle.
+It might be hard to understand this next one since you can't check it right now, but just listen.I'm talking about the Gauges displayed during battle.Time Gauge shows the time remaining until your next turn during battle.You can enter a command once the Gauge is full, but if you don't want to enter a command, press the △ button to skip to the next person.This is good when you want to make Barret work.The Limit Gauge increases as you receive damage. When this is full, you are able to use a Limit Technique.The Limit Gauge doesn't reset after each battle, so it will build up the more damage you get in battle.The trick is knowing when to use it instead of using it as soon as it becomes available.You may already know this, but I'll tell you anyways. Status has two conditions: Fury and Sadness.Fury speeds up your Limit Gauge, but decreases your concentration.Sadness slows down your Limit Gauge, but also decreases the damage you receive. Keep this in mind.Barrier Gauge shows the time available for special magic effects.The top gauge Barrier, defends against attacks. And the bottom gauge Magic Barrier, defends against magic spells.Both reduce the amount of damage by half, but disappear after several uses.Always keep an eye on the Barrier Gauge, when using Barrier and Magic Barrier spells.That's all. Check them out next time you're in a battle.
+Status simply means the status of the characters.I don't want to repeat myself too much, so I'll mention the main points.SleepCannot enter command until awakened.PoisonRapidly decreases HP during battle.FuryDoubles damage, reduces concentration. Tranquilizer cures it.SadnessDamage reduced. Hyper cures it.PetrifyTurns you into stone. If entire party is petrified, You'll get Wiped Out.ConfusionYou cannot distinguish between enemy and ally.SilenceYou cannot cast any Magic.ParalysisTime Gauge stops, you cannot enter commands.DarknessReduces attack concentration.FrogTurns you into a frog. I hate this.Phew...I'm tired.Changed Status can be changed with magic and items, so always double check it when you buy things.
+Elementals are special Elementals that come with magic and weapons.You have to use this to your advantage in battle.Only once you start thinking in terms of Elementals can you truly be called an intermediate player.Here are some examples. Remember, they're just examples. You don't have to memorize them.FireFire effect. Works best on animals and water monsters.IceIce effect. Works best on fire monsters and things that hate the cold.LightningLightning effect. Works best on mechanical things.EarthAttacks using the earth's power. Doesn't work on flying enemies.PoisonPoisons enemies. Doesn't work on any poison based enemies.GravityGravity based attack. These hurt if they hit.WaterCalls on the earth's water. Works well on fire monsters.WindCalls up the winds. Works well on flying enemies.HolyCalls up the Planet's power. Works well on dark monsters.Using opposite Elementals often is effective in battle.Using the same Elementals usually increases Defense.But, the reverse is also true. Watch out for it.To find out what Elementals an enemy has, you need Sense Materia. Once you get it, try it out.
+If you don't understand what I just told you, I guess you just have a limited capacity for information.But, relax. Push the [SELECT] Button during battle.A Help Message should explain the different commands to you.It'll tell you things like the monsters' names, even I look at it, sometimes... So don't be ashamed to use it.
+How did you get here?
+We'll cross the ocean, to the new continent....even if we are wearing Shinra's uniforms...
+- Here, use this- Nope
+...I heard it was big, but I didn't expect it to be THAT big.
+- I'll take you someday- I dunno...
+- Yeah......- I don't know
+- I'm tired...- Something's missing- Leave me alone
+- I'll take it- No thanks
+...Let's find out.
+...... Sephiroth............All right, let's go!
+- I'm tired...- Something's missing- Leave me alone
+Is it...... Sephiroth?
+No... not Sephiroth!
+Sephiroth! You're alive!
+You don't remember me!? I'm !
+Sephiroth! What are you thinking!? What are you doing!?
+What!? What are you saying!? Be more......
+...Jenova. The arm of Jenova.
+So it WAS Sephiroth.
+......Time... is now?
+- I'll try- Too much trouble [With this choice, he doesn't say anything more.]
+...I'll try, but don't interrupt me while I'm explaining.Sephiroth went off searching for the Promised Land, so he could become the ruler of the planet... That was 5 years ago.Then Sephiroth came back and killed President Shinra.And then just now all of us saw Sephiroth.He was carrying Jenova with him....This much I do know. He told me he wants to go to the Promised Land with his mother, Jenova....I guess that's about it.
+Sephiroth... is alive...The Promised Land... Does it really exist...?
+- I guess- Keep your mind on Sephiroth
+All right. We'll take a break and then head off.Don't wander too far off.
+- I like fair complexions.- Maybe a healthy tan is nice.
+- Not that much- Yeah, we fight a lot
+- Where's the inn?- Where're the stores?- Show me around town.
+- Oh yeah...- Well, not so
+- The heck do ya mean?- I'm out of here
+- How much is it?- Not interested
+- Yep, 300,000 gil- I changed my mind
+This is MY villa. Rest up in your new villa?- With pleasure- Gotta move on
+- Dunno what you're talking about- Wasn't me
+- Stay- I've changed my mind
+- Stay- Changed my mind
+- Who are YOU?- I'm , and don't forget it
+Hm...?- Who, Hojo...?- That girl in the bikini......?
+- I want to talk with that man- Is that Hojo?
+Hojo......
+......What are you doing?
+Answer me!
+You mean Sephiroth?
+What is it?
+I'll go anywhere Sephiroth is at!To beat him and put an end to all this!
+......It's no use. It's no go.
+- Worry......?- Yeah......
+- I dunno- Nothing much
+- Stay- Changed my mind.
+What is it?
+Sephiroth...
+Ok, then...- PHS- Let's move on!
+OW!! Sure is tight in here...Come on, , don't let it get to you. Let's see... this is it.Maybe if I turn this......something should happen.- Do it- Leave it
+What should we do?- Take the damn treasure- Leave it where it is
+- Buy- Listen to your story- Not interested
+- I wouldn't know- That's right
+- Yes- No
+We're moving!?This is bad!Hoo boy... There's no way we can walk across now.Not even a Chocobo could make it across... Isn't there a more powerful vehicle?
+What happened?
+Shinra troops? What for!?
+- Go on- Don't go on
+Let's get on.
+- Pay 3000 gil- Pay 30000 gil- Don't pay
+Sh...!Shinra soldiers... Even here...
+- Boxes?- Not interested
+- Limited wheel?- Not interested
+- Rank?- Not interested
+- How DO you become one?- Not interested
+- Yeah- Ask how to buy- Explain it to me- Not interested
+- Yeahhh!- No way!
+- C (1BET 1 0 0 gil)- B (1BET 2 0 0 gil)- Quit
+- Yeah, all right- No thanks
+- Yes, I shall- No, I shan't
+- Yes, it would- No, it would not
+Who should I ride with...
+Boy...
+My name's . And stop calling me boy.
+...... (Not even listening)
+- I know what it is- What is it?
+Why d'you ask me?
+Did he happen to have... a Black Cape...
+Where did he go!?
+- Yes- Not interested
+- Pay- Changed my mind
+Ugh...
+- Yes- Not interested
+You can only read the future?
+Then can you tell me where a man named Sephiroth is?
+...Ordinary luck. It will be an active fortune.Give into the good will of others, and something big'll happen after summer. ...wait... what's this?
+Be careful of forgetfulness. Your lucky color is... blue?...Forget it.
+...What the!?
+What you pursue will be yours. But you will lose something dear.
+H... hey!
+- Try it- Not interested
+!!
+Mm!?Dead......
+Did Sephiroth do this!?No... it's not him... They're all shot... Sephiroth would never use a gun...
+Hey, what happened!
+N... no, it wasn't us!
+He...... hey!
+Wait, listen to...
+Hey! Pay attention!!
+Where are we?
+A desert prison?
+Barret...Did he really......
+This one's been shot too...
+We should find Barret before we go out into the desert.
+- Not interested- Yeah, I want to enter
+Who's the boss?
+- Not interested- Yeah, up
+......
+Do whatever you want... Is that what you want to hear?Well, I can't let you do it. Because, if you die on me, I'm gonna have nightmares.
+So there it is, Barret. So I guess it'll be Barret, me, and......
+This one's been shot too...
+- Get on- Don't get on
+Barret!
+Then, will you get us outta here?
+- All right- Not interested
+- Uh, how was it again?- Yeah, I got it
+A gift?
+(Hmm? The letter continues...)P.S. I just recently met Sephiroth. He must have a lot of fans with boys your age.Why don't you get his autograph? It seems he's headed toward the South of the river, towards Gongaga.Sephiroth...
+...Is someone there?
+What are they talking about?
+- Sector 7?- Out of our way
+They followed us...... But there weren't any signs of it. Then, that means......
+I don't even want to think that there's a spy...I trust everyone.
+A ruined reactor.
+It's Scarlet, Head of Shinra Weapon Development.
+...Big, large, huge materia?An ultimate weapon? The perfect weapon?Just what are the Shinra up to...?
+A ruined reactor.
+- Buy accessories?- Hear a story?- Nothing in particular
+- Hear a story?
+- Hear a story?
+- Need a room?- Hear a story?- Nothing in particular
+- Pay up- Don't pay
+Hmmm... I don't know.
+Hmmm... I don't know.
+What happened to you two?
+Hmm.. I don't know.
+Aeris...
+Hmmm... I don't know.
+Tifa... What happened?
+Aeris...
+You know him?
+............
+Strange, there aren't that many who make First Class, but I've never heard of him.
+Missing?
+- Poor guy- (...jealous... envious...)
+Do you know him?
+Your face tells me differently.
+A, all right.
+There were a lot of guys like that back then.
+- I just got lucky- I worked hard for it
+!?
+Oh man... a breakdown? Now?
+...Nanaki?
+- Yes- No
+Who is Nanaki?
+Cowardly father?
+- Yes- No thanks
+- That's it- No
+- Go on- Not really
+- And then?- Yeah, whatever...
+- That's right- No, what's your problem?
+15 or 16!?
+......When the planet dies?
+How do you know this?
+What's that?
+What was that?
+If the Spirit energy is lost, our Planet is destroyed...
+You're talking about Mako energy, right?
+- It's about the Promised Land- Not really
+- The story of the Ancients...- Nothing
+But I'm...... we're here for you, right?
+Does that mean we can't help?
+What is it...?
+What happened?
+- Yeah- Just a minute
+Shall we get going?
+- How much do I owe...?- Much obliged
+- Please, take 1000 gil- I guess you're right
+Mmm?
+What happened?
+...I thought so.
+...Yeah.
+I'm not lying!I remember... the intense heat of the flames...
+- Give me a room- What's your story?
+- Yes- Never mind.
+Man in a Black Cape?He has a tattoo number '6'. Hmm? He has something...
+...You're lying.
+- How about bein' born and raised here?- Nope, guess not
+He has a tattoo of the number '12'. Mmm? He has something.
+- Nothing- I want to hear your story
+This guy's number '5'...
+He has a tattoo of the number '11'...
+Tattoo number '4'
+But... I definitely remember playing the piano then. But why didn't it get burnt down?Play the piano......?
+I wonder what... this is...
+There seems to be another letter.- Read it- Ignore it
+I have a bad feeling about this...- Still open the safe- Don't open
+What are you saying?
+...you can say that again.
+Like you said, this mansion is the beginning of a nightmare.No, it's not a dream, it's for real.Sephiroth has lost his mind. He found the secrets hidden in this mansion...
+, formerly of SOLDIER.
+...gave birth...?Wasn't Jenova Sephiroth's mother?
+Dunno. But we're after him and Sephiroth. So, I guess sooner or later...
+All right, then.
+Sephiroth!
+I don't even know what a Reunion is!
+Jenova, a calamity from the skies? You mean she wasn't an Ancient!?
+...Reunion? Calamity from the skies?
+What's that...!?
+- Yes- No
+The books...Maybe we could find out who's been here?- Was there a man in a Black Cape?- Not interested
+- Let me hear your story- Not interested
+- Captain?- Did you see a man in a Black Cape?
+- Yeah, let's take a look- No, not interested
+There's a Shinra logo on it. Tiny Bronco...... This is cool.
+No... We're just looking at it.
+I'm .
+......!?
+Rufus!!?
+We heard the Captain was here.
+- Tell me about this rocket- Is Rufus coming?- Can we borrow the "Tiny Bronco"?
+- Let me hear your story
+Nope...
+Really, don't mind us.
+Sorry. It's our fault.
+What happened?
+We'll be takin' that Tiny Bronco.
+Forget it! Get in!!
+Emergency landing...
+Can't we use it as a boat?
+Cid, what are you going to do now?
+How 'bout your wife? How 'bout Shera?
+We're going after a man named Sephiroth. We'll have to get Rufus of the Shinra someday too.
+How 'bout it, everyone?
+Numskulls...?
+Really!? ...Where is it? That Temple of the Ancients?
+Let's just head for land and get some information. Temple of the Ancients... that name bothers me.
+Shinra!?
+Hey... where's Yuffie...?
+...First, I gotta do something about her.
+- No- Yes
+You can't get away, Yuffie.
+Listen, Yuffie. I don't care about the history of Wutai or your feelings.You've got our materia and I want it back... now.If you give it back now, we'll drop the whole thing.
+- Flip the Left Lever- Flip the Right Lever
+You......!
+Corneo!?
+......Ok. Corneo took Yuffie from us.And without Yuffie, there's no way we'll get our materia back.
+That's fine. We have absolutely no intention of cooperating with the Turks either.Now, uh, just what direction did Corneo run off to?
+Whoa!!Can't go through here... That flame would make crispy critters of us in an instant.
+All right, that's it!!
+Don't tell me you forgot...
+I don't really care! Let Yuffie and Elena go!
+SHUT UP!
+Damn...!
+Hey... the placement of it is all messed up.
+All right, I don't mind.
+- Okay, I guess- No way!
+- Sure, call 'em- Nope
+- The next town- Outside Junon
+- Pay up- Don't do it
+- With pleasure- Sorry
+...No one's here. We'll come back later.
+Keystone?
+The Temple of the Ancients...
+- Where is this "Keystone"?- Where is the Temple?- Let's change the subject- Never mind
+Who did you sell it to?
+Ultimate Destruction Magic...?
+- Give him some- Forget it
+- Yep- Nope
+- Let me hear your story
+- Have you seen Sephiroth?- What are you doing?
+- The Temple of the Ancients?
+- How do you get in?
+- What's a Keystone?
+- That's the idea- Not interested
+- Yeah- Not interested
+- No sweat- They're going
+- Let's do it- Not interested
+Well, I guess I'll enjoy a few battles.
+- Yeah- No, thanks
+It's the Keystone...
+Can you let me borrow this?
+One condition?
+- What'd you want me to do?- Not in the mood
+...so?
+- I'm tired...- All right, I'll give it a shot...
+Phew...We are going after Sephiroth.Sephiroth must be in search of the Promised Land.
+A land full of Mako energy. ...or at least that's what the Shinra believe.I don't know if it actually exists.
+Aeris... can you feel it too?
+The Black Materia...
+How did you get that tattoo?
+You wouldn't understand even if I told you.
+Tifa?
+What's wrong?
+What?
+- Don't take me for a fool- Well, not a real one...
+Hey!
+Wha?
+H, hey!
+- The knight- The wizard
+- Defeat the Evil Dragon King- Defeat the King
+- To the Princess- To the King- To home
+- The Evil... Dragon... King...- The King- That Knight
+- The Evil Dragon King's weakness- The Princess' measurements
+- Kiss the Princess- Kiss the Evil Dragon King- Kiss the King
+- The Evil... Dragon... King...- The King- That Knight
+............?
+But I'm right here.
+- Yeah- That's not it
+What's wrong?
+Hey.
+Wha?
+H, hey!
+- The knight- The wizard
+- Defeat the Evil Dragon King- Defeat the King
+- To the Princess- To the King- To home
+- The Evil... Dragon... King...- The King- That Knight
+- The Evil Dragon King's weakness- The Princess' measurements
+- Kiss the Princess- Kiss the Evil Dragon King- Kiss the King
+- The Evil... Dragon... King...- The King- That Knight
+...what?
+Yeah...
+By the way, What did you want to say a minute ago...?
+?
+What's wrong?
+? Keep you company where?
+Hey.
+Wha?
+H, hey!
+- The knight- The wizard
+- Defeat the Evil Dragon King- Defeat the King
+- To the Princess- To the King- To home
+- The Evil... Dragon... King...- The King- That Knight
+- The Evil Dragon King's weakness- The Princess' measurements
+- Kiss the Princess- Kiss the Evil Dragon King- Kiss the King
+- The Evil... Dragon... King...- The King- That Knight
+............
+............
+............
+............
+............
+...................something.
+What's wrong?
+What, just the two of us?
+Not having fun?
+Which would you have asked?
+(hoo boy)
+!!Is that the... Keystone?Hey! Cait Sith!
+Hey!
+You think I'm jokin'!?
+No way, cat! You gotta lot of guts acting like a friend but being a spy!
+We're not gettin' anywhere.
+You think I'm jokin'!?
+He'll never tell the truth. Once a spy, always a spy.We can't go on with someone like that. C'mon get real!!
+...Marlene?
+...you're the lowest...
+...Well, we're stuck... We'll have to do what he says.
+What are you saying? Do you understand?
+Tseng? Of the Turks!?
+Sephiroth? He's inside!?
+You crying?
+Let's put the Keystone in.
+Sealed......? That sound brings back memories.
+Everyone all right? That sure took a lot out of us.
+...What's going on?
+...Where is the room with the pictures on the walls?
+Sephiroth is here, right?No matter what he thinks, it's going to end here.I'm taking him out!
+I guess there's no way we can open it... We'll come back later.
+- Yeah- I want to go home
+Where are you!? Sephiroth!!
+Looks like we're locked in.
+I don't understand what you're saying!
+At what!?
+That'll never happen!
+Where are you!? Sephiroth!!
+Ha ha ha... Black Materia.Ha ha ha... Call Meteor.
+...I'm... ...How should I?
+Mm? What's wrong? Is something wrong?
+...Don't worry about it. I understood what he was saying.So this must be Meteor, right?
+Sephiroth!?
+Any sign of Sephiroth?
+We're locked in.
+What is this?
+Black Materia!!
+- Shake it- Take it- Leave it
+What do they mean?
+This huge Temple? This is the Black Materia!?Then no one could take it.
+So, if we solve the puzzles, the Black Materia will get smaller and smaller and we can take it out?
+I see... the Ancients didn't want dangerous magic to be taken out of the Temple so easily...
+No. We've got to think of a way to get it out.Because Sephiroth has lots of different flunkies.It's nothing to him to throw their lives away to get the Black Materia.This place isn't safe.
+We can't let Sephiroth get his hands on the Black Materia.And we can't let the Shinra get theirs on it either.
+- I guess we have no choice- No way
+- Hmmm, I guess I have to- How can I?
+We can't let Sephiroth get his hands on the Black Materia.And we can't let the Shinra get theirs on it either.
+- I guess we have no choice- No way
+- Hmmm, I guess I have to- How can I?
+It's warm...This isn't good...
+I'm not good at this.
+That's the Black Materia...
+As long as we have this, Sephiroth won't be able to use Meteor.
+Mmm?Can you guys use it?
+You mean lots of Spiritual energy?
+The Promised Land!!No, but...
+He shouldn't be able to find the Promised Land.
+Sh... shut up!
+The... Noise...
+Wa...... aaaa...... aaa...
+...I gave the Black Materia to Sephiroth...?
+Urrrrrrgh... What have I done!?
+I...! I'm-----!
+Everything is white...What did I do? I don't remember anything...My memory... since when...? If everything's a dream, don't wake me.
+What is this place?
+Aeris?
+- I seem to be OK- Not good- Don't really know
+......City of the Ancients. Aeris is headed there.
+Only the Ancients, only Aeris can save us from Meteor...
+Sephiroth... already knows.
+No.
+My fault?
+(shaking his head)No...I'm afraid.If this keeps up, I may go crazy!I'm afraid...
+What... am I supposed to do?Pull out of here?Pull out? ...To where?
+......I'm afraid to find out the truth...? But...... why?
+But...
+...You're... right. ......He's right, isn't he?
+- Where is the City of the Ancients?- Do you know where Aeris is?- What are you doing?
+- I want a Lunar Harp
+- Start diggin'
+- Lunar Harp- Good treasure- Normal treasure
+...Ugh....Words of the Ancients?...no good. I can't understand....Ugh, again?This stream of consciousness... Could this be the words of the Ancients...?
+I feel it...
+Aeris is here....and so is Sephiroth.
+...it's not an excuse. I feel it in my soul.
+...right. Let's hurry and find Aeris.
+Aeris's voice...... Coming from there?
+Aeris?
+Ugh... what are you making me do.
+...Aeris.
+...Shut up.The cycle of nature and your stupid plan don't mean a thing.Aeris is gone.Aeris will no longer talk, no longer laugh, cry...... or get angry......What about us...... what are WE supposed to do?What about my pain?My fingers are tingling.My mouth is dry.My eyes are burning!
+Of course! Who do you think I am!?
+Everyone, listen to me.I'm , ex-SOLDIER, born in Nibelheim.I came to settle up with Sephiroth.
+I came here by my own free will... Or so I thought.However......To tell the truth, I'm afraid of myself....There is a part of me that I don't understand.That part that made me give the Black Materia to Sephiroth.If you hadn't stopped me, Aeris might have been......There's something inside of me. A person who is not really me.That's why I should quit this journey.Before I do something terrible.
+I don't know how Aeris tried to save the planet from the Meteor.And I guess now, we'll never know.But!We still have a chance. We must get that Black Materia back before Sephiroth uses it.Let's go.
+...ugh.
+Hmmm...Sephiroth said to me... Head North............ past the Snow Fields......
+- Yes- No
+- Yeah- Not interested
+- That's my plan- No
+- I'm still going- Thanks for your kindness
+- Maybe you should- Not interested
+- Yes, please- No thanks
+What's down there?
+You mean Boss...... Tseng? That wasn't us. Sephiroth did it.
+I'm not lying... it was Sephiroth.
+Oh, man...
+- (Do what you're told)- (Kick his butt)
+- Yeah, maybe you should- No, not interested
+- Yes, please- No thanks
+Ugh...
+So where did we land?
+Depending on the course they took,  will say any of the following:
+Seems like it didn't end up being such a big jump...Seems like maybe we didn't even jump at all...We've jumped pretty far...Looks like we've jumped pretty far...
+
+BarretHey, what's that!? They just gave you something, right? Let's use the [] button to find out.
+TifaOh yeah, we got the map, right? Let's look at the map by pressing the [] button.
+YuffieAt times like these, we need the map! Let's open it with the [] button.
+Cait SithThen, let's look at the map. Just open it with the [] button.
+VincentWe should check it on the map. Press the [] button.
+CidQuick! The map, the map! Look at it with the [] button!
+
+It sure is cold. We'll freeze if we stay here any longer.
+In the Frostbite Cave...
+Looks like trouble.- We're outta here!- Wait a minute!
+Choosing "We're outta here,"  does some fancy footwork and ends up outside of Great Glacier entirely.
+There is a cave within the mountains where they find a woman in blue. If  speaks to her without going to the hot springs...
+Woman in Blue...Please leave.Please don't worry about me.Now, I don't want to harm any of you.And don't come back again.Please stop it.Please, that is enough.
+At the hot springs...
+This is the only place not frozen.- Touch it- Let's go on
+Hmm, a hot spring.
+Having gone to the hot springs,  and the others may return to the woman in the mountain cave.
+Woman in BlueYeeew... You got a lot of nerve trying to touch me with the same dirty hands that touched that filthy hot spring!I'll never forgive you.
+
+If they defeat the Snow woman...
+Woman in BlueWhy this...?
+The woman collapses.
+Received "Alexander" Materia!
+
+
+If they lose to the Snow woman...
+Woman in BlueHah, Just remember your place!
+ wakes to find himself in Holzoff's house. If he returns to face her again:
+Woman in BlueHuh, still don't get it, huh?
+
+Travelling into the northern reaches of the glacier, they end up on seemingly endless snowfields.
+...Snow... as far as you can see... Better watch where I walk....I'll place a landmark, and start walking.
+
+If  makes it to Holzoff's house on his own...
+HolzoffNow, this is a surprise!!How many years has it been since I last saw anyone here...?Oh, excuse me! My name is Holzoff. I've lived here for 20 years now.You mind listening to the stories of a lonely climber?Why don't we go to the next room and sit down.
+
+
+If  collapses before reaching the house...
+ wakes to find himself in Holzoff's house.
+HolzoffYou awake?You collapsed at the Great Glacier. It's a miracle you're all right.
+ scratches his head.
+HolzoffMy name is Holzoff. I've been living here 20 years now.If you are planning to head North, you'd better listen to my story.Why don't we go to the next room and sit down.
+
+They go into the next room and sit down.
+HolzoffYou ever hear about those who challenged the cliff?
+- Yeah- No
+
+Yeah
+HolzoffThe first time my friend Yamski and I tried to climb the cliff was 30 years ago.
+
+
+No
+HolzoffThere's an old legend that says something fell from the sky here a long time ago.That's what's supposed to have pushed the land up and formed this cliff.30 Years ago, Yamski and I took this cliff on to see what was on the other side.
+
+HolzoffBut, we weren't prepared for it. We did expect the temperature to be low but...On that cliff, there's always a biting cold wind. The cold air lowers your body temperature.Yamski, was below me. He cut his own rope......and I didn't even notice...Ever since then, I've settled here... continuing to challenge the cliff, and provide warning and shelter to my fellow climbers.If you're going to climb the cliff, there's 2 precautions you'll need to take.First, check your route... It's hard to find because of all the snow.Second, once you get to a ledge, make sure you warm yourselves up.Understand?
+- One more time- Yes
+HolzoffYou must've used a lot of energy getting up here... Better get some rest before you head out.
+ and the others spend the night. If  speaks to Holzoff again:
+HolzoffTo climb this cliff you must check your route.And you have to keep your body temperature normal. Don't forget these things.Like to rest a little?
+- Oh yeah- No, thanks
+Holzoff (if  answers no)Don't over do it.
+Everyone gathers outside, facing the cliffs ahead.
+BarretYou know, I've been thinkin'...?
+- What is it?- Save it for later
+Barret...Seein' a place like this, makes you realize how awesome nature is.But, if anyone ever told me to live here, I'd tell them to... you know...I'll tell you one thing though, If I did have to live here I'd change things around 'n' make it better.I guess the total opposite of this would be...... Midgar.When you think of it that way, Shinra don't seem so bad...Uuuuuuurrrrrgh!!What the hell am I sayin'!? The Shinra, not bad!?
+We'll secure the route. You come up later.
+BarretY'know... standing here like this...Kinda makes you feel like the Planet's not on our side, don't it?Of course we can't even compete. I mean... The Planet don't even notice us humans...
+TifaThis blizzard's nothing! I gotta say that or... brr...
+NanakiI wonder what's at the top of that cliff? Well we shall see...
+YuffieBrrrr, I can't take this cold!!
+Cait SithThis is secret info, but... Rufus's going to arrive here, too.
+VincentI wonder what's on the other side of the cliff...
+CidDamn! If I could just get back in the air, this cliff would be nothing!
+ and the others scale Gaea's Cliffs. In a tunnel near the top of the cliffs, they come across one of the clones.
+CloneUgh...... Errgaahh!!
+It collapses and disappears.  runs through the tunnel and encounters into a two-headed dragon. After defeating it,  and the others continue through the tunnel and reach the top of Gaea's Cliffs. They look over the edge at the crater, and then start down the slope.  pauses a short way down.
+An old crater...Something fell out of the sky and crashed down here......Leaving a scar on the planet.
+
+BarretSo all this energy's gathered here for the planet to heal itself?
+TifaSo the planet has gathered all this energy here to heal itself?
+NanakiThe energy of the planet is concentrated here.It is slowly healing its old wound.
+YuffieEven I know what's going on. The energy's bein' gathered here to heal the gash.
+Cait SithIt's trying to heal its wound by gathering all that energy here.
+VincentIt's amassed a vast amount of energy to heal itself.
+CidDamn, this's somethin'. It's gathered all that energy to try an' heal itself.
+
+Sephiroth took that energy and is trying to use Meteor.Next time the wound won't be so small.
+They continue down the slope.
+Clone...b, back... to... Sep...... i... roth...
+Further down, they come to the edge of Whirlwind Maze.
+
+If Tifa is in the party...
+TifaThe time has come to settle things with Sephiroth, huh?
+ nods.
+TifaI, too, have lost many things because of Sephiroth.Let's go!
+
+
+If Tifa is not in the party...
+Tifa, wait for me!!Please take me with you. You're going to have it out with Sephiroth, aren't you?
+ folds his arms in thought, and Tifa turns away.
+TifaBecause of Sephiroth, I, too, have lost many things, so please take me along.Don't say no. Okay?......
+It can't be helped......
+One of the others stays behind:
+
+BarretThe rest is up to you!
+NanakiI'm going to call everyone.
+YuffieAre you saying you don't like me?
+Cait SithI'll gather everybody, so you go on ahead.
+VincentDon't be caught off guard...... Sephiroth may be near.
+CidMan, I sure am thankful. Wanna rest a while?
+
+They move on through the maze. Reaching the first wind wall,  looks up.
+That's......!!!
+
+Above them flies the Highwind, with a full compliment of Shinra executives assembled on the bridge.
+RufusSo, I finally found you.
+ScarletKyaa haa hah.Kyaa haa hah.haa hahhaa......... hahThis is incredible......
+HeideggerThis is the Promised Land the President has been searching for!!
+RufusBut, I'll be the one who gets it.Sorry, old man.
+HojoHeh heh heh......That land is no one's.It's where the Reunion will take place...... They will all gather here......I wonder if we'll see...... Sephiroth?
+
+Back to  and the first wind wall. Two clones attempt to cross it, and are knocked back.
+TifaWe need to cross when the wind is calm, or we'll get swept off!
+Clonesuph... Se... phi... roth...wh-... who---a
+Beyond the first wind wall, roughly a dozen Sephiroth clones make their way in a line towards the second wind wall, many collapsing before they reach it. Beyond the second wall,  comes upon Sephiroth cutting down the clones.
+SephirothThis is the end... for all of you.
+Sephiroth!!!This is the end!
+SephirothYou're right. This is the end of this body's usefulness.
+He disappears and the screen tints red.
+He disappeared!?
+TifaHe might still be nearby......
+Our purpose is to deliver the Black Materia to our master.
+Our...?
+
+BarretHe got away?
+NanakiI feel something... danger?
+YuffieI was just getting into it!
+Cait SithVanished?...That can't be!
+VincentStay on alert. You never know when Sephiroth might appear.
+CidHey, hey,! What's goin' on?
+
+Those who carry Jenova's cells...
+Master...!?
+Of course... Sephiroth.Heh, heh, heh...
+Sephiroth leaps down from above and knocks them all to the ground.  slowly gets to his feet, and they enter a battle with Jenova∙DEATH. Afterwards, the Black Materia is left lying on the ground.
+Jenova's cells......hmm. So that's what this is all about.The Jenova Reunion...
+TifaNot Sephiroth!? You mean all this time it wasn't Sephiroth we've been after?
+I'll explain later. Right now, the only thing I'm thinking about is beating Sephiroth.
+TifaBut Sephiroth is......
+He's here. The real Sephiroth is just beyond here.It's both incredibly wicked and cruel...But it's releasing a powerfully strong will from deep within this planet's wound.
+He walks forward to pick up the Black Materia.
+...The Black Materia is back in our hands.Now all we have to do is defeat Sephiroth and that'll be the end of it.
+TifaWe'd better not take the Black Materia any further. Why don't you give it to someone else to hold on to?
+
+NanakiWhat's happening, ? That wasn't Sephiroth!
+YuffieWhat!? You mean that wasn't Sephiroth? All that time I was following this... thing?
+Cait SithYou serious!? That's not Sephiroth!
+VincentYou mean... we weren't in pursuit of Sephiroth...?
+CidHoo-boy...
+
+YuffieI don't want anything to do with that Black Materia!
+Cait SithNo, not the Black materia, please.
+VincentHow about if you hold on to the Black Materia?
+I don't think I can...
+CidMe and Black Materia just don't mix.
+
+ gives the Black Materia to Barret.
+BarretDamn, man! ...Pressure's on now.
+
+
+ gives the Black Materia to Nanaki.
+NanakiYou want me to take the Black Materia? ......all right, I understand.
+
+Don't give it to ANYONE. I'm counting on you.
+BarretSephiroth...... What a damn crazy #*&^%.
+Nanaki, be careful!
+YuffieShouldn't we hurry? The real Sephiroth is still close, right?
+Cait SithSomething feels rea---lly weird here!
+VincentYou never know when Sephiroth may show up... so don't let your guard down.
+CidLet me catch some shut-eye.
+TifaLet's find Sephiroth!!
+We're going in first! You guys stay and keep watch.
+
+BarretI'll take care of the Black Materia. No matter what happens, I'll be right here.
+NanakiI'll protect the Black Materia no matter what!
+
+ moves on past the final wind wall and suddenly everything goes white.
+TifaWhat is this? What happened?
+Calm down, Tifa.Sephiroth is near. Anything could happen.
+The surroundings change to Nibelheim.  and the others stand at its gates.
+TifaNibelheim...
+
+BarretWhy Nibelheim!? Are you high on Mako or something?
+NanakiBut, why!? A dream? An illusion?
+YuffieBut why Nibelheim? This is freaky, REALLY freaky!
+Cait SithBut Tifa! Isn't this an illusion?
+Vincent...Why...... is it an illusion?
+CidWhat the hell? Why Nibelheim!?
+
+This is an illusion Sephiroth made up.He's trying to confuse us.It'll be all right. As long as we know it's an illusion, there's nothing to be afraid of.Come on, let's keep going.
+TifaYeah, you're right...Look!!
+They turn around and run aside as Sephiroth walks up to the gates. He turns to someone behind him.
+SephirothAll right, let's go.
+Two soldiers and a man with spiky black hair follow Sephiroth into Nibelheim.
+
+BarretThat ain't ... The hell is he?
+Nanaki's not here... I wonder who...... this is...?
+YuffieHuh---! 's not here.
+Cait Sith, something's strange here. Who is this guy?
+Vincent...It's not . Who is this man?
+Cid's not here......
+
+Tifa shakes her head, and the others turn to look at her.
+TifaStop... Sephiroth.
+This is so stupid...
+A flash, and Sephiroth and the others vanish.
+
+BarretHow the hell're we gonna get outta here?
+NanakiIs this illusion going to continue forever? How do we get out of it?
+YuffieI don't want to be in an illusion. Let's get back to the real world!
+Cait SithCome on, we have to hurry back to the real world!
+VincentNow, how can we get out of here...?
+CidHey, . Let's get back to the real world, huh.
+
+Tifa... It's just an illusion.Don't worry about it...
+Another flash of white.
+What's... next?
+TifaStop it already!!
+A burning Nibelheim fades into view.
+
+BarretThis is bad... Just like Corel.
+NanakiThis is terrible... Did Sephiroth do this?
+YuffieWow...... I didn't know it was THIS bad...
+Cait SithThis is insane...
+Vincent...All this... while I was sleeping...
+CidThis is terrible...
+
+...This is what actually happened five years ago.But...It's probably not me that's going to come out of the Shinra mansion.He's going to try and show us another stupid illusion.
+The black-haired SOLDIER runs out of the mansion.
+See... didn't I tell you?
+The SOLDIER shakes his head and walks closer to the burning buildings.
+ZanganHey it's you! You're still sane, right?
+The SOLDIER nods.
+ZanganThen come over here and help me!
+The SOLDIER runs over to help Zangan.
+TifaI don't want to... watch this. ... don't watch.
+ZanganI'll check this house. You check that one over there!
+He runs into one of the houses.
+...What's wrong, Tifa? I told you before, right?As long as we know that it's just an illusion, there's no need to be scared.
+The screen goes white and  and the others find themselves in the midst of the burning town square. Nearby, the man with the camera lies motionless.
+
+BarretHey, you awright!?Damn! This was an illusion.
+NanakiYou all right!!We were in an illusion...
+YuffieHe... hey, you! You alright!?Oh, a dream! But it felt so real...
+Cait SithEveryone Ok?Umm...this was a hallucination.
+Vincent...You all right?Hmm... it was an illusion.
+CidHe...hey you!You alright!?
+
+Sephiroth! I know you're listening! I know what you want to say!That I wasn't in Nibelheim five years ago.That's it, isn't it?
+A flash, and Sephiroth appears before them.
+SephirothI see you finally understand.
+What you are trying to say is that you want to confuse me, right?But... even making me see those things won't affect me.I remember it all. The heat of the fire... the pain in my body... and in my heart!
+SephirothOh, is that so?You are just a puppet... You have no heart... and cannot feel any pain...How can there be any meaning in the memory of such a being?What I have shown you is reality. What you remember, that is the illusion.
+Everyone...
+Sephiroth...Do you understand?
+I don't want to understand.But, I want to ask you one thing. Why... why are you doing this?
+SephirothHa, ha, ha......I want to take you back to your real self.The one who gave me the Black Materia that day...Who would have ever thought a failed experiment would prove so useful?Hojo would die if he knew.
+Hojo!? What does he have to do with me!?
+SephirothFive years ago you were......constructed by Hojo, piece by piece, right after Nibelheim was burnt.A puppet made up of vibrant Jenova cells, her knowledge, and the power of Mako.An incomplete Sephiroth-clone. Not even given a number. ...That is your reality.Ha, ha, ha......
+Tifa... Don't listen to him...Close your ears! Close your eyes!
+What's wrong, Tifa? I'm not affected by it....I wasn't paying attention to him.
+TifaAll that talk of Hojo constructing you is a lie.Don't we have our memories together?Being kids together, starlit nights...
+SephirothHa, ha, ha... Tifa...Why are you so worried and scared by those words?Hmm... Shall I show everyone here what's in your heart?
+Tifa turns away from both him and .
+SephirothHa, ha, ha... You look like you're not feeling well.
+He disappears.
+...Tifa? Is Sephiroth right?
+Tifa...
+Why are you so scared? Don't worry about me. I'm all right.No matter how confused I am, I'll never believe a word that Sephiroth says.It's true that sometimes I can't figure out who I am.There's a lot of things muddled up in my memories.But, Tifa......But you said, 'Long time no see, ' right?Those words will always support me.I am the one you grew up with. I'm  of Nibelheim.No matter how much I lose faith in myself, that is the truth.That's why you shouldn't be so scared.No matter what anyone else says to me, it's your attitude that counts...
+TifaNo, that's not true, ......
+What's not? Aren't I the same  you grew up with?
+TifaThat's not what I mean... I don't know how to say it..., I need some time... Just give me a little time...
+A flash and Sephiroth appears beyond the fire.
+Sephiroth... Don't blame Tifa.The ability to change one's looks, voice, and words, is the power of Jenova.Inside of you, Jenova has merged with Tifa's memories, creating you.Out of Tifa's memory......A boy named  might've just been a part of them.
+He disappears in another flash.
+Tifa...Please... don't think right now.
+Sephiroth reappears closer to them.
+SephirothHa, ha, ha...... Think, !...? Ha, ha, ha...... Oh, excuse me. You never had a name...
+Shut up... Sephiroth.
+SephirothYou still don't understand? Then...
+He turns away and laughs.
+Do you remember the picture that we took before we headed for Mt. Nibel?...Tifa, you remember, right?But there is no way he would know.Now... what happened to that picture?
+He walks over to the motionless camera man.
+......is this it?...Do you want to see it? It turned out pretty good.
+Tifa... don't...
+I... should be in the picture.Even if I'm not in there, no worry. This is just an illusory world Sephiroth made up.
+ walks over to look at the photo. The black-haired SOLDIER is standing where  should have been. Once he looks, Sephiroth is gone.
+...Just as I thought.This picture's a fake. The truth is in my memory....Five years ago, I came back to Nibelheim, to inspect the reactor. I was sixteen.The town hadn't changed at all. What did I do...? Oh yeah...I saw my mom. I saw the people in town.Yeah, I went to Tifa's room. There, I...I played the piano!I looked in the drawers!I read the letter addressed to Tifa!I spent the night and went to the reactor in Mt. Nibel. I was excited about it.Because that was my first mission after becoming First Class in SOLDIER.
+Flash.
+...SOLDIER, First Class?
+He shakes his head.
+...SOLDIER? When did I enter SOLDIER?
+He clutches his head.
+How did I join SOLDIER?
+He falls to his knees.
+Why... why can't I remember?I'm... I'm...
+He gets back to his feet.
+That's right......I didn't have to worry about it, because I was...
+The screen fades to black.
+Tifa......?
+Let's go, Tifa. I'm... I'm all right.
+
+Meanwhile, the Shinra have arrived at the center of the crater.
+ScarletWow!! That's amazing!It's all Materia!!
+RufusThe outside is rich with mako energy. The inside is a treasure trove of Materia. This truly is the Promised Land.
+HojoThere is no such thing as the Promised Land. it's a legend... an old wives tale...... it's utterly ridiculous.
+RufusEverything's as I imagined it to be. Isn't it splendid?It is that kind of dullness that makes you a second-rate scientist.
+The ground starts quaking.
+RufusWhat's happening?
+ScarletIt's coming from within the wall! Something's in there! It's moving!
+A huge eye in the wall opens and closes.
+HojoWeapon...Then it really does exist... I didn't believe in it.
+RufusWhat does this mean?
+Hojo...Weapon. Monsters created by the Planet.It appears when the Planet is in danger, reducing everything to nothingness.That's what was stated in Professor Gast's report.
+RufusI never saw that report... Where is it?
+Hojo taps his head.
+HojoHere, right here.
+RufusYou keep a lot of things to yourself.
+
+Back with who  left guarding the Black Materia...
+
+BarretAre  and the others awright?But what's up with that? One little piece of materia, destroying the planet...
+NanakiI wonder how  and the others are...It's hard to believe... such a small piece of materia is able to destroy the Planet...
+
+Suddenly the others disappear and the background becomes a roiling green.
+
+BarretWhat the......?The hell was that?H, huh!?Hey... Guys!Where are we? Where did we end up?
+NanakiWhat the!?Is everyone all right?What's going on?Where am I!? Don't leave me alone!
+
+Tifa comes running up.
+TifaBarret, you're here! I'm so glad!!
+Or:
+Nanaki, you're here! I'm so glad!!
+The background returns, but still no one else is there.
+
+BarretTifa!!Something's weird here! It got pitch black all of a sudden, and everyone disappeared!
+NanakiTifa!!Something is strange... Why was it dark all of a sudden and where is everybody?
+
+TifaEveryone's waiting! 's in trouble!Please come. Help us!Over there!
+
+BarretYea... yeah!I don't know what's goin' on, but let's just get on with it.
+NanakiR, right!I'm not sure I understand... but I'll go if you want me to.
+
+Barret or Nanaki nods to Tifa and runs off in the indicated direction.
+Tifa......hee hee hee... And remember...
+Tifa's image morphs into Sephiroth.
+Sephiroth...the Black Materia!
+He disappears, and the others are visible again, lying unconscious.
+
+Back to the Shinra...
+ScarletMr. President... I've got a bad feeling about this place...
+RufusHmm... maybe we should go back to our ship now.We need to prepare for the inspection anyway.
+A flash, and  his party appear among them.
+ScarletHey!!! Where did you come from?
+...don't know...This place is going to get rough.Better leave things to me and get out of here while you still can!!
+RufusLeave things to you? Hmph... I don't know what you mean.
+This is where the Reunion is happening. Where everything begins and ends.
+Tifa!!
+
+BarretHey! We're here to help you!
+NanakiI'm here! I'm here to help you, !
+
+ clutches his head and slowly walks towards Barret or Nanaki.
+Thanks... Barret. Where's the Black Materia?
+Or:
+Thanks... Nanaki. Where's the Black Materia?
+Tifa!!
+
+BarretIt's safe. I have it.
+NanakiIt's safe. I'm holding on to it.
+
+I'll take it from here. Give me the... Black Materia.
+TifaYou can't hear my voice?
+
+BarretYou alright?
+NanakiAre you all right, ?
+
+ nods.
+
+BarretOkay then, here. Had a lot of pressure holding this thing.
+NanakiThen... here you go. I was a little apprehensive holding this thing.
+
+TifaNo, don't!!! Please! Stop !
+Thanks. ......leave the rest to me
+Sephiroth's face is visible for a fraction of a second, and the screen goes white momentarily.
+Come on. The Black materia...
+Please wait! Just a little longer!!
+Everyone, thanks for everything. And... I'm sorry.
+He looks to each his party in turn.
+...Sorry....Sorry.Especially you, Tifa. I'm really sorry.You've been so good to me...... I don't know what to say...I never lived up to being ''.Tifa...... Maybe one day you'll meet the real ''.
+Tifa shakes her head and falls to her knees.
+HojoHa, ha, ha... this is perfect!!!It means that my experiment was a complete success.What number were you? Huh? Where is your tattoo?
+Professor Hojo... I don't have a number.You didn't give me one because you said I was a failed experiment.
+HojoWhat the--? You mean only a failure made it here?
+Professor... please give me a number. Please, Professor...
+HojoShut up, miserable failure...
+ flies up into a tangle of branches above them.
+RufusWho... was that?
+Hojo...He's a Sephiroth-clone I created after the real Sephiroth died five years ago.Jenova cells and Mako, with my knowledge and skills, have been combined with science and nature to bring him to life....I'm not wild about the failure part, but the Jenova Reunion Theory has now been proven.You see, even if Jenova's body is dismembered, it will eventually become one again. That's what is meant by Jenova's Reunion.I have been waiting for the Reunion to start. Five years have passed, and now the Clones have begun to return.I thought the clones would begin to gather at Midgar where Jenova is stored.But my predictions were not entirely correct. Jenova itself began to move away from the Shinra Building.But being a genius that I am, I soon figured it out. You see it was all Sephiroth's doing.Sephiroth is not just content to diffuse his will into the Lifestream; he wants to manipulate the Clones himself.
+Yes, that was how it got started.
+HojoI wondered where the clones were going, but I was never able to figure it out.
+I couldn't figure it out, either.
+Below, the third party member runs over to Tifa and helps her up.
+HojoThe one thing that I did know was that Sephiroth was at their final destination.
+I wasn't pursuing Sephiroth.I was being summoned by Sephiroth.All the anger and hatred I bore him, made it impossible for me to ever forget him. That and what he gave me.
+ stands.
+Sephiroth? Sephiroth? I'm here. And I brought you the Black materia.Show yourself to me. Where are you?Sephiroth... So we finally meet again.
+At the center of the tangle of branches, Sephiroth's body is encased in a huge crystal, his eyes closed.
+HojoDid you see it!! It's Sephiroth! So he IS here!This is perfect! Both Jenova's Reunion and Sephiroth's will!They won't be diffused into the Lifestream,but gathered here! Mwa, haa, ha,......
+TifaWhat are you so happy about, Professor? You know what this means, don't you? has the Black Materia!Sephiroth is going to summon Meteor! Every single person is going to die!
+RufusWhatever I say now is too little... too late...... We must evacuate.I want you all to come with me. There is still much more I want to hear.
+
+BarretYo! ! Stop! Knock it off!
+Nanaki, NO! Stop! Please!
+
+Tifa------!!
+ gives the Black Materia to Sephiroth. Below, the others run for the Highwind, leaving him behind, and the airship pulls away from the Northern Crater as the Planet's Weapons explode from hiding.
+
+< Icicle Inn | Northern Crater | Junon >
+It sure is cold. We'll freeze if we stay here any longer.
+Looks like trouble.- We're outta here!- Wait a minute!
+This is the only place not frozen.- Touch it- Let's go on
+Hmm, a hot spring.
+...Snow... as far as you can see... Better watch where I walk....I'll place a landmark, and start walking.
+- Yeah- No
+- One more time- Yes
+- Oh yeah- No, thanks
+- What is it?- Save it for later
+We'll secure the route. You come up later.
+An old crater...Something fell out of the sky and crashed down here......Leaving a scar on the planet.
+Sephiroth took that energy and is trying to use Meteor.Next time the wound won't be so small.
+It can't be helped......
+That's......!!!
+Sephiroth!!!This is the end!
+He disappeared!?
+Our...?
+Master...!?
+Jenova's cells......hmm. So that's what this is all about.The Jenova Reunion...
+I'll explain later. Right now, the only thing I'm thinking about is beating Sephiroth.
+He's here. The real Sephiroth is just beyond here.It's both incredibly wicked and cruel...But it's releasing a powerfully strong will from deep within this planet's wound.
+I don't think I can...
+Don't give it to ANYONE. I'm counting on you.
+We're going in first! You guys stay and keep watch.
+Calm down, Tifa.Sephiroth is near. Anything could happen.
+This is an illusion Sephiroth made up.He's trying to confuse us.It'll be all right. As long as we know it's an illusion, there's nothing to be afraid of.Come on, let's keep going.
+This is so stupid...
+What's... next?
+...This is what actually happened five years ago.But...It's probably not me that's going to come out of the Shinra mansion.He's going to try and show us another stupid illusion.
+See... didn't I tell you?
+...What's wrong, Tifa? I told you before, right?As long as we know that it's just an illusion, there's no need to be scared.
+Sephiroth! I know you're listening! I know what you want to say!That I wasn't in Nibelheim five years ago.That's it, isn't it?
+What you are trying to say is that you want to confuse me, right?But... even making me see those things won't affect me.I remember it all. The heat of the fire... the pain in my body... and in my heart!
+I don't want to understand.But, I want to ask you one thing. Why... why are you doing this?
+Hojo!? What does he have to do with me!?
+What's wrong, Tifa? I'm not affected by it....I wasn't paying attention to him.
+...Tifa? Is Sephiroth right?
+Why are you so scared? Don't worry about me. I'm all right.No matter how confused I am, I'll never believe a word that Sephiroth says.It's true that sometimes I can't figure out who I am.There's a lot of things muddled up in my memories.But, Tifa......But you said, 'Long time no see, ' right?Those words will always support me.I am the one you grew up with. I'm  of Nibelheim.No matter how much I lose faith in myself, that is the truth.That's why you shouldn't be so scared.No matter what anyone else says to me, it's your attitude that counts...
+What's not? Aren't I the same  you grew up with?
+Shut up... Sephiroth.
+I... should be in the picture.Even if I'm not in there, no worry. This is just an illusory world Sephiroth made up.
+...Just as I thought.This picture's a fake. The truth is in my memory....Five years ago, I came back to Nibelheim, to inspect the reactor. I was sixteen.The town hadn't changed at all. What did I do...? Oh yeah...I saw my mom. I saw the people in town.Yeah, I went to Tifa's room. There, I...I played the piano!I looked in the drawers!I read the letter addressed to Tifa!I spent the night and went to the reactor in Mt. Nibel. I was excited about it.Because that was my first mission after becoming First Class in SOLDIER.
+...SOLDIER, First Class?
+Let's go, Tifa. I'm... I'm all right.
+...don't know...This place is going to get rough.Better leave things to me and get out of here while you still can!!
+This is where the Reunion is happening. Where everything begins and ends.
+Thanks... Barret. Where's the Black Materia?
+I'll take it from here. Give me the... Black Materia.
+Thanks. ......leave the rest to me
+Everyone, thanks for everything. And... I'm sorry.
+Professor Hojo... I don't have a number.You didn't give me one because you said I was a failed experiment.
+Professor... please give me a number. Please, Professor...
+ohhh...
+Ooouugh......
+oo... uh... agh
+Uh... uh... Tifa...?Tifa...?
+Tifa!
+That's right. I'm .
+Yeah, it's been a while.
+......Yeah? It's nothing. I'm okay.
+Five years.
+What is it?
+- Buy- Get some information- Moving Chocobos- Feeding Chocobos- Mating Chocobos- Releasing Chocobos- Riding Chocobos- Do nothing
+- Feed?- Mating?- Chocobo by the fence?- Ride it outside?- What are "Classes"?- Nothing
+- Put it in- Let it go- Choose a different one
+- Put it in- Go ahead- No, don't
+- Yeah- No- Choose another one
+- Go ahead- No, I changed my mind
+- Yes- Give it a different "Nut"- Quit
+- Go ahead- No, don't
+- Giddyap!- Whoa!
+You don't know who you are?
+(no one would forget that)
+Where can we catch one?
+...... That's one right there isn't it?
+So where's this chocobo?So where can I get some of these 'Carob Nuts'?
+You probably don't remember but...How can I get one of those Chocobos?
+Uh...... aaa......?
+A...... Gurk......?
+uh...... a...... aah...............What...... What number...... am I?Uh...... aaa......?A billion mirror fragments...... small...... light......taken...... angel's...... singing voices............ zeno...... gias......Uh...... aaa......?
+......They're...... They're...... coming......!!
+Uh...... aaa......?
+(sitting by the well)That starry night at the well...... The promise we made that night...... What if that memory was all a lie?
+(sitting outside the window)............ a sealed up secret...... wish......Tender feelings...... that no one can ever know......
+The gates of Nibelheim... Five years ago, Sephiroth passed through these gates......And...... That's how it all started......
+Ummm... how 'bout your parents?
+You mean that member of SOLDIER who came with Sephiroth wasn't...... ......?
+That starry night at the well...... And our promise that night... What if the memory was just a lie?
+......I was devastated. ......I wanted to be noticed.I thought if I got stronger I could get someone to notice......
+You......
+(sitting by the well)A promise under a starry sky... But what if even that was a memory that Tifa imagined......?
+......a sealed up secret...... wish......Tender memories...... no one can ever know......
+I don't remember the path I walked.Tifa missed her step. I ran to her... but didn't make it in time.Both of us fell off the cliff.Back then, I only scarred my knees but......
+Tifa was in a coma for seven days.We all thought she wouldn't make it.If only I could've saved her...I was so angry... Angry at myself for my weakness.Ever since then, I felt Tifa blamed me...I got out of control... I'd get into fights not even caring who it was.
+That was the first time I heard about Sephiroth.If I got strong like Sephiroth, then everyone might...
+If I could just get stronger...... Then even Tifa would have to notice me......
+It's not your fault, Tifa.
+The truth is right there. We almost have the answer right in the palm of our hands.
+......The reactor......?To the reactor! The Mako reactor of five years ago!
+Za...... ck...... Zac......k. Zack...
+I saw... everything...
+Yeah......
+Yeah... This is... me.I... never made it as a member of SOLDIER.I even left my hometown telling everyone I was going to join, but...I was so embarrassed...... I didn't want to see anybody...
+I'm...
+Sorry... I didn't get there... fast enough...
+Sephiroth!!
+Uh...... Ah, Uh......!
+Yeah...... Tifa...... We finally...... meet again......
+Krgh......!
+V, voice...... Their......
+Yeah, I guess so... Come on, Tifa. Let's go home......
+Everyone...... I'm sorry. I don't know what to say......
+I never was in SOLDIER.I made up the stories about what happened to me five years ago, about being in SOLDIER.I left my village looking for glory, but never made it in to SOLDIER......I was so ashamed of being so weak; then I heard this story from my friend Zack...And I created an illusion of myself made up of what I had seen in my life......And I continued to play the charade as if it were true.
+I'm physically built like someone in SOLDIER.Hojo's plan to clone Sephiroth wasn't that difficult.It was just the same procedure they use when creating members of SOLDIER.You see, someone in SOLDIER isn't simply exposed to Mako energy.Their bodies are actually injected with Jenova cells......For better or worse, only the strong can enter SOLDIER.It has nothing to do with the Jenova Reunion.But weak people...... like me, get lost in the whole thing.The combination of Jenova cells, Sephiroth's strong will, and my own weakness are what created me.Everyone knew that. I'm...... .......the master of my own illusionary world.But I can't remain trapped in an illusion any more......I'm going to live my life without pretending.
+......I'm the reason why Meteor is falling towards us.That's why I have to do everything in my power to fight this thing.
+It's like you always told me, Barret.
+There ain't no gettin' offa this train we on!
+......I really do understand, Yuffie. When I get sick on a flight, it's a real killer.When I was in SOLDIER, I completely forgot about my motion sickness.
+Well, according to my research......First off, if you're nervous a lot, you won't get sick.But you can't always be nervous.With this much space, your best bet is to move around while you're riding.It also might be a good idea to stretch sometimes, too.But in SOLDIER, we spent a lot of time in trucks.That sucked!......And there's one thing you mustn't do when riding.And that is......Read!Once you get sick, there's nothing anyone can do.I know it's tough......
+- Yes- No
+Yeah, that's right.
+I may be mistaken, but...... Doesn't it feel like we're missing something?
+!? The Huge Materia!
+Did we make it!?
+Either give it to us or else....which is it gonna be?
+Damn! The submarine!
+Hmmmm...- Fight them- Take them prisoner
+Someone... please. I'm sorry I can't take it anymore.The lack of space, the shaking, the roar of the engine...
+Hey, you're right... I DO feel a little better driving.No sweat. Just leave everything to me.
+Well, now what?- Read the manual- Sit in the seat- Leave it alone
+Everything seems set...- Read the manual- Start the mission!
+This switch...?
+Phew--! We did it!!The Huge Materia should be at the bottom of the sea by now. Let's continue the search...
+Hmm...? ...Must be from Shinra.
+All right, I'll do it.This is Shinra No. 2... Everything's normal.
+Junon Airport... We should make it if we hurry.Forget about the Huge Materia for now.We're climbing!
+We're gettin' outta here!
+Hear that? Junon Airport!We can still get the Huge Materia back! Let's hurry!
+We're breakin' out of here!
+We're gonna hop on a torpedo and blast outta here!Don't worry! I won't miss!We don't even have a target. We're just aiming for the sky.
+Old man...
+Hmm... Junon.I'd love to get my hands on a submarine right now.
+Let's go...
+Damn, Shinra dogs!!We'll take that submarine!! Out of our way!!
+Shinra dog...!!- Ignore it- Dognap it!
+Feelin' lonely!? You'd better get back to your master.
+Shinra dog!! I'm gonna dognap you!!
+Those attackers won't bother us now.
+Hmm......- Take them all hostage- Fight them
+Be grateful. I'm taking you prisoner.
+Don't think we're weak.
+We can't go back after coming this far.
+An unconditional surrender, huh?- I'm your prisoner- Don't bet on it...
+We'll hide it somewhere secluded.
+Oh no! The Huge Materia...
+Rocket Town, of course.
+So this is the Leader Sub...Damn...... makes me sick just thinking about it...
+...Phew... That's good to hear.
+This is the Shinra's Gelnika type airplane... I wonder why it went down here?
+What is this place...? Must be some kind of a Research Establishment because there's a Mako generator?
+Turks!?
+So Shinra's new, secret weapon was on this Airship...
+This must be the Cargo Room...This is terrible... It's all messed up...
+It looks like a key to somewhere...It seems really old.
+Several thousand years... ...Ancients?
+- Go- Don't go
+......??
+(The problem starts way before his sense of humor.)
+Too bad. Those guys are over there.
+Wait a minute!
+Hey, Cid! What're you doing!?There are generations of knowledge and wisdom inside the Materia.We're gonna borrow their powers and save the planet from Sephiroth.There's no way that we can lose the Huge Materia. You understand that, right?
+But, Cid......
+...this is the end?
+...You sure?
+I finally found the Huge Materia...
+So, what order am I supposed to enter the passcode in?
+Cid!!
+...I can't go without my friends.
+I'm gonna do whatever I can.
+Rufus and the others plan was a failure...
+I've... been thinking too. About the universe... planet... ocean.How wide and big... No matter where I go and what I do it won't change a thing.
+Hey, how do we know that this is really the planet's scream?
+Bugenhagen...
+- Let's- No, let's not
+You probably just found it lying around somewhere, right?
+...What kind of price is that?- Oh, all right... I'll buy it- No, I don't want it
+- Yeah- Not interested
+- Yeah- No
+- Let me register- Tell me how to ride it- Don't do it
+Which one?
+- Yeah- I changed my mind, don't do it
+- Short-Long
+I won!!
+- Item please- I want GP
+- Yeah, gimme GP- No, I'll take the item
+I lost...
+- Let's do it- Not interested
+- Sure- Nope
+...It's similar.This place... is similar to the inside of the Lifestream....All the different noise....The noise doesn't go through your ears, but directly into your head.It seems to mean something... but I can't quite get it. I hate not knowing what it is.That's what this is similar to.
+So Aeris came here too... She stood in this exact spot...Hmm... Aeris didn't have to come here.She was able to find out all the information here.What Aeris needed was that altar... and only that.Aeris...... Aeris... What were you planning to do?What... are we supposed to do?
+- Oh yeah- No, thanks
+Yeah, that's why we came.
+That's easy enough to say... But, I can't remember a thing.
+I remember Aeris a lot.No... not that.You haven't remembered.You haven't forgotten.That's not it...How would you say it... Aeris was right there all along. Right by our side.She was so close, we couldn't see her. What Aeris did... The words she left behind...
+She said she was the only one who could stop Sephiroth's Meteor.
+That's it!!
+We don't know about it.What did Aeris know?Why did she face Sephiroth without running away?
+Oh yeah, Bugenhagen. I have one more thing I want to ask you.We're carrying around Huge Materia. This is pretty delicate stuff and we would like to keep it in a safe place...
+Huge Materia...It is glowing strangely...- Get closer...- Leave it alone- Go back down
+This color... it's the same color as magic Materia.
+This color... it's the same color as command Materia.
+This color... it's the same color as summoned Materia.
+Is that... Bahamut...?
+I'm sure she wanted to give her life for the planet...
+- Let's go!- Wait a sec......
+Are you getting something?
+Holy?
+Even us!?
+Search for Holy... How do we do it?
+...This is the end.Aeris had the White Materia...But when Aeris died, it fell from the altar...That's why...... this is the end.
+!?
+Can you read it?
+This's no time for jokes...
+There's something written in chalk... ...... (even sunlight can't reach)...... (Key)
+Key......? To what?
+So this note points to where the key is?
+A place (Even sunlight won't reach) is where the (key) is, right?
+- Okay! Let's go!- Uh, wait a sec!
+Underwater? There's... no way... We need a submarine...Wait. Submarine... I think there's one at Junon Port......
+Do you think it's......?
+Key of the Ancients...
+What does it mean?
+...It's glowing.
+...Aeris. Aeris has already prayed for Holy....After I gave up the Black Materia to Sephiroth...... Aeris' words came into my dreams...She said, she was the only one who could stop Sephiroth...... And to do that, there was a secret here...That was Holy...... That's why, she had the White Materia. Aeris knew about here... and what she had to do.Aeris has left us great hope. But, it cost her her life... her future...I'm sorry... Aeris. I should have figured this out sooner....You left us without saying a word...... It was all so sudden, so I couldn't think...That's why it took so long for me to find out... But, Aeris... I understand now.Aeris... I'll do the rest.
+Thank you... Aeris.Aeris' voice has already reached the Planet. Just look at the glow of the White Materia.But...... how about Holy? How come Holy isn't moving?Why?
+......Him......He's the only one that could do it....Sephiroth. Where are you?
+What the?
+What happened?
+Moved it? That big thing......? Where...? Why?
+And, where is that!?
+............?Wh, what the...!?
+The new weapon should stop him, right?
+Stop it!
+OK! Let's go! We'll beat Weapon ourselves!
+How would I know?But that's no reason for us to just let him go!We're goin' to Midgar and fight Weapon! Come on, let's move!
+- Okay- Excuse me, but could you wait?
+No, it's...... feeling something. ......Yeah, it senses murder.
+I see! They're after Sephiroth! The crater on the Northern boundary!
+What happened to...... Sephiroth?Northern Cave...Let's go see what happened to it.
+- Y, yeah, let's go!- U, uh wait
+Sephiroth's energy barrier is gone......Cid! Can the Airship get inside?
+Right, sorry about that.
+Can't you stop the Mako reactor?
+Must stop Hojo... first.
+I know!
+- Move it!- Wait
+Okay then! We'll parachute into Midgar!!
+Here we go!!
+Dead end!
+......
+- Okay, let's end this- No, let's not go
+.........Is it broken?'- BANG on it- Give up
+Hojo! Stop right there!!
+At least remember my name! It's !
+None of that matters... just stop this nonsense!
+Why!? Why do that!?
+...your son?
+Sephiroth is your son!?
+I can't believe you're the one who did this...The illusionary crime against Sephiroth...
+......
+Meteor's gonna fall in about......
+Nanaki......You want to see everyone in Cosmo Canyon again?
+(turning to Barret)You want to see Marlene, right?
+We'll beat Sephiroth...Then, if we don't release the power of Holy in seven days......There won't be a planet left to protect.If we can't beat Sephiroth...It's as good as death for us.We'll just go a few days sooner than the rest who'll die from Meteor.
+No!What I meant was...What are we all fighting for? I want us all to understand that.Save the planet... for the future of the planet... Sure, that's all fine.But really, is that really how it is?For me, this is a personal feud.I want to beat Sephiroth. And settle my past.Saving the planet just happens to be part of that.I've been thinking.I think we all are fighting for ourselves.For ourselves... and that someone... something... whatever it is, that's important to us.That's what we're fighting for.That's why we keep up this battle for the planet.
+Go and see her. Make sure you're right, and come back.All of you. Get off the ship and find out your reasons for yourselves.I want you to make sure. Then I want you to come back.
+I know why I'm fighting.I'm fighting to save the planet, and that's that.But besides that, there's something personal too...A very personal memory that I have.What about you all?I want all of you to find that something within yourselves.If you don't find it, then that's okay too.You can't fight without a reason, right?So, I won't hold it against you if you don't come back.
+What are you going to do, Tifa?
+Yeah, we don't have anywhere or anyone to go home to.
+Hmm... I wonder...?Everyone has an irreplaceable something they're holding on to...But this time, our opponent...
+.........Tifa......
+Yeah... At that time I heard you calling me.You were calling me back from the stream of consciousness in the Lifestream.After all, I promised. That if anything were to ever happen to you, I would come to help.
+I dunno... But...Whether they are or not, we still have to do what we can. And believe in ourselves...Someday we'll find the answer. Right, Tifa?That's what I learned from you when I was in the Lifestream.
+Hey Tifa...... I...... There are a lot of things I wanted to talk to you about.But now that we're together like this, I don't know what I really wanted to say...I guess nothing's changed at all... Kind of makes you want to laugh...
+............
+............It's almost dawn...
+Sorry. Did I wake you...? It's almost dawn, Tifa.
+Yeah... okay.This is probably the last time we'll have together......
+I see......I think I've heard about it, too.At that time, it was Tifa's voice......
+I dunno... But...Whether they are or not, we still have to do what we can. And believe in ourselves...I'll find the answer someday. As long as I keep trying.
+We've got a big battle tomorrow, we'd better get some sleep...
+............It's almost dawn...
+Morning, Tifa. It's almost dawn...
+............
+We'd better go.
+It's all right, Tifa. You said so yourself yesterday.At least we don't have to go on alone.
+Okay! Let's go!
+Don't worry. It'll be okay.I'll make a big enough ruckus for everyone.Besides, I'm the pilot.No more flying around casually like before.We won't have time to feel lonely.
+It's moving......
+Barret! Cid!
+Nanaki!
+Vincent!
+No, it's just that you're always so cold. I thought you didn't care what was happening.
+Welcome back, Yuffie.
+Thanks everyone.
+......Aeris.She was smiling to the end.We have to do something, or that smile will just freeze like that.Let's all go together.Memories of Aeris......Although she should've returned to the planet by now, something stopped her and now she's stuck......We've got to let go of Aeris's memory.
+I'm counting on you, Cid.
+This is our last battle.Our target is the North Cave. Our enemy is...... Sephiroth!So let's move out!
+We're almost to the North Cave! We're on our way, Sephiroth!
+What is it, Cid?
+Nanaki... Is Bugenhagen...?
+Away...?
+Hmm... So maybe we'll run into him again somewhere.
+I've heard this melody somewhere before. Managed to play well...
+.........
+.........
+u... uhhh......
+...Ah... ughhhh......
+- Trade- Don't trade
+- Trade
+- Trade
+- Say it cool- Say it normal- Don't say it
+It's all right, Tifa.
+...It's all right.
+...I just can't say it that easy.
+- No- Yes
+What is it?
+Forget it, I'm not even gonna read it.Whenever I read, I get airsick.
+Looks like we can only slide down.- Alright, let's go!- We'll get prepared first
+The road splits into two. We'll split into two groups.
+- Left- Right
+Now don't any of you die on me.......Gotta get through to Sephiroth!
+This will be the end of it!
+We'll leave this to [name].
+Another fork in the road...
+Wait! Sephiroth...
+Where's [name] and the others...?
+This is the center of the Planet...?
+- Let's get going- (No, not yet...)
+All right, everyone, let's mosey.
+Move out!!
+I'm fighting here too.
+All of you!Later!
+Where are we...?
+Jenova...!?It's coming!!
+Li...... ight......A light...Is this......Is this light...... Holy?
+Barret!? | Tifa!? | Cid!?
+...Sephiroth!!
+Ugh... ugh...
+...there...It's...... there...
+...Holy...... Holy... is there......The Holy is shining......Aeris's prayer is shining......!
+It's not over yet... This isn't the end yet!!
+- Let's go everyone...!- Just one more time...!
+Aeris's memories... Our memories...We came... to tell you... our memories... Come Planet! Show us your answer!And Sephiroth!! To the settling of everything!!
+This is all we could do.
+That... I don't know. Isn't the rest up to the Planet?
+All right, everyone.It's no use thinking about it.We'll leave all our worries here.Let's go home proud.
+......I feel it...
+He is still...... here.
+Still......
+He's... laughing...
+.........Lifestream?
+......I think I'm beginning to understand.
+An answer from the Planet...the Promised Land...I think I can meet her...there.
+Hey, where is everyone?
+......Lifestream.

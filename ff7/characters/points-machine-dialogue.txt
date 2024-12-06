@@ -1,0 +1,2 @@
+Welcome. You currently have X battle points.Would you like to exchange them?
+Thank you very much. Please remember, your battle points become invalid once you leave the Battle Arena.
